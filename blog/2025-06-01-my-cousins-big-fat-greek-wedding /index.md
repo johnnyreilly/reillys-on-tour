@@ -3,6 +3,7 @@ title: "My Cousin's Big Fat Greek Wedding"
 authors: johnnyreilly
 tags: []
 image: ./hard-rice-rain.jpg
+description: "The wedding of my cousin Dominic to Eleni in Crete. A wedding of two cultures, with a lot of food, dancing and a microphone wielding Peter."
 hide_table_of_contents: false
 ---
 
@@ -10,7 +11,7 @@ hide_table_of_contents: false
 
 It was a warm day in Crete. By warm, I mean 38 degrees Celcius. Classic British understatement really; it was, in point of fact, unconscionably hot.
 
-The wider Reilly family had been landing in Crete in preparation for Dominic's wedding to Eleni. Dominic is my cousin, the eldest child of Frances and Jim. Frances is the youngest sister of my mother Ann. To Fran's great delight, Frances is closer in age to me, than to her oldest sister / my mother. For Catholic reasons.
+The wider Reilly family had been landing in Crete in preparation for Dominic's wedding to Eleni. Dominic is my cousin, the eldest child of Frances and Jim. Frances is the youngest sister of my mother Ann. To Fran's great delight, Frances is closer in age to me, than to her oldest sister / my mother.
 
 Dom, who's birth I discovered from a note pinned to my bedroom door at university, was due to marry a girl named Eleni who was a Cretan. For clarity, let me say that this is not some sly dig, rather, if you are from Crete, it turns out you are a "Cretan". As a lady named Cassandra explained "yes, we know what it sounds like, but that is what we are". I appreciated that they refused to be bowed by any attempt at mockery at their chosen name and effectively said "no, this is ours".
 
@@ -27,6 +28,10 @@ The nature of the service was different as well. In the UK, you show up at a chu
 In Crete, it's a little different. There's a few chairs laid out, but these aren't for everyone, more for those who really need to sit. Everyone else stands around at varying distances from the ceremony that is taking place. And there's a lot more people. So many that if you're further back, you probably don't really know what's going on. And that appeared to be fine. In fact, for some people it seemed that whilst they were happy to be here for the wedding, paying close attention to the ceremony did not appear entirely necessary. They weren't exactly second screening the wedding. It was more like "yes there's a wedding, but there's other things happening too - I haven't seen this guy in, oooh, weeks!"
 
 The wedding service was conducted in, I assume, Greek. Whatever happened, I didn't really understand it. It was, as they say, "all Greek to me". I think it was a Greek Orthodox wedding, looking at the outfit of the priest and the paintings of icons in the chapel. Dominic is Catholic, and whilst Catholic and Greek Orthodox have differences, there's a lot more that unites them rather than divides them.
+
+It wasn't just the people there taking in the ceremony that evening. Pat, younger sister to my mother and older sister to Frances, was with us in an online sense. David, my brother, had kindly dialed her in from her convent in the UK, so she could watch.
+
+![A screenshot of Pat watching the wedding on a WhatsApp video call](pat-watching-the-ceremony.jpg)
 
 The priest was a bearded chap, with a full head of hair and an impressive gown. To my great surprise, he appeared to be the older brother from another mother of one of the curates of my own church back in Twickenham. I took the opportunity to let the Anglican priest in England know I'd encountered his probable relative near Heraklion. He pondered it may actually be him in future, suggesting he has some knowledge of time travel and flexibility in theology which hadn't hitherto come through in his sermons.
 
