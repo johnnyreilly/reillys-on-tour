@@ -30,15 +30,13 @@ The wedding service was conducted in, I assume, Greek. Whatever happened, I didn
 
 The priest was a bearded chap, with a full head of hair and an impressive gown. To my great surprise, he appeared to be the older brother from another mother of one of the curates of my own church back in Twickenham. I took the opportunity to let the Anglican priest in England know I'd encountered his probable relative near Heraklion. He pondered it may actually be him in future, suggesting he has some knowledge of time travel and flexibility in theology which hadn't hitherto come through in his sermons.
 
-Pic here
-
 Hurling of confetti or rice is something that appears to be shared across the cultures. Towards the end of the ceremony, a large bowl of rice went around the crowd, from which everyone took a handful. Someone said the Greek equivalent of "at my signal, unleash hell" and the bridal party, who were processing around the table where the service was conducted, began to be pelted with the hard rain of uncooked rice. What started as entertainment to me, mutated into genuine concern. The rice being used was risotto style and the grains were quite circular. I feared if we were using basmati we could have had someone's eye out. The priest had wisely decided that the magnificent Bible being used in the ceremony, could do double duty as a makeshift umbrella. Not his first rodeo.
 
-Pic here 
+[The couple and the priest rounding the table whilst being pelted with rice](hard-rice-rain2.jpg)
 
 With the ceremony complete, the wedding moved into a large garden and the eating and drinking began. Greeks like to eat. I thought I liked to eat, but I now realise I don't even feature on the leaderboard. It was explained to us that a flock of sheep, belonging to Eleni's family, had been executed and roasted for us that day. We had seen racks of meat roasting in the corner when we first arrived.
 
-Pic of lamb roasting 
+[Lamb roasting on an open fire](lamb-being-roasted-on-an-open-fire.jpg)
 
 So we ate, sat in the open air. It was dark by now, and we couldn't always tell what we were eating. But it was great. We ate more. Then more. Curiously, we hadn't eaten any lamb. Unless it was disguised perhaps? But whatever we had eaten, it had been fantastic, and very satisfying. As we sat back and focused on digestion, Jim (Dominic's father) approached. 
 
@@ -58,7 +56,7 @@ Towards the end of their display, everyone was invited onto the dancefloor to do
 
 The male members of the family were all gifted traditional Cretan wedding scarves called Sarikis. If you can imagine the scarf worn by scouts, but rendered as a decorative string vest with tassels, that's roughly what they were. If you look at this picture of my father, you can see what I mean.
 
-Pic of dad
+[Dad dressed in a sariki](dad-in-his-sariki.jpg)
 
 The traditional music gradually shifted to more modern music. Well, Abba. It was at this point we became aware that my youngest brother Peter had somehow acquired a microphone.
 
