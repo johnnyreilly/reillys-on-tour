@@ -3,11 +3,13 @@ title: "Mum and Dad's 40th Wedding Anniverary"
 authors: johnnyreilly
 tags: [Mark and Ann's 40th Wedding Anniverary]
 hide_table_of_contents: false
+slug: mum-and-dads-40th-wedding-anniverary
 ---
 ![](2013-07-20+12.15.20.jpg)
 
 On the occasion of Mum and Dad's 40th wedding anniversary I was prompted into making a speech. Not my natural thing really but it went okay - give or take a little (welcome) heckling from various Aunties present... I thought I'd put the notes of the speech up here - they're pretty much left as I had them on the day and you'll notice the occasional PROMPT FOR ME TO ASK THE PEOPLE PRESENT SOMETHING in caps. This is the speech:
 
+slug: mum-and-dads-40th-wedding-anniverary
 ---
 
 Thanks for coming to Mum and Dad / Ann and Mark's 40th wedding anniversary. I've been asked if I'd say a few words. I wanted to talk about how we came to be here. How Mum and Dad came to be the people they are.

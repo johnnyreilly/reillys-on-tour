@@ -3,6 +3,7 @@ title: "What would Phileas Fogg do?"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: what-would-phileas-fogg-do
 ---
 It is June 2022. COVID hove into view back in early 2020 and radically adjusted all our lives. Part of that was the ability (and ease) of travelling abroad. Like so many, the Reilly family were effectively grounded since then. We have made trips, but we never left England.
 
@@ -36,6 +37,7 @@ After some time the youth was eventually persuaded (with a complete lack of grac
 
 All things considered, I was pleased. I remained gently swinging from the handrail as the bus continued rounding roundabouts.
 
+slug: what-would-phileas-fogg-do
 ---
 
 The campsite we were staying on was named "Camping Village Garden Paradiso". Unlike your most basic of campsites which can be little more than a field with questionable plumbing, CVGP (as no-one called it) was a vast estate. It boasted not only a beach, but a swimming pool with multiple waterslides, a supermarket and a kind of town square complete with shops, restaurants and a stage where nightly shows would be performed. In addition, there was a resident glassblower from Murano who did daily demonstrations of the art of getting glass really hot, and then shaping it into miniature animals and the like. The campsite even had a "feeling spa" where it was possible to have "emotional showers". We never quite plucked up the courage to discover what those were.

@@ -3,6 +3,7 @@ title: "Elvis At Last"
 authors: johnnyreilly
 tags: [elvis, devon, farm]
 hide_table_of_contents: false
+slug: elvis-at-last
 ---
 The Reillys had set out on their summer holidays. Benjamin, James and the Reilly parents were going to stay with some friends on a working farm in rural Devon. The farm was proudly carbon-neutral; it generated electricity and had its own water supply. This was a holiday that could only be more middle class if they breastfed the livestock hummus.
 

@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 image: ./PXL_20240810_103313096.jpg
 hide_table_of_contents: false
+slug: be-ye-here
 ---
 Working out where to go on holiday has always seemed like slightly hard work. How do you choose? Do we go to Italy? We've been before. Do we go to France? They'll only want us to wear Speedos at the swimming pool. So where shall we go?
 
@@ -17,6 +18,7 @@ But it's not so far from England to Ireland. If you look at the globe, Britain i
 
 But somehow, in the time from leaving the M25 behind us, boarding the ferry in Liverpool, going to sleep and waking up in Belfast, we'd dropped from a sunny 31 degrees to a rainy 17 degrees. Baffled but optimistic, the Reilly family began their holiday.
 
+slug: be-ye-here
 ---
 
 The plan was a holiday of two halves. After popping in to meet our friend Una and the baby in Belfast, we'd head North to base ourselves in Portrush and tour around the top of Ireland for three days. Then we'd head down to Enniskillen and stay in a big house on Lough Erne with Una, Kelvin, the baby plus our other friend Conor and his boys.
@@ -25,6 +27,7 @@ The plan was a holiday of two halves. After popping in to meet our friend Una an
 
 We found ourselves roaming around and visiting sites like the Giant's Causeway (or as we came to think of them: the tremendous volcanic hexagons). We stopped the car at the side of the road when we saw people pointing out at the water, and got to see a pod of dolphins playing in the water. We headed to the Carrick-a-Rede rope bridge that allows you to sway over to a island covered in birds, which looks out towards the Scottish island of the Mull of Kintyre. I hadn't realised just how close to Scotland, Ireland is.
 
+slug: be-ye-here
 ---
 
 There's something inherently exciting about a boat trip. I have always loved the notion of getting away on the water. I would have made a great pirate. We discovered there's an island to the North of Ballycastle named Rathlin Island. It's a place to see puffins and to walk. It sits only 11 miles from the Scottish island of the Mull of Kintyre.

@@ -3,6 +3,7 @@ title: "Father's Day Advice"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: fathers-day-advice
 ---
 When I was 16 years old, my father gave me a piece of advice that dramatically changed me. His advice changed my interactions with the world. I rather doubt he thought it would have such impact, but change me it did.
 

@@ -3,6 +3,7 @@ title: "Four go to Cornwall"
 authors: johnnyreilly
 tags: [portscatho, hidden hut, cornwall]
 hide_table_of_contents: false
+slug: four-go-to-cornwall
 ---
 Lisette and I have proven ourselves incapable in the "booking holidays" category of competence. After months of attempting to find something we realised we'd fallen at the first hurdle by failing to do the requisite planning-one-year-in-advance. This is alas mandatory now Benjamin is in school and restricting our holiday times to select high priced periods. Why did he have to grow up?
 
@@ -34,6 +35,7 @@ James is very hot on outlawing perceived blasphemy these days.
 
 So finding myself front bumper to front bumper with a Land Rover, on a road without passing space, jolted me somewhat from my happy place. During the tense standoff with the other car, I pondered whether car technology had moved on significantly since I'd last checked. There's an awful lot talked about driverless cars and drones these days. Perhaps there was a "flight mode" for our Vauxhall Insignia that I had hitherto not noticed? I inspected the dashboard optimistically, searching for a button I hadn't yet pushed. The other vehicle eventually tired of my misguided wonderings. It reversed to a passing point. We edged past it and onwards to glory. And Portscatho.
 
+slug: four-go-to-cornwall
 ---
 
 Portscatho is a beautiful village on the the East coast of the Roseland Peninsula. It slants down a hill which means at almost any position you can look out to sea. And being East facing, the sun rises above the bay each morning, looking for all the world like a megawatt-bulb Zeppelin. The village contains a pub, a butcher, a couple of shops and the harbour club which doubles as the local cinema on Monday nights. The small harbour is populated with motorboats sat just inside a stone quay which juts out into the sea. Children can occasionally be found hurling themselves off the end of the quay, enacting a worrying local tradition. Apparently it's safe as long as there's no more than 4 flagstones depth to jump. More than that and legs might be broken. Ah tradition!

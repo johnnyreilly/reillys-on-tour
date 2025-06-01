@@ -3,6 +3,7 @@ title: "Oh I wish I spoke Spanish..."
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: oh-i-wish-i-spoke-spanish
 ---
 Because then I wouldn't feel so bad....
 

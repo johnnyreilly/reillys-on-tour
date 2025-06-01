@@ -3,6 +3,7 @@ title: "So Benjamin, How do you Feel?"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: so-benjamin-how-do-you-feel
 ---
 Miss Rachel at Nursery had a grand idea. She would give Benjamin a number of words and ask him how he felt about them. So she did. As Benjamin responded she diligently scribed away the results and presented Lisette with this at the end of the day:
 

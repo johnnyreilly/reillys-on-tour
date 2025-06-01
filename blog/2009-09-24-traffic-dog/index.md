@@ -3,6 +3,7 @@ title: "Traffic the Dog"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: traffic-dog
 ---
 Dear all, Never ones to sit back and relax, Lisette and I have been busily exerting ourselves in Santorini. It's a good way to break up the mealtimes. The most ambitious activity so far has been a hike from our digs, halfway up the island on the West side, to "Oia" - a town at the North-West tip of Santorini. Looking at the map on the morning before the hike we scoffed at what a short distance it was and made plans to complete said journey in under 2 hours. This was not to be. ![](DSCF4772.JPG)
 

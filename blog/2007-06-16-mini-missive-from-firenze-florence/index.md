@@ -3,6 +3,7 @@ title: "Mini missive from Firenze (Florence)"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: mini-missive-from-firenze-florence
 ---
 Hi All,
 

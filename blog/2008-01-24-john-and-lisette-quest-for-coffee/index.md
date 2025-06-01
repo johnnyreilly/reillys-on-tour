@@ -3,6 +3,7 @@ title: "John and Lisette: The Quest For Coffee Continues..."
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: john-and-lisette-quest-for-coffee
 ---
 But not for much longer! Currently a major component of the day still involves the seeking out of good coffee wherever we might be. Much as Indiana Jones seeks out historical treasures, I seek quality beverages! Rather than the standard coffee that I go for at home I´ve been instead imbibing iced coffee by the bucketload - partly for the heat and partly for this is truly the elixir of the annointed! To give you some idea of the affection in which I hold this drink I should say that I type these words in a cafe in which I have so far consumed 4 Cappucino Frio\`s today. Ahhhh, life is good! ![](DSCF2818.JPG)
 

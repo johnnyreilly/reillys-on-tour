@@ -3,6 +3,7 @@ title: "The Return of the Flying Scotsman"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: the-return-of-flying-scotsman
 ---
 On Friday night I went to the cinema and saw T2: Trainspotting with a mate. I loved it; for my money it's a wonderful film. Albeit one with a terrible name. I put it to you my alternative title is better... Ish.
 
