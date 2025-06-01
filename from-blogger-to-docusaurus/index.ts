@@ -104,9 +104,8 @@ async function getPosts(): Promise<Post[]> {
       ) &&
       entry.link.some(
         (link: any) =>
-          link.attr['@_href'] && link.attr['@_type'] === 'text/html',
-      ) &&
-      entry.published < '2021-03-07',
+          link.attr['@_href'] && link.attr['@_type'] === 'text/html' && link.attr['@_rel'] === 'alternate',
+      ),
   );
 
   const posts: Post[] = postsRaw.map((entry: any) => {
@@ -116,11 +115,11 @@ async function getPosts(): Promise<Post[]> {
       published: entry.published,
       link: entry.link.find(
         (link: any) =>
-          link.attr['@_href'] && link.attr['@_type'] === 'text/html',
+          link.attr['@_href'] && link.attr['@_type'] === 'text/html' && link.attr['@_rel'] === 'alternate',
       )
         ? entry.link.find(
             (link: any) =>
-              link.attr['@_href'] && link.attr['@_type'] === 'text/html',
+              link.attr['@_href'] && link.attr['@_type'] === 'text/html' && link.attr['@_rel'] === 'alternate',
           ).attr['@_href']
         : undefined,
       tags:
