@@ -2,7 +2,7 @@
 title: "My Cousin's Big Fat Greek Wedding"
 authors: johnnyreilly
 tags: []
-image: ./PXL_20240810_103313096.jpg
+image: ./hard-rice-rain.jpg
 hide_table_of_contents: false
 ---
 
