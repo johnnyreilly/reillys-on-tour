@@ -44,6 +44,8 @@ So we ate, sat in the open air. It was dark by now, and we couldn't always tell 
 
 Gamopilafo is also known as "Cretan Wedding Rice".  It's lamb which has been roasted, and rice and pasta which has been cooked in the stock of the lamb, with lemons. It's kind of a brothy risotto and it is fantastic. As it arrived we reached down to our reserves of eating space, and tucked in. Gosh it was good. 
 
+![a photograph of one of the tables at the wedding](wedding-feast.jpg)
+
 We ate what we could, then sat back. Overwhelmed. I was mulling how many belt buckles a man could go down. Much food was subsequently removed from the table. As Jim had predicted, then came the mutton course. I think it was called Antikristo.
 
 We tried a forkful. It was exceptional. Such a shame then that there was no way we could have much more. In the end, we sat there staring at the meat, occasionally stirring and chopping and consuming a mouthful. Each time it was a reminder that a mouthful was too much. We couldn't eat more. We felt meat guilt as they belatedly took away plates which must have contained nearly the same amount of meat as they arrived with. 
@@ -81,3 +83,4 @@ Elsewhere, the younger children were now exhausted. Accustomed to being in bed b
 
 My parents and Peter and his son Joseph decided to join us. Eight of us sped along the darkened Cretan roads headed back to our hotel. It had been an incredible night. 
 
+![a panaroma of the wedding feast](the-wedding-feast-panorama.jpg)
