@@ -3,6 +3,7 @@ title: "Boyhood"
 authors: johnnyreilly
 tags: [Boyhood]
 hide_table_of_contents: false
+slug: boyhood
 ---
 I just cried. I'm not an especially tearful person for the most part so that was kind of odd.
 

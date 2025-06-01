@@ -3,6 +3,7 @@ title: "Beware Fake Monks"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: beware-fake-monks
 ---
 
  ... read the sign on the restaurant wall. Not the sort of thing you'd see at home. It turns out that Thai people have a very strong affection for the orange robed Buddhist monks that roam the streets and pretty much venerate them. Monks don't queue as a general rule of thumb, they have reserved areas in airports and are given the best seats on planes and, that weren't enough, they are given money by the locals on the street. The upshot of this is the modern day occurrence of fake monks; tribute monks if you will. People who purport to be monks (shave their heads and wear orange) so they can experience the benefits. Hence the government is now warning tourists not to be taken in. But apart from saying "Beware Fake Monks" they haven't really provided any guide on how to pick them out. Lisette suggests keeping eyes open for monks ordering steak, smoking and swigging beer but we've had no takers on that front so far. Sneaky monks. (Or genuine - we don't know anymore) Did think we had one possibility at the airport earlier; saw a guy with a noticeably recently shaved head and wearing brown robes. Either he wasn't trying when out buying his robes or possibly when back at home and not faking a monk he put his then-orange robes in the washing machine on a "darks" load - with unfortunate consequences.... ---

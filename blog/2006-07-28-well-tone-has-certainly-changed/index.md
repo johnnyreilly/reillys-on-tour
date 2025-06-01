@@ -3,6 +3,7 @@ title: "Well the tone has certainly changed!"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: well-tone-has-certainly-changed
 ---
 Hola Amigos! Well, last time I mailed you it was from the comfy environs of Antigua where pelicans woke us each morning as they fished for food outside our villa. Times have changed! We left Antigua after a week, handed in the keys and caught a plane to Puerto Rico. Pleasant enough place, despite it being officially a "US territory" not that many people speak English (problem since that´s all we can speak!) Despite that we packed in some fun-filled adventures: 1. we explored "Old San Juan" - a very picturesque place
 2. we hiked through a rainforest

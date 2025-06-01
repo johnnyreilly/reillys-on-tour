@@ -3,6 +3,7 @@ title: "A Good Kicking"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: good-kicking
 ---
 I have little, in fact no, tolerance left for young women who sit with their legs crossed on public transport. Why they do it is beyond me - surely they know they are taking up more than their allotted space when they do so? I mean, i'd be bound to notice if i spent 50 minutes kneeing the person in front of me in the back and non-stop kicking the person next to me with every vibration of the bus - wouldn't you? It's as if they are completely unaware of their own bodies from the ankles down. Give me strength. (By the way apologies if you believe I am unfairly maligning the good name of "young women" - it is just that I havent yet encountered any men / older women / boys / girls / dogs / cats that exhibit the same objectionable behaviour) ![](DSCF2493.JPG)
 

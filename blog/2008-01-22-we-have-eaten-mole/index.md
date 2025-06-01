@@ -3,6 +3,7 @@ title: "We have eaten mole!"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: we-have-eaten-mole
 ---
 But fear not you "Wind in the Willows" fans out there - "mole" as far as the Mexican people are concerned has nothing to do with cute brown burrowing creatures... Rather it´s a thick sauce that is poured liberally over tortillas. For added differentiation it's also pronounced "molay". So we've had endless fun repeating "moly moly moly moly" whilst sporting makeshift beauty spots constructed of compressed bread. Keeps us entertained. Surprisingly it (mole) tastes like chocolate. This is because it´s made of chocolate (amongst other things) - unusual in a main meal but very nice indeed. We´ve never quite got to grips with our jet-lag on this trip - mainly as I´m firmly convinced that Mexicans have got it dead wrong time-wise. The sun rises at about 5am. Early. However it sets at 5pm... Too early to my mind. I think personally that they should take a "let´s maximise the sun" approach to their lives and switch the clocks accordingly. Given that I don´t speak Spanish and I don´t know who to ask I´m still none the wiser as to their reasoning. We've decided that we want to see as much sun as possible and so we're early to bed and early to rise as a consequence. (Am also vaguely mindful of Dad's saying that "early to bed and early to rise makes a man healthy, wealthy and wise" - not sure if there's anything in that or if he just liked the feel of the phrase on his tongue...) ---
 

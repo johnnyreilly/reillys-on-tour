@@ -3,6 +3,7 @@ title: "Requiem in Crossbush"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: requiem-in-crossbush
 ---
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8EDJegsWvYsnhX83ShgW4L5xRu06BDbQvOPZsM_75WpR2pCVkLnXgCVMmI-FrVHsg75IZQ8pHw4HOKgoe4f9wnxrXrdpk1HrtzHV9bFYNyKdQhnvVq1Q3pnSCVXPFeEkDxW9JmrN3Hg/s640/IMG_20200313_111700.jpg)
 
@@ -46,6 +47,7 @@ The hole had already been dug. Across it lay two wooden struts which supported t
 
 The church bells rang out.
 
+slug: requiem-in-crossbush
 ---
 
 The wake took place in a pub in Henfield. Everyone gathered. And drank. And ate. And talked.

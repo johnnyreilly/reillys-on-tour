@@ -3,6 +3,7 @@ title: "Sunshine and Kings"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: sunshine-and-kings
 ---
 The difference between Spanish winter and British is not really temperature. A mild British winter day isn't significantly colder than Spain. The difference is light. Winter or summer, there is a lot more light to go around in Mallorca than in London. Lisette, Benjamin, James and I are staying in Palma visiting family. The day we arrived was not auspicious; it was overcast and stormy. The next day however, well... As I looked around I realised I was squinting. The light was too strong. I haven't squinted in London since October.
 
@@ -26,6 +27,7 @@ With all this in hand, the world is less scary. (Or considerably more so if you'
 
 So on balance, I'm really pleased that Google got good at running my life in the last couple of years. I'd be lost without them. Quite literally. Let's hope they don't turn evil.
 
+slug: sunshine-and-kings
 ---
 
 I have this Dickensian ideal of Christmas. I know that the first Christmas happened in a hot country (and more likely in September than December). But I don't care. Actual facts be damned. To me, the person who really "got" Christmas was Charles Dickens. Christmas is supposed to happen in a snow covered London. Where there are snug pubs, mulled wine, minced pies, roasted big birds, carol singing, big Christmas trees, churches, Victorian waifs and strays - this chap called it right! (OK - the child poverty I can live without.)

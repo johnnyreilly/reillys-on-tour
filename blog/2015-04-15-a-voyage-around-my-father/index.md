@@ -3,6 +3,7 @@ title: "A voyage around my father‏"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: a-voyage-around-my-father
 ---
 My name is James Edmund Reilly. Hullo there! You seem a little bored. No matter; I have the remedy. Let me tell you about how my holiday began.
 

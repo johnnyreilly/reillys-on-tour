@@ -3,6 +3,7 @@ title: "FREEDOM!!!!!! ..."
 authors: johnnyreilly
 tags: [Freedom, George Michael, Sicilians, Arancini]
 hide_table_of_contents: false
+slug: freedom
 ---
 "... I won't let you down ... **FREEDOM!!!** I will not give you up... **FREEDOM!!!** Gotta have some faith in my sound... **FREEDOM!!!** " One thing I find fascinating about travelling around is the contrasts that you observe between different cultures. I’m not a believer that national stereotypes are the whole truth about a society but there generally seems to be some reality in amongst the myth. Take “FREEDOM!!!”. We were in the process of inquiring about a trip to Stromboli (an active volcanic island) from a man who looked uncannily like George Michael in his first post-Wham days (mirror sunglasses; the whole shebang). He was, by any stretch of the imagination, an ebullient and noisy character. I liked him instantly. During his description of how the trip might pan out he wanted to illustrate to us that during the day we would have “free time” and indeed “freedom to wander” on Stromboli. Isn’t it obvious that the best way to communicate this to us would be via a capella version of George Michael’s “Freedom ‘90”? Say what you like but it seems unlikely to me that people offering tours of the Scottish Islands are flogging their trips in a comparable fashion. ![](coffee.jpg)
 

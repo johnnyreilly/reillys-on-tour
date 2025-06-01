@@ -3,6 +3,7 @@ title: "The First Day of School"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: the-first-day-of-school
 ---
 It was a warm Thursday morning. Despite it being mid-September and the beginning of autumn it still felt summery. Just another day of sunshine.
 

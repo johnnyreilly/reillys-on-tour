@@ -3,6 +3,7 @@ title: "Dispatches from the Front"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: dispatches-from-front
 ---
 One love people.
 

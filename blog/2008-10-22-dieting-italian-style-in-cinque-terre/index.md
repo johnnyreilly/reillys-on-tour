@@ -3,6 +3,7 @@ title: Dieting Italian style in the Cinque Terre (Only Mad Dogs and Englishmen..
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: dieting-italian-style-in-cinque-terre
 ---
 We have arrived in the Cinque Terre which is on the North West coast of Italy. The direct translation is "Five Towns" and the idea is that you stroll / hike from one town to the next marvelling in the sights of the sea and the beauty of the towns. And the towns are lovely - it is as if Walt Disney came here 80 years ago to get his ideas of what fairy castles etc should look like. ![](cin49.jpg)
 

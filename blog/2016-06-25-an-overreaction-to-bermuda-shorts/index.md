@@ -3,6 +3,7 @@ title: "An Overreaction to Bermuda Shorts"
 authors: johnnyreilly
 tags: [Nantes, Pornic, Priou]
 hide_table_of_contents: false
+slug: an-overreaction-to-bermuda-shorts
 ---
 It is a truism that there are holidays it is a pleasure to go on and holidays that make you appreciate home. We have just returned from France where we chose to stay on a French-only campsite, miles from the nearest town, where there was no public transport and (crucially) without any transport of our own. For the first half of the holiday we seemed likely to be falling into the second holiday category. We piled misjudgement upon unbelievably bad weather upon sickness upon unavailable taxis until we made manifest a teetering blancmange of calamity.
 
@@ -14,6 +15,7 @@ The rumours that the French had outlawed Bermuda Shorts seemed unlikely to have 
 
 In response, in a rare moment of weakness, I yielded. I purchased one of the (to me) offensive, yet (to the country of France) curiously approved of, items of swimwear. The sort in which no-one, save an Olympic swimmer, actually looks good. Mercifully I was then struck down with a vicious cold that incapacitated me and forced me to lie in a darkened room for several days, thus preventing me taking my plans any further. I feel the universe was staging an intervention. Quite right too.
 
+slug: an-overreaction-to-bermuda-shorts
 ---
 
 I can't say why but at moments of linguistic failure I am filled with a profound certainty that everyone can speak English if they just reach deep within themselves and try. Alas, disappointingly often, the bounders disabuse me of this notion.
@@ -22,6 +24,7 @@ My approach when abroad has rarely, to my shame, been learning the language. I f
 
 This was never more obvious then when I encountered an older French man as I was lugging shopping bags of sustenance back from the delightful La Bernerie-en-Retz. 20 minutes after my initial encounter, this 80 year old fellow was still regaling me with hearty tales of love, lust and life. Probably. In all honesty he may have been telling me that galettes just aren't up to much these days. At any rate there was a great deal of nodding, pointing, handshaking and belly laughing as I tried (and failed) to extract a mere word of English. I have not the first clue what we discussed. But it was **awesome**.
 
+slug: an-overreaction-to-bermuda-shorts
 ---
 
 My mother-in-law (who is French) moved from Nantes to Newcastle back in the 70's. (You may be aware that it is from Newcastle that Lisette hails. She occasionally hints at this.) Anyway, Annie went through something of a culture acclimatisation as part of her arrival in Geordieland ("God's own country"). She tells the tale of when she was feeling low and homesick. She happened upon a Gregg's, an institution which you might imagine would not lift the spirits any further. However on this occasion it offered A New Hope. Pain au Chocolat! That greasy mix of pastry and chocolate which is a comfort on a dark day. She wasted no time in "pain"-ing herself up. And as she reached that fatty salvation to her lips she made an important discovery: in a certain light what may appear to be pain au chocolat will emerge to be a sausage roll.

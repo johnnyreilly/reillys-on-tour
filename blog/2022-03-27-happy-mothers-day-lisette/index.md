@@ -3,6 +3,7 @@ title: "Happy Mother's Day Lisette!"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: happy-mothers-day-lisette
 ---
 My dear Lisette,
 

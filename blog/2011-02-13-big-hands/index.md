@@ -3,9 +3,11 @@ title: "Big hands"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: big-hands
 ---
 So the flames licked up the side of the building and smoke billowed like billy-o. The people up and down the street turned, pointed and stared and the restaurant where Lisette and I had eaten our first meal in Bangkok was consumed by fire. Yup, Lisette and I are on holiday and appear to be blazing a trail in a more literal sense than usual. We are currently resident in Bangkok and making plans to head North to Chiang Mai.
 
+slug: big-hands
 ---
 
 I love my wife.
@@ -18,6 +20,7 @@ Anyway, since I was on my tod I decided to watch a film. I opted for "Never Let 
 
 I couldn't help it. I commend this film to you. Watch it. It's the kind of film that leaves you grateful for the blessings you have and grateful that you are loved and have someone to love. I'm still affected now I think.
 
+slug: big-hands
 ---
 
 This morning we ventured out with Lisette's "Rough Guide to Thailand" which was published in 1997. This makes it practically an antique and nearly nothing in it is true anymore. There's the occasional sentence in it which gives it away; phrases like "tsunami's have never troubled Thailand" and "here be dragons".
@@ -26,6 +29,7 @@ We made our way across town in a taxi (and Steve if you're reading this you'll b
 
  - pretty much the only English word he knew besides "Premiership") and visited the Christ Church Bangkok. There is something wonderful about being on the other side of the world and meeting people who look nothing like you but with whom you have something in common. The church was somewhat surprisingly led by lovely man of Essex called Peter Cook (no relation to Dudley Moore). They put on a lunch in the building next door afterwards and so Lisette and I headed along. Fiery. But very good. Got chatting to a Thai lady next to us called Sarah who was lovely and turned out to be much older than we had imagined. I'm thinking that Thai woman probably age quite well.
 
+slug: big-hands
 ---
 
 When we returned to where we're staying near the Kho San Road we found that the restaurant we ate at and then watched burn down was now alas a blackened shell. However, time was not standing still and the workers weren't either. Much like ants repairing a decimated anthill, they were busy cleaning it out and preparing for the renovation already. Wish them well.

@@ -3,6 +3,7 @@ title: "I'm Not Steve McQueen..."
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
+slug: im-not-steve-mcqueen
 ---
 ...no - as it turns out I'm \*all\* woman... (thanks to the good Professor) Hi all, First up, thanks for your emails - apologies for not responding in kind but I've just recently (within the last half hour) been re-introduced to the world of "pre-broadband". Internet connection in Kandy is pretty much approximate to to internet connection in England in the early 90's. Maybe slower. And so each keystroke has alas become rationed for today. ---
 
