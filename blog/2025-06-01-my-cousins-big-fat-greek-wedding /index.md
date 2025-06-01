@@ -85,6 +85,10 @@ Meanwhile, Peter had clearly had the time of his life. Never one to be bothered 
 
 One final tradition which seems to be shared between the UK and Greece, is the throwing of the bouquet. Late in the evening, Eleni threw her bouquet into the crowd. And, as luck would have it, the best man, Dominic's brother Patrick, caught it. He was delighted.  His boyfriend Luke, was perhaps best described as "startled" as Patrick cackled like a mad thing.
 
+![Patrick catching the bouquet](patrick-catches-the-bouquet.png)
+
+[Watch the moment Patrick caught the bouquet.](./patrick-catches-the-bouquet.mp4)
+
 Elsewhere, the younger children were now exhausted. Accustomed to being in bed by 9pm, they now found themselves dressed in suits, stuffed with food and drink, and still awake at 1 in the morning. The wedding was due to run until at least 3am. Our youngest boy James occasionally lay on the ground and gave a thousand yard stare to all around him. At this, parental guilt broke in. Realising this was a once in a lifetime occurrence, neither Lisette or I wanted to leave. But we realised that as responsible parents, we probably should. So, with reluctance, we summoned our taxi. 
 
 My parents and Peter and his son Joseph decided to join us in the minivan taking us back. Eight of us sped along the darkened Cretan roads headed back to our hotel. It had been a Cretan night, and a magical night. 
