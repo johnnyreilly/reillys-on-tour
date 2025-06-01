@@ -18,14 +18,14 @@ const config: Config = {
   url: 'https://johnnyreilly.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/reillys-on-tour',
+  baseUrl: '/reillys-on-tour/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'johnnyreilly', // Usually your GitHub org/user name.
   projectName: 'reillys-on-tour', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -73,8 +73,6 @@ const config: Config = {
     metadata: [
       { name: 'robots', content: 'max-image-preview:large' },
       // This would become <meta name="robots" content="max-image-preview:large"> in the generated HTML
-      { name: 'monetization', content: '$ilp.uphold.com/LwQQhXdpwxeJ' },
-      // This would become <meta name="monetization" content="$ilp.uphold.com/LwQQhXdpwxeJ"> in the generated HTML
     ],
   // Replace with your project's social card
     image: 'img/profile.jpg',
@@ -93,7 +91,7 @@ const config: Config = {
         //   position: 'left',
         //   label: 'Tutorial',
         // },
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Archive', position: 'left'},
         {
           href: 'https://github.com/johnnyreilly/reillys-on-tour',
           label: 'GitHub',
