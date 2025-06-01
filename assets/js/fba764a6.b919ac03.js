@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreillys_on_tour=self.webpackChunkreillys_on_tour||[]).push([[3412],{8276:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/reillys-on-tour/page/4","page":4,"postsPerPage":20,"totalPages":4,"totalCount":61,"previousPage":"/reillys-on-tour/page/3","blogDescription":"The adventures of the Reilly family","blogTitle":"Reillys on Tour"}}')}}]);
