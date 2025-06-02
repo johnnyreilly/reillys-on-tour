@@ -30,7 +30,7 @@ In Crete, it's a little different. There's a few chairs laid out, but these aren
 
 The wedding service was conducted in, I assume, Greek. Whatever happened, I didn't really understand it. It was, as they say, "all Greek to me". I think it was a Greek Orthodox wedding, looking at the outfit of the priest and the paintings of icons in the chapel. Dominic is Catholic, and whilst Catholic and Greek Orthodox have differences, there's a lot more that unites them rather than divides them.
 
-It wasn't just the people there taking in the ceremony that evening. Pat, younger sister to my mother and older sister to Frances, was with us in an online sense. David, my brother, had kindly dialed her in from her convent in the UK, so she could watch.
+It wasn't just the people there taking in the ceremony that evening. Pat, younger sister to my mother and older sister to Frances, was with us in an online sense. She is a Poor Clare nun, and lives in an enclosed order in England. David, my brother, had kindly dialed her in from her convent in the UK, so she could watch.
 
 ![A screenshot of Pat watching the wedding on a WhatsApp video call](pat-watching-the-ceremony.jpg)
 
