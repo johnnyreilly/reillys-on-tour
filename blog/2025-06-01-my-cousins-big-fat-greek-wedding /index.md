@@ -2,7 +2,7 @@
 title: "My Cousin's Big Fat Greek Wedding"
 authors: johnnyreilly
 tags: []
-image: title-image.jpg
+image: ./title-image.jpg
 description: "The wedding of my cousin Dominic to Eleni in Crete. A wedding of two cultures, with a lot of food, dancing and a microphone wielding Peter."
 hide_table_of_contents: false
 slug: my-cousins-big-fat-greek-wedding
