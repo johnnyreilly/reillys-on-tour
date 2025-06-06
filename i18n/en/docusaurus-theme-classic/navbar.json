@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Reillys on Tour",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Profile picture of John Reilly",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Archive": {
+    "message": "Archive",
+    "description": "Navbar item with label Archive"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

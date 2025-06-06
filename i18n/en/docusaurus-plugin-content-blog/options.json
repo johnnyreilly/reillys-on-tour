@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Reillys on Tour",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "The adventures of the Reilly family",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Recent posts",
+    "description": "The label for the left sidebar"
+  }
+}
