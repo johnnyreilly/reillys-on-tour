@@ -3,6 +3,103 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+const url = 'https://johnnyreilly.github.io/reillys-on-tour/';
+const title = 'johnnyreilly';
+// const tagline = "Hi! I'm John Reilly - welcome! ❤️🌻";
+const description =
+  "This is John Reilly's travel(ish) blog.";
+const sameAs = [
+  'https://github.com/johnnyreilly',
+  'https://fosstodon.org/@johnny_reilly',
+  'https://twitter.com/johnny_reilly',
+  'https://bsky.app/profile/johnnyreilly.com',
+  'https://dev.to/johnnyreilly',
+  'https://app.daily.dev/johnnyreilly',
+  'https://stackoverflow.com/users/761388/john-reilly',
+  'https://blog.logrocket.com/author/johnreilly/',
+  'https://www.reddit.com/user/johnny_reilly',
+  'https://uk.linkedin.com/in/johnnyreilly',
+];
+
+const siteStructuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@id': 'https://johnnyreilly.github.io/reillys-on-tour/',
+      '@type': 'WebSite',
+      url,
+      name: title,
+      description,
+
+      copyrightHolder: {
+        '@id': 'https://johnnyreilly.com/about',
+      },
+      publisher: {
+        '@id': 'https://johnnyreilly.com/about',
+      },
+
+      // potentialAction: {
+      //   '@type': 'SearchAction',
+      //   target: {
+      //     '@type': 'EntryPoint',
+      //     urlTemplate: 'https://johnnyreilly.com/search?q={search_term_string}',
+      //   },
+      //   'query-input': 'required name=search_term_string',
+      // },
+      inLanguage: 'en-UK',
+    },
+
+    {
+      '@id': 'https://johnnyreilly.com/about',
+      '@type': 'Person',
+      name: 'John Reilly',
+      alternateName: 'Johnny Reilly',
+      image: {
+        '@type': 'ImageObject',
+        inLanguage: 'en-UK',
+        '@id': 'https://johnnyreilly.com/about#image',
+        url: 'https://johnnyreilly.com/img/profile.jpg',
+        contentUrl: 'https://johnnyreilly.com/img/profile.jpg',
+        width: 200,
+        height: 200,
+        caption: 'John Reilly',
+      },
+
+      description:
+        'John is an Open Source Software Engineer working on TypeScript, Azure, React, Node.js, .NET and more. As well as writing code, John is a speaker at meetups, one of the founders of the TS Congress conference, and the author of the history of Definitely Typed, which he worked on in the early days of TypeScript.',
+      url: 'https://johnnyreilly.com',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: 'Twickenham',
+        addressLocality: 'London',
+        addressCountry: 'United Kingdom',
+      },
+      email: 'johnny_reilly@hotmail.com',
+      birthPlace: 'Bristol',
+      sameAs,
+    },
+
+    {
+      '@id': 'https://johnnyreilly.com/about#organization',
+      '@type': ['Organization', 'Brand'],
+      url,
+      name: title,
+      description,
+      logo: {
+        '@type': 'ImageObject',
+        inLanguage: 'en-UK',
+        '@id': 'https://johnnyreilly.com/#logo',
+        url: 'https://johnnyreilly.com/img/profile.jpg',
+        contentUrl: 'https://johnnyreilly.com/img/profile.jpg',
+        width: 200,
+        height: 200,
+        caption: 'John Reilly',
+      },
+      image: { '@id': 'https://johnnyreilly.com/#logo' },
+      sameAs,
+    },
+  ],
+};
 
 const config: Config = {
   title: 'Reillys on Tour',
@@ -71,6 +168,17 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+  headTags: [
+    // Structured data in the form of JSON-LD - inspired by https://moz.com/blog/writing-structured-data-guide
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify(siteStructuredData),
+    },
   ],
 
   themeConfig: {
