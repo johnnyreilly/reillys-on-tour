@@ -40,6 +40,10 @@ const config: Config = {
     [
       'classic',
       {
+        gtag: {
+          trackingID: 'G-NDP5T131PG',
+          anonymizeIP: true,
+        },
         docs: false,
         blog: {
           archiveBasePath: '/blog',
