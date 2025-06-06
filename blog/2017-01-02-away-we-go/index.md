@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: away-we-go
+image: ./away_we_go.jpg
 ---
 There's this film called [Away We Go](<https://en.wikipedia.org/wiki/Away_We_Go>). It's about a couple expecting their first baby and wondering where they should live. Over the course of the movie, they travel to different places in North America, spend time with different groups of friends and family. In the end, (spoiler alert) they work out where they think they should be.
 

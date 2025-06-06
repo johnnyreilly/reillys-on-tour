@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: mr-ow-much-and-steam-engine
+image: ./IMG_20210728_155439.jpg
 ---
 The bodies lay upon the ground in the field. They were dressed colourfully, each kitted out in varieties of neon outfits that shone in the sunshine. "They're very still" I said, by way of summing up the situation. "They all died" said Lisette, who was also taking in the view.
 

@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: all-italian-women-look-like-bono
+image: ./orv14.jpg
 ---
 Each one the same face swathed in 90% black plastic, shielding the wearer from having to interface with the world. Oddly it appears that at roughly the age of 50 they all abandon their U2 ambitions and start to interact with people once again - reasons for this are not yet fully understood. Lisette is learning quickly that the term "local speciality" is not necessarily a recommendation. For lunch she had what is best described as "pig fat... on toast" and yesterday evening was a strange pasta dish that was so intensely green in colour that we have dubbed it "Kermit Pasta". Most of these strange menu choices have been down the fact that none of the restaurants have even a hint of an English translation and so we have been thrusting into the great unknown. Happily my choices have been much more pleasant - no fat on toast for me! However, Lisette has made me promise that we track down an English menu before we make a food choices for the next meal. ![](orv10.jpg)
 

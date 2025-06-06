@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: the-first-day-of-school
+image: ./BenjaminAndLisetteLeavingForSchool.jpg
 ---
 It was a warm Thursday morning. Despite it being mid-September and the beginning of autumn it still felt summery. Just another day of sunshine.
 

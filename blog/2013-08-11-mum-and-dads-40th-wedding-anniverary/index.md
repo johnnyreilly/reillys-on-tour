@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: [Mark and Ann's 40th Wedding Anniverary]
 hide_table_of_contents: false
 slug: mum-and-dads-40th-wedding-anniverary
+image: ./2013-07-20+12.15.20.jpg
 ---
 ![](2013-07-20+12.15.20.jpg)
 

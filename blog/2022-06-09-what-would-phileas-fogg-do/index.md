@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: what-would-phileas-fogg-do
+image: ./PXL_20220604_122836113.MP.jpg
 ---
 It is June 2022. COVID hove into view back in early 2020 and radically adjusted all our lives. Part of that was the ability (and ease) of travelling abroad. Like so many, the Reilly family were effectively grounded since then. We have made trips, but we never left England.
 

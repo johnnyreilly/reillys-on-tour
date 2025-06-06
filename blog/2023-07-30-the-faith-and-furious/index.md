@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: the-faith-and-furious
+image: ./bakewell-puddings-and-tarts.jpeg
 ---
 It was the start of the summer holidays. The Reilly family had headed North to the Peak District to go youth hostelling, prior to heading East to Newark for the Focus festival.
 

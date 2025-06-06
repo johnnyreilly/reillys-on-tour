@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: glamping-and-brewing-edited-by-benjamin
+image: ./IMG-20190529-WA0009.jpg
 ---
 On May 27th 2019 the weather in Peschiera del Garda looked like this:
 

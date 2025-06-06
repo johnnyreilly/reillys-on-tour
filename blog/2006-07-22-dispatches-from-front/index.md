@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: dispatches-from-front
+image: ./hon1ant2.jpg
 ---
 One love people.
 

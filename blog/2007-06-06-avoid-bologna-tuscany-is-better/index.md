@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: avoid-bologna-tuscany-is-better
+image: ./Image110.jpg
 ---
 Dear all,
 

@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: happy-mothers-day-lisette
+image: ./dinner-as-a-family-on-lisettes-birthday.jpg
 ---
 My dear Lisette,
 

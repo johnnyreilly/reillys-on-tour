@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: [portscatho, hidden hut, cornwall]
 hide_table_of_contents: false
 slug: four-go-to-cornwall
+image: ./at_the_beach.jpg
 ---
 Lisette and I have proven ourselves incapable in the "booking holidays" category of competence. After months of attempting to find something we realised we'd fallen at the first hurdle by failing to do the requisite planning-one-year-in-advance. This is alas mandatory now Benjamin is in school and restricting our holiday times to select high priced periods. Why did he have to grow up?
 

@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: oh-i-wish-i-spoke-spanish
+image: ./hon3bocosus2.jpg
 ---
 Because then I wouldn't feel so bad....
 

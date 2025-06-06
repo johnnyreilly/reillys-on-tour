@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: [cro-magnon man]
 hide_table_of_contents: false
 slug: the-gorgon
+image: ./cro-magnon-man.jpg
 ---
 As I have grown older, I've become aware of a characteristic of mine, which I don't much like. It's not casual racism or a prediliction for keeping a lap dog in a handbag about my person. It's more complicated than that.
 

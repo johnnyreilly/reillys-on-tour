@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: 500-days-of-benjamin
+image: ./2013-10-27+09.33.08.jpg
 ---
 It's just over 500 days since Benjamin, my son, was born. He's no longer the fragile newborn. He eats normal food, he walks, he sleeps through the night. He's a very healthy little fellow. He doesn't talk yet but I've no doubt it's in the post.
 

@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: [Birth, West Middlesex Hospital]
 hide_table_of_contents: false
 slug: unto-us-son-is-given
+image: ./Us.jpg
 ---
 ... and this is him! ![](Lisette-and-Benjamin.jpg)
 

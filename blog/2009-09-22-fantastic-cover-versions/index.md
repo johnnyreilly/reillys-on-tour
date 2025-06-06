@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: fantastic-cover-versions
+image: ./21092009557.jpg
 ---
 Greetings from Greece...... and Salutations from Santorini! I am writing to you from Fira - the island capital. Fira, is one of the few "vertical" towns which I've have had the pleasure to encounter. Nothing here is flat. Essentially Fira appears to be a cliff face onto which bits of shop, restaurant and pathway have been pinned - possibly by genial giants with an architectural bent. We are in a land truly unfamiliar to spirit-levels. ![](20092009554.jpg)
 

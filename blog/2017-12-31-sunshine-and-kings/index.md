@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: sunshine-and-kings
+image: ./Dawn-in-Palma-Old-Town.jpg
 ---
 The difference between Spanish winter and British is not really temperature. A mild British winter day isn't significantly colder than Spain. The difference is light. Winter or summer, there is a lot more light to go around in Mallorca than in London. Lisette, Benjamin, James and I are staying in Palma visiting family. The day we arrived was not auspicious; it was overcast and stormy. The next day however, well... As I looked around I realised I was squinting. The light was too strong. I haven't squinted in London since October.
 
