@@ -32,7 +32,6 @@ Anyway - Tuscany on the whole is not without grafitti. However there is a relati
 
 Stirring sentiments don't you think? You could almost join together the different entries to form a story. Sad man is very lonely. Declaims "Where is the happiness?" to the empty world, emphasising further his solitary existence. Sad man meets someone passing through town and they get talking. After they've got to know each other a little, perhaps had a drink to reduce the inhibitions, the sad man opens up and says "I don't want to be alone - do you?". A friendship (maybe a romance?) begins between the two - the sad man is not sad anymore. Finally the other (whoever it may be) has to move on for whatever reason. The man (no longer sad) says to the other before they leave: "I'll remember you". A beautiful story... don't you think? I reckon there's a film in there somewhere...
 
-slug: avoid-bologna-tuscany-is-better
 ---
 
 Anyhow Lisette and I are doing our level best in the interim to avoid Bologna. Today we're visiting nearby Modena (home of Pavarotti and Balsamic vinegar) which is very charming. And tomorrow we move on to Lake Garda - about which we've heard very good things indeed.

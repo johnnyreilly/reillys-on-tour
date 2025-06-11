@@ -28,7 +28,6 @@ With all this in hand, the world is less scary. (Or considerably more so if you'
 
 So on balance, I'm really pleased that Google got good at running my life in the last couple of years. I'd be lost without them. Quite literally. Let's hope they don't turn evil.
 
-slug: sunshine-and-kings
 ---
 
 I have this Dickensian ideal of Christmas. I know that the first Christmas happened in a hot country (and more likely in September than December). But I don't care. Actual facts be damned. To me, the person who really "got" Christmas was Charles Dickens. Christmas is supposed to happen in a snow covered London. Where there are snug pubs, mulled wine, minced pies, roasted big birds, carol singing, big Christmas trees, churches, Victorian waifs and strays - this chap called it right! (OK - the child poverty I can live without.)

@@ -10,12 +10,6 @@ Lisette and I have proven ourselves incapable in the "booking holidays" category
 
 So it was, that around 3 weeks prior to us having to explain the meaning of the word "staycation" to Benjamin and James, we received an offer. A couple we knew from church, Peter and Sarah, were going to be in Portscatho, a village in Cornwall and would we like to stay with them? Would we? Popes / Catholics / bears / woods - you get my drift.
 
-<!---
-
-<p>It was, to be honest, a slightly more considered decision than that. Lisette was concerned for Peter and Sarah's sleep; Benjamin and James being the very definition of early risers. Knowing that our potential hosts / housemates (... hostmates? yes!) had raised boys, my view was: they've been there; they'll understand. Lisette was more: they've been there - perhaps they don't want a reminder? Reader: self-interest will out.</p>
-
---->
-
 We set our sights for the Southwest. And so, the four of us came to find ourselves winding our way down a single-lane road with the rain lashing the windscreen of our rented car. Always say yes to a memory.
 
 ![](boys_with_trains.jpg)
@@ -27,16 +21,13 @@ In a gesture towards being actual grown up adults we had opted to break up the l
 We had something of a baptism of fire concerning the single lane roads for which Cornwall is famed. I must be ruthlessly honest: unlike Rain Man I am not an excellent driver. So much so that each journey tends to begin like this:
 
 
-
 <dl><dt>Me:</dt><dd>Dear God, please don't let me kill these lovely people and if you could get us where we're hoping to go safely that would be oh so greatly appreciated. Thanks. </dd><dt>James (from the back, in a muffled but distinct voice):</dt><dd>Not God! Oh my gosh! Oh gosh!</dd></dl>
-
 
 
 James is very hot on outlawing perceived blasphemy these days.
 
 So finding myself front bumper to front bumper with a Land Rover, on a road without passing space, jolted me somewhat from my happy place. During the tense standoff with the other car, I pondered whether car technology had moved on significantly since I'd last checked. There's an awful lot talked about driverless cars and drones these days. Perhaps there was a "flight mode" for our Vauxhall Insignia that I had hitherto not noticed? I inspected the dashboard optimistically, searching for a button I hadn't yet pushed. The other vehicle eventually tired of my misguided wonderings. It reversed to a passing point. We edged past it and onwards to glory. And Portscatho.
 
-slug: four-go-to-cornwall
 ---
 
 Portscatho is a beautiful village on the the East coast of the Roseland Peninsula. It slants down a hill which means at almost any position you can look out to sea. And being East facing, the sun rises above the bay each morning, looking for all the world like a megawatt-bulb Zeppelin. The village contains a pub, a butcher, a couple of shops and the harbour club which doubles as the local cinema on Monday nights. The small harbour is populated with motorboats sat just inside a stone quay which juts out into the sea. Children can occasionally be found hurling themselves off the end of the quay, enacting a worrying local tradition. Apparently it's safe as long as there's no more than 4 flagstones depth to jump. More than that and legs might be broken. Ah tradition!

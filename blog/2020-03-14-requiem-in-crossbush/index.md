@@ -47,7 +47,6 @@ The hole had already been dug. Across it lay two wooden struts which supported t
 
 The church bells rang out.
 
-slug: requiem-in-crossbush
 ---
 
 The wake took place in a pub in Henfield. Everyone gathered. And drank. And ate. And talked.

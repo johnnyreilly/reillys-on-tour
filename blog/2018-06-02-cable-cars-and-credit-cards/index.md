@@ -25,7 +25,6 @@ Also, I must admit, there are other advantages to their company. Would I have be
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEBhXb5ByADovt89o5G1IrMz32eVGRW2fbny-H2nbgcfkgFvtMMuYB-IP-ywO0C362S0gKijrg6Z63u3o2e6nCZcwUYZPYlh-aYM1MNw_uSk2mkjDbIaLyXaSG2AGHqdSiQ5Ies0eQXU/s400/IMG_20180530_182647.jpg)
 
-slug: cable-cars-and-credit-cards
 ---
 
 Revolut is really turning out to have unexpected benefits. For those that don't know what it is, Revolut is a debit card. You can top it up on your phone with pounds, and spend those pounds in Euro, Swiss Francs etc without getting a horrendous FX rate. But that's not the killer feature. No; the reason you should write home is the little discussed (but all important) feature it offers: embarrassment-reduction.

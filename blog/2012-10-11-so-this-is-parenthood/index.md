@@ -38,13 +38,3 @@ The health visitors seemed unconcerned. I don't think they were thrilled we were
 You probably see where this is going... As it turned out, Lucy had been right. Benjamin did have a tongue-tie. And soon enough Lisette found herself in the waiting room to get it fixed up. I was quite surprised to discover just medieval the procedure seemed to be. I'm not too sure how I expected them to proceed but I wasn't really expecting it to be a question of sticking surgical scissors under his tongue and snipping whilst he was awake...
 
 But ours not to reason why and for what it's worth it seemed to be a glorious success! Benjamin is now feeding much more successfully and as you can see from his picture he particularly enjoys sticking his tongue out as he smiles!
-
-<!---
-
-Benjamin rolled on floor
-beach whitley bay
-Uncle David resisted
-
---->
-
-

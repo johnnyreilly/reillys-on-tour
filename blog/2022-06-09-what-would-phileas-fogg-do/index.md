@@ -38,7 +38,6 @@ After some time the youth was eventually persuaded (with a complete lack of grac
 
 All things considered, I was pleased. I remained gently swinging from the handrail as the bus continued rounding roundabouts.
 
-slug: what-would-phileas-fogg-do
 ---
 
 The campsite we were staying on was named "Camping Village Garden Paradiso". Unlike your most basic of campsites which can be little more than a field with questionable plumbing, CVGP (as no-one called it) was a vast estate. It boasted not only a beach, but a swimming pool with multiple waterslides, a supermarket and a kind of town square complete with shops, restaurants and a stage where nightly shows would be performed. In addition, there was a resident glassblower from Murano who did daily demonstrations of the art of getting glass really hot, and then shaping it into miniature animals and the like. The campsite even had a "feeling spa" where it was possible to have "emotional showers". We never quite plucked up the courage to discover what those were.

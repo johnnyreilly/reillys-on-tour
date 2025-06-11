@@ -10,7 +10,6 @@ image: ./2013-07-20+12.15.20.jpg
 
 On the occasion of Mum and Dad's 40th wedding anniversary I was prompted into making a speech. Not my natural thing really but it went okay - give or take a little (welcome) heckling from various Aunties present... I thought I'd put the notes of the speech up here - they're pretty much left as I had them on the day and you'll notice the occasional PROMPT FOR ME TO ASK THE PEOPLE PRESENT SOMETHING in caps. This is the speech:
 
-slug: mum-and-dads-40th-wedding-anniverary
 ---
 
 Thanks for coming to Mum and Dad / Ann and Mark's 40th wedding anniversary. I've been asked if I'd say a few words. I wanted to talk about how we came to be here. How Mum and Dad came to be the people they are.
@@ -40,32 +39,4 @@ Whilst I can't speak for David, Kirsty and Peter, I'm not sure I would have come
 Since I'm a little older, and in fact particularly since we've been blessed with little Benjamin, I think I've come to understand why Mum and Dad had so many of us. And I'm delighted to part of this small clan. David, Kirsty and Peter - it's wonderful to have you as brothers and sisters. And David I would no longer swap you for a dog.
 
 It's an ongoing privilege to have such fine parents. Mum, Dad, you have been a blessing to all of us and we're so glad to have you in our lives. Thank you, both of you.
-
-<!---
-
-
-
-Dad, homework, John Wyndham.  Piece of fiction I've read that made the most difference to me: Flowers for Algernon.  James Dobson improving. Selfless.
-
-4 Christian kids with Christian spouses.Walks. Eurocamping. Draughts 5am insomnia.
-
-Mums cooking.  Ability to talk on the phone.  
-
-Could mention about them being a positive example to each of us and to the world at large as to how to make a marriage thrive.
-
-Unique approach to discipline.  Mirror on the kitchen table so I had to watch myself eat
-
-
-Love languages
-
-Marriage course
-
-Mum and dad loved us in different ways. Mum worried and cooked and hugged and wondered why we never phone home maybe Kirsty does.
-
-Dad taught us, was selfless, made a lot of bonfires. Plus odd discipline.
-
-I didn't want to grow up to be like mum and dad. Because I wanted to be cool. Now I expect to grow up like mum and dad. And i'm delighted. Because they're wonderful. And if I'm honest that may be just as well because I'm not sure I have the option to take after anyone else.
-
---->
-
 
