@@ -7,7 +7,7 @@ slug: so-benjamin-how-do-you-feel
 ---
 Miss Rachel at Nursery had a grand idea. She would give Benjamin a number of words and ask him how he felt about them. So she did. As Benjamin responded she diligently scribed away the results and presented Lisette with this at the end of the day:
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxxTxgvMqfnDeaJJXszMUL2vyIKWhBfTh0bfZNa6FPrVrFCyT2EZ0LofTrLwOH7-KgchJsplA68CA4KKKb0FcwtOs9gQNDfohL3kI1feL9aJotStFd6DH3rqgvTG6mslJv0cY5yTpAUM/s640/IMG_20160310_064411.jpg)
+![](bens-feelings.jpg)
 
 It's not the best photo I've ever taken but the contents are gold and I didn't want to forget them. So here they are; Rachel's words and Benjamin's musings:
 
@@ -39,6 +39,6 @@ It's not the best photo I've ever taken but the contents are gold and I didn't w
 
 Thank you Miss Rachel; you quite made our day!
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6m-g9MthPVS80zOTCuNFB7piEguPp37qIeq_NSboscHfr413fXtf6v1PZ4pmkW4Y5WUQBV2XqdDbspkolzZcpDWXD4CIhl8mGZsgrsad1BmcHy45LEw4WX9SmzIXcreGXzzafiQ-yufg/s640/IMG_20160110_182124%257E2.jpg)
+![](ben-in-the-lounge.jpg)
 
 

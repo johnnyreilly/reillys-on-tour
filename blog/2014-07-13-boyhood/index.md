@@ -11,7 +11,7 @@ Lisette and I went to the cinema last night. It's our wedding anniversary on Mon
 
 We saw a film called "[Boyhood](<http://en.wikipedia.org/wiki/Boyhood_(film)>)". It moved me. It's a film pretty much like no other. You see a boy, Mason, age from about 7 to 19. It's amazing. It's not full of big drama - but it is full of the kind of things that happen when you grow up. It made me remember the things that happened to me when I was younger. I should say that my own life was easier than Mason's - there were far less genuinely scary adults in my own upbringing.
 
-![](http://www.desktop4ipad.com/wp-content/uploads/2014/07/boyhood_xxlg-500x500.jpg)
+![](boyhood-poster.jpg)
 
 But so many of the things that happen reminded me of things I'd forgotten. At one point Mason goes "camping" with friends in a semi-built house and they smash up bits of wood and throw circular saw blades at a wall for fun. I was similarly stupid and dangerous. Where I lived there were many new houses being built. When the builders would go home for the night onto the building sites my friends and I would romp. I remember throwing myself happily off the roofs of new houses onto piles of sand below. It didn't seem dangerous. It seemed fun!
 
@@ -23,6 +23,6 @@ Partly I think I cried out of fear. I know my son Benjamin is going to face all 
 
 I think that watching the film at this time in my own life probably contributed to the reaction. So much is change. One son growing up quickly. Another son or daughter due to arrive in the outside world within the month. I'm a bit overwhelmed. Excited - yes. Terrified - some. Alive - definitely.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlKcwc4EqHo2gIMch9SslAUv-LmbVRvawPkqnVe7ueHjSuM5OmRH7-oUrhS7c1Q_2NenLogWzvPoCaT0S_vbAy353aMWnRBf3V6DEuoJwDAe8YHLX4zi4AuYk4qif8aZbl4WyOBcIZbDY/s640/2014-06-05+18.26.43.jpg)
+![](ben-in-the-front-garden.jpg)
 
 

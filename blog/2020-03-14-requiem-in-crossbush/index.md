@@ -5,7 +5,7 @@ tags: []
 hide_table_of_contents: false
 slug: requiem-in-crossbush
 ---
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8EDJegsWvYsnhX83ShgW4L5xRu06BDbQvOPZsM_75WpR2pCVkLnXgCVMmI-FrVHsg75IZQ8pHw4HOKgoe4f9wnxrXrdpk1HrtzHV9bFYNyKdQhnvVq1Q3pnSCVXPFeEkDxW9JmrN3Hg/s640/IMG_20200313_111700.jpg)
+![](funeral-service.jpg)
 
 It was Friday 13th. Gran had never been keen on that date. So it was ironic, or perhaps appropriate, that date came to be the occasion of her funeral. The universe likes a giggle.
 

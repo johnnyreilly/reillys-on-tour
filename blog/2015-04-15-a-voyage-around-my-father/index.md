@@ -1,5 +1,5 @@
 ---
-title: "A voyage around my father‏"
+title: "A voyage around my father"
 authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
@@ -7,7 +7,7 @@ slug: a-voyage-around-my-father
 ---
 My name is James Edmund Reilly. Hullo there! You seem a little bored. No matter; I have the remedy. Let me tell you about how my holiday began.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOmAW8yanR9v6ukIZjxWd36fk6yC44zg7taT678RHL858RIghlGHTihXFLFwCyQEcnEELJ0ee-xyVQ0Vssnd4VbsMA3y3zRaXxNax9Q-Tw5qV1LluljSmxs_AlgG8CsFL9fTg7_k0pj0/s320/ThatsMe.jpg)
+![](ThatsMe.jpg)
 
 It was Wednesday 15th April, 2015. In Twickenham, where I'm proud to lay my hat, spring was determinedly springing. I awoke at 4:30am to the tuneful warblings of birdsong. Not wanting to be left out I decided that I would join my feathered friends in their early morning chorus. I gave voice and cleared the lungs with a good howl. I imagine it really added something to the melody. After around 15 minutes of this I felt I was done. By now I could hear daddy downstairs moving around and I settled back to rest, content in the knowledge of a job well done. Not only had I added to the music of the morning but I knew Daddy doesn't like to waste the day. I'd given him the wonderful gift of an extra 2 hours of awake time before everyone else got up. I knew he'd be pleased as punch. Mummy and I soon drifted off again.
 
@@ -31,7 +31,7 @@ Priscilla was freaking out. She rounded upon Mummy and said, in an accusatory fa
 
 It!!! It???!!? The painted lady had harshed my mellow somewhat. Mummy seemed a little anxious after Priscilla had finished her tirade so I held her for a while. She needed comforting. I also expressed my considered opinion of Lady P by filling my nappy. That'd show her!
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfeazIreejNueG0xhNqHIBatMmSAD8K8svEue_YUOLbDeBlbKmVlMUEEvoN49HlUWPHxQpC3BVggtCSy1x3YJrmhdPkQTG6ZhQ6hTJ19OiXfnIPLFNUtxGOC8OU1PNt7OL7gBwCLI5jQ8/s320/ComfortingMummy.jpg)
+![](ComfortingMummy.jpg)
 
 With that I went to sleep and didn't awake until Mallorca. At the end of the flight Mummy and Daddy seemed a little bit broken. But not to worry; I'll take good care of them. They'll be fine soon. Probably.
 
