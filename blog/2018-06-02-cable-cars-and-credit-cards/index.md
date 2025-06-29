@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: [old friends, Lago Maggiore, Revolut]
 hide_table_of_contents: false
 slug: cable-cars-and-credit-cards
+image: ./friends-by-the-lake.jpg
 ---
 I proferred the binbag. "All the rubbish; in here please". Conor turned to his right, "Una, will you climb in now?" Una grinned and mimed throwing objects into the sack. "There's my hopes and dreams right there Conor."
 
@@ -26,6 +27,7 @@ Also, I must admit, there are other advantages to their company. Would I have be
 ![](james-steering-ship.jpg)
 
 ---
+image: ./friends-by-the-lake.jpg
 
 Revolut is really turning out to have unexpected benefits. For those that don't know what it is, Revolut is a debit card. You can top it up on your phone with pounds, and spend those pounds in Euro, Swiss Francs etc without getting a horrendous FX rate. But that's not the killer feature. No; the reason you should write home is the little discussed (but all important) feature it offers: embarrassment-reduction.
 

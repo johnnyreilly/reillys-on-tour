@@ -4,6 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: requiem-in-crossbush
+image: ./funeral-service.jpg
 ---
 ![](funeral-service.jpg)
 
@@ -48,6 +49,7 @@ The hole had already been dug. Across it lay two wooden struts which supported t
 The church bells rang out.
 
 ---
+image: ./funeral-service.jpg
 
 The wake took place in a pub in Henfield. Everyone gathered. And drank. And ate. And talked.
 
