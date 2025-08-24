@@ -8,6 +8,8 @@ image: ./family-on-the-beach.jpg
 ---
 The Reillys had set out on their summer holidays. Benjamin, James and the Reilly parents were going to stay with some friends on a working farm in rural Devon. The farm was proudly carbon-neutral; it generated electricity and had its own water supply. This was a holiday that could only be more middle class if they breastfed the livestock hummus.
 
+![the Reilly family and an image of Elvis](elvis-and-family.jpg)
+
 Rather than travel directly from Twickenham to Devon, the family had opted to break up the journey. So it was that on a Wednesday evening the Reillys found themselves outside their Somerset Airbnb and in need of food. Having wheelspun into the driveway, Mr Reilly was driving no further. Instead, the four of them set out on foot to search for dinner.
 
 After an initial disappointment, involving a delapidated pub with ashtray and bleach issues, technology was consulted. According to Mrs Reilly's phone, a 50's America style diner could be found just fifteen minutes walk away. Whilst Mrs Reilly had misgivings about the health qualities of burgers, fries and milkshakes, she felt it still represented the best available option.
@@ -40,8 +42,6 @@ Once they'd caught their breath, the family made their way into the diner. It wa
 
 The family took a different route back.
 
-![](elvis-and-family.jpg)
-
-![](family-on-the-beach.jpg)
+![the Reilly family on a beach](family-on-the-beach.jpg)
 
 
