@@ -58,8 +58,8 @@ const siteStructuredData = {
         '@type': 'ImageObject',
         inLanguage: 'en-UK',
         '@id': 'https://johnnyreilly.com/about#image',
-        url: 'https://johnnyreilly.com/img/profile.jpg',
-        contentUrl: 'https://johnnyreilly.com/img/profile.jpg',
+        url: 'https://johnnyreilly.com/img/profile-2025.jpg',
+        contentUrl: 'https://johnnyreilly.com/img/profile-2025.jpg',
         width: 200,
         height: 200,
         caption: 'John Reilly',
@@ -89,8 +89,8 @@ const siteStructuredData = {
         '@type': 'ImageObject',
         inLanguage: 'en-UK',
         '@id': 'https://johnnyreilly.com/#logo',
-        url: 'https://johnnyreilly.com/img/profile.jpg',
-        contentUrl: 'https://johnnyreilly.com/img/profile.jpg',
+        url: 'https://johnnyreilly.com/img/profile-2025.jpg',
+        contentUrl: 'https://johnnyreilly.com/img/profile-2025.jpg',
         width: 200,
         height: 200,
         caption: 'John Reilly',
@@ -187,12 +187,12 @@ const config: Config = {
       // This would become <meta name="robots" content="max-image-preview:large"> in the generated HTML
     ],
   // Replace with your project's social card
-    image: 'img/profile.jpg',
+    image: 'img/profile-2025.jpg',
     navbar: {
       title: 'Reillys on Tour',
       logo: {
         alt: 'Profile picture of John Reilly',
-        src: 'img/profile-64x64.jpg',
+        src: 'img/profile-2025-64x64.jpg',
         width: 32,
         height: 32,
       },
