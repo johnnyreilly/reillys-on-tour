@@ -124,7 +124,7 @@ On vulnerability: there were a number of times this year when I felt I had nothi
 
 People were kind to me.
 
-As I dealt with the most difficult set of circumstances life had yet thrown at me, I knew the people around me cared. Friends checked in on how I was doing. Some told me they were praying for me. I'm a man of faith, I was praying as well. At work folk intentionally created space for me to try and heal. My boys and my wife hugged me and reminded me they loved me regularly. 
+As I dealt with the most difficult set of circumstances life had yet thrown at me, I knew the people around me cared. Friends checked in on how I was doing. Some told me they were praying for me. I'm a man of faith, I was praying as well. At work folk intentionally created space for me to try and heal. My parents came and drove the car I'd borrowed because I couldn't. My friend came for a limp round the river with me. I'm sure I was terrible company but he still came. My boys and my wife hugged me and reminded me they loved me regularly. 
 
 I should not be surprised by this. I'd hope that I'm this kind of person to those around me in their time of need. But honestly I was surprised. I'll say it again: people were kind to me. And that meant, that means, such a lot.
 
