@@ -130,4 +130,4 @@ I should not be surprised by this. I'd hope that I'm this kind of person to thos
 
 This has been hard. Quite possibly you are one of the people who has helped me this year. Perhaps only in a small way. Maybe you've helped me in a way you consider so insignificant as to be not worth noticing. I noticed it. Thank you. I mean that most sincerely. Thank you.
 
-People have loved me, continue to love me. I wanted to take a moment to explicitly call it out. I'm really grateful to you. Thank you for the kindness. Thank you. ♥️
+I end this year reminded and grateful that people have loved me and continue to love me. It has meant a lot to me, and it has helped me. Thank you for the kindness. Thank you. ♥️
