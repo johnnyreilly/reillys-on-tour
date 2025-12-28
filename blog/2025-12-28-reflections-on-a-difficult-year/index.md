@@ -128,6 +128,6 @@ As I dealt with the most difficult set of circumstances life had yet thrown at m
 
 I should not be surprised by this. I'd hope that I'm this kind of person to those around me in their time of need. But honestly I was surprised. I'll say it again: people were kind to me. And that meant, that means, such a lot.
 
-This has been hard. If you've made it this far through reading then you are quite possibly one of the people who has helped me this year. Maybe only in a small way. Maybe you've helped me in a way you consider so insignificant as to be not worth noticing. I noticed it. Thank you. I mean that most sincerely. Thank you.
+This has been hard. Quite possibly you are one of the people who has helped me this year. Perhaps only in a small way. Maybe you've helped me in a way you consider so insignificant as to be not worth noticing. I noticed it. Thank you. I mean that most sincerely. Thank you.
 
-People have loved me, continue to love me. I wanted to take a moment to explicitly call it out. Thank you for the kindness.
+People have loved me, continue to love me. I wanted to take a moment to explicitly call it out. I'm really grateful to you. Thank you for the kindness. Thank you. ♥️
