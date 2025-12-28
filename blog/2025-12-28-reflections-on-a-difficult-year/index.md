@@ -12,6 +12,8 @@ The year is coming to a close. The Reilly family Christmas tree has long been up
 
 This year has been very difficult for me. I have not had the year I expected to. It has been different. Something quite terrifying and horrible. But also, laced with humanity. I wanted to take some time to write it down. Often when I write, I'm trying to make the people reading smile. I am not, on this occasion. This is John in sincere mode.
 
+Here follows the tale of year, and where I find myself now.
+
 ## Warning signs
 
 In January, I travelled to Mumbai for work. I earn my bread as a software engineer for Investec, and we have an office there full of delightful people. On this particular trip I noticed an odd feeling in my right leg. It distracted and irritated me. Enough that for at least one night I had to turn in early as it was difficult to be around people whilst my right leg, and bizarrely my right buttock, twinged.
