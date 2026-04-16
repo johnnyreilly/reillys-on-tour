@@ -22,7 +22,6 @@ When the meal finally came we discovered we had ordered the following:
 - Chow mein to share - but after a mouthful I decided it was better to leave it
 - A plate of fried rice. This was my main course. I distinctly heard the waitress cackling with laughter to herself as she strolled off. ("No tip for her", I thought at the time)
 
-<!-- -->
 
 Depression and determination arrived in equal measure as I determined to eat the plate of fried rice. However, after many a forkful I finally had to admit defeat ... It was that or be riced to death. What a way to go.
 

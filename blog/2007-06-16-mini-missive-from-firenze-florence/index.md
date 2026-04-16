@@ -19,7 +19,6 @@ Sample quotes:
 - Everybody in the van - girls you sit next to me
 - So Keith, the story is they dont like me very much but they do care for you. You talk them round and we'll see what we can do next...
 
-<!-- -->
 
 Re-reading all of this makes his actions seem somewhat worrying. But the fact that each utterance was made in possibly the strongest Scottish accent known to mankind meant that the Americans (which was basically everyone apart from us) were putty in his hands... Very entertaining from a watchers point of view!
 

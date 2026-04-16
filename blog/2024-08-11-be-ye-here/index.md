@@ -42,7 +42,6 @@ But whilst the fifty minute trip to Rathlin was boisterous, it wasn't too excess
 - feel righteous
 - see puffins.
 
-<!-- -->
 
 Rathlin, it turns out, has more up and down than you might expect. We set out on the hike imagining we'd be there and back in no time. But it became clear quickly that progress would be slow. By the time we'd got to the top of the first hill we were heaving and puffing. Puffing for puffins.
 
