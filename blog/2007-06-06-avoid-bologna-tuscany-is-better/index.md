@@ -16,7 +16,6 @@ We pulled into town latish last night having caught the Eurostar from Firenze/Fl
 2. There's some dodgy looking blokes and a distinct absence of women travelling by themselves (in stark contrast to previous destinations)
 3. The graffitti here is excessive and depressing.
 
-<!-- -->
 
 You might think that observation 3 is a bit odd. Surely all grafitti is depressing? However that's not my opinion; I'm highly in favour of the works of Banksy and the like. That said almost all grafitti is depressing. I don't wish to see another "Tox '04","Tox '05", "Tox '06" or "Tox '07" \*anywhere\*. "Tox", in case you are wondering, is the tag of some London sort who wanders around scribbling his chosen moniker and the year in which it was done pretty much anywhere he can in London. I'm not sure what he hopes to achieve by adding the year of defacement as a suffix to his tags. I can only assume that he genuinely believes he is an as yet unappreciated talent who's work will be toured by future art historians who will take great interest in the "progression" of his work. "Ah yes class, an '06' - truly the days when you can start to see Tox stretch himself. Note the positioning of this tag on a busy railway line. This would indeed have been quite a tricky spot to reach and great nerve would have been required in the execution of the 'tag' itself..."
 
