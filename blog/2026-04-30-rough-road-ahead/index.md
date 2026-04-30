@@ -2,7 +2,7 @@
 title: "Rough road ahead"
 authors: johnnyreilly
 tags: []
-image: ./me-and-the-boy-post-head-shave.jpg
+image: ./me-and-the-boy-post-head-shave-social.jpg
 description: "The story of how I found out I was dealing with cancer"
 hide_table_of_contents: false
 slug: rough-road-ahead
