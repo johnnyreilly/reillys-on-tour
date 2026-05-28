@@ -77,11 +77,12 @@ With that in place they could go buck mad and push all kinds of stuff into me. I
 So one spring day, Lisette and I went to a hospital near London Bridge. I returned that night with a port fitted, feeling something like a faulty cyborg. 
 
 For larks, I was also told:
-"Don't shower for a while, you have stitches". 
-"Don't shower?" 
-"Well not for a week or so, have Scouse showers John."
-"Scouse showers?"
-"Yeah a flannel"
+
+- "Don't shower for a while, you have stitches". 
+- "Don't shower?" 
+- "Well not for a week or so, have Scouse showers John."
+- "Scouse showers?"
+- "Yeah a flannel"
 
  At the time I was focused mainly on staying as healthy as possible, and so nodded and left.  But let the record reflect that I was outraged on behalf of the people of Liverpool.
 
@@ -119,7 +120,7 @@ Every time I go for chemotherapy, I have an outfit. It's a Hawaiian shirt I boug
 
 The shirt is baggy, short sleeved and has buttons down the front. So practically, it's really quite useful. I've made it my armour. Every other Wednesday I suit up.
 
-Image
+![photo of me in my shirt](./photo-of-john-in-hawaiian-shirt.jpg)
 
 The treatment is ongoing, and I'm getting through it. My attitude is helping (mostly - I still wobble). The prayers that it gets easier are, I think, being answered. I don't enjoy this, but I can do this.
 
@@ -127,6 +128,4 @@ After I posted my message in the family WhatsApp group, one of my lovely relativ
 
 ![A WhatsApp message responding to the one from earlier which reads "The cowardly lion in the Wizard of Oz showed courage, but just doubted himself. Just like you. X"](./courage.webp)
 
-I can make this work. With a little bit of help from God, my friends and my family. I will make this work.
-
-Together, we shall.
+I can make this work. With a little bit of help from God, my friends and my family. I will make this work. Or, if I'm more honest, together, we will will make this work.
