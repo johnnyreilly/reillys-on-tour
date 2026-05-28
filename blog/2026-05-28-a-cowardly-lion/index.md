@@ -26,7 +26,7 @@ I may be a grown up and a big man physically, but I was very nervous about the t
 
 I had, as I've mentioned previously, been very much hoping for a sudden miraculous healing. Having been in and out of churches my whole life, you become aware of the occasional modern day miracle. It's rare in my experience, but I would have quite happily had a piece of that action.
 
-Immediate healing didn't happen. I've heard it said that the answer to prayers can be "yes, no or... not yet". That was a helpful framing for me. For what it's worth, a lack of upfront healing didn't dent my faith in God. That's not my basis. I still believe; that's unchanged. In my head I chalked it up to "I don't always understand God". There's lots of things on my "I don't get it" list, but they don't rob me of a relationship with God. I mean, I don't always understand my wife, why should I always understand God?
+Immediate healing didn't happen. I've heard it said that the answer to prayers can be "yes, no or... not yet". That was a helpful framing for me. For what it's worth, a lack of upfront healing didn't dent my faith in God. In my head I chalked it up to "I don't always understand God". There's lots of things on my "I don't get it" list, but they don't rob me of a relationship with God. I mean, I don't always understand my wife, why should I always understand God?
 
 It seemed that recovery from cancer was going mean going the long way round. Maybe there's a bigger plan.
 
@@ -48,7 +48,7 @@ The suggestion was 12 cycles of FOLFIRI chemotherapy plus antibody treatment. I 
 
 Let's start with potential side effects and work out from there. I was presented with a list of things that could happen; about ten to fifteen potential side effects. I had to acknowledge them and sign a document to say I was happy to proceed. The doctor talking me through the list, discounted various side effects as we went through it. "That won't happen. Nor that. That neither". This was surprising, and slightly encouraging.
 
-Not all side effects were dismissed. Hair loss was pretty likely. This did not bother me particularly. I'd already met that one head on (pun very much intended) by getting the boys to get out the clippers. Other side effects very much caught my eye. "Risk of sudden death" made me sit up and take notice. Yes, I looked with great interest at that one. "Less than 1% chance" it went on. You're reading this, so you can take it that I managed to be part of the 99%. Thus far at least.
+Not all side effects were dismissed. Hair loss was pretty likely. This did not bother me particularly. I'd already met that one head on (pun very much intended) by having the boys get out the clippers. Other side effects very much caught my eye. *"Risk of sudden death"* made me sit up and take notice. Yes, I looked with great interest at that one. *"Less than 1% chance"* it went on. You're reading this, so you can take it that I managed to be part of the 99%. Thus far at least.
 
 Another entry on the list was infertility. I didn't think in depth about that at the time. I have two fine sons and I had no plans to enlarge the clan further. Lisette also, has no such plans.
 
@@ -90,7 +90,7 @@ For larks, I was also told:
 
 Every other Wednesday, I go to hospital with Lisette. My dad drives us, as he's one of the most servant hearted people on earth. Truly a wonderful man. And he loves his oldest son.
 
-At hospital, they weigh me. I'm about 85kg. The first time they measured my height. They only do that once for, I hope, self explanatory reasons. They take my blood pressure, and some of my blood. Then they study it for a couple of hours to see how I'm doing. If my white blood cells and so forth are holding up then they assemble the chemotherapy. 
+At hospital, they weigh me. I'm about 85kg. The first time they measured my height. They only do that once for, I hope, self explanatory reasons. They take my blood pressure, and some of my blood. Lisette and I disappear off to the [Maggies](https://www.maggies.org/); essentially a big lounge on the Royal Marsden site that serves cancer sufferers and those around them. It feels wonderfully relaxing and helpfully non-medical. It is populated by kind and caring people.  It is an oasis. In the meantime the doctors study my blood for a couple of hours to see how I'm doing. If my white blood cells and so forth are holding up then they assemble the chemotherapy. 
 
 Have you ever been to a DIY store where they mix paint specifically for you? Well it's that, but the stakes are a good deal higher than the colour of the lounge.
 
@@ -108,7 +108,7 @@ I've done this three times now. Well, end-to-end I've done it twice. It's a Wedn
 
 After the first time, which was pretty heavy, I knew I had to do better. I needed, I need, to be able to bear this. That way life lies. I have to do this again, and again, and again and I'll still not be done. To get through this, and get through this well, I must thrive. That became my prayer. If instantaneous healing wasn't on offer, then God please help me get through this horrible thing.
 
-I must make this work. For many years I have written a technical blog with the name "I can make this work". The reasons behind the name are vaguely technical and also silly, but the spirit of it applies to my situation now.
+I must make this work. For many years I have written a technical blog with the name "[I can make this work](https://johnnyreilly.com/about)". The name is semi retired, but the the spirit of it applies to my situation now.
 
 The second time I was disconnected, I didn't cry. That is progress.
 
