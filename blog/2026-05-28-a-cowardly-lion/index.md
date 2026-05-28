@@ -2,7 +2,7 @@
 title: "A cowardly lion"
 authors: johnnyreilly
 tags: []
-image: ./time-to-get-treament.png
+image: ./time-to-get-treament.webp
 description: "The story of getting started with my cancer treatment"
 hide_table_of_contents: false
 slug: cowardly-lion
@@ -36,7 +36,7 @@ When you think of cancer treatment you don't think "2 aspirin and you'll be righ
 
 There's a family WhatsApp group I'm part of. On the day I was to learn what my treatment was to be, I posted this:
 
-![screenshot of a WhatsApp message that reads "Prayers appreciated today folks. Dad is driving myself and Lisette to hospital and I'm hoping to get a treatment plan. And courage, for I am a cowardly lion"](./time-to-get-treament.png)
+![screenshot of a WhatsApp message that reads "Prayers appreciated today folks. Dad is driving myself and Lisette to hospital and I'm hoping to get a treatment plan. And courage, for I am a cowardly lion"](./time-to-get-treament.webp)
 
 I may be a grown up and a big man physically, but I was very nervous about the treatment. With good cause.
 
@@ -86,7 +86,7 @@ Have you ever been to a DIY store where they mix paint specifically for you? Wel
 
 Then I'm plugged in. A lead connects to my chest and pumps chemicals into me. An assortment of bags hang above me like a disappointing child's crib mobile. I diligently look in other directions. I keep this diligence up for hours. I did mention I was squeamish. Time passes. Towards the end of the day, the lead is disconnected, and a different lead is attached. This one connected to something that appears similar to a babies bottle:
 
-![a pictures of the pump / bottle](./pump-up-the-chemo.jpg) 
+![a pictures of the pump / bottle](./pump-up-the-chemo.webp) 
 
 In fact it contains a chemotherapy drug called "5FU", and yes all the nurses make the joke you'd expect about that. Then I go home. The pump stays connected to me until Friday evening. At that point a nurse will arrive at my house and, after some maintenance, disconnect me.
 
@@ -116,7 +116,7 @@ The treatment is ongoing, and I'm getting through it. My attitude is helping (mo
 
 After I posted my message in the family WhatsApp group, one of my lovely relatives posted this lovely response:
 
-![A WhatsApp message responding to the one from earlier which reads "The cowardly lion in the Wizard of Oz showed courage, but just doubted himself. Just like you. X"](./courage.png)
+![A WhatsApp message responding to the one from earlier which reads "The cowardly lion in the Wizard of Oz showed courage, but just doubted himself. Just like you. X"](./courage.webp)
 
 I can make this work. With a little bit of help from God, my friends and my family. I will make this work.
 
