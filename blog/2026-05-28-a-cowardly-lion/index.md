@@ -18,6 +18,12 @@ If you're anything like me, you may want to cut your losses and stop reading now
 
 [When I last wrote](../2026-04-30-rough-road-ahead/index.md), I was anticipating getting treatment for my cancer diagnosis. Getting the diagnosis had been a drip, drip of bad news. Once we'd got there though, the question then became "what can we do about all this then?"
 
+There's a family WhatsApp group I'm part of. On the day I was to learn what my treatment was to be, I posted this:
+
+![screenshot of a WhatsApp message that reads "Prayers appreciated today folks. Dad is driving myself and Lisette to hospital and I'm hoping to get a treatment plan. And courage, for I am a cowardly lion"](./time-to-get-treament.webp)
+
+I may be a grown up and a big man physically, but I was very nervous about the treatment. With good cause.
+
 I had, as I've mentioned previously, been very much hoping for a sudden miraculous healing. Having been in and out of churches my whole life, you become aware of the occasional modern day miracle. It's rare in my experience, but I would have quite happily had a piece of that action.
 
 Immediate healing didn't happen. I've heard it said that the answer to prayers can be "yes, no or... not yet". That was a helpful framing for me. For what it's worth, a lack of upfront healing didn't dent my faith in God. That's not my basis. I still believe; that's unchanged. In my head I chalked it up to "I don't always understand God". There's lots of things on my "I don't get it" list, but they don't rob me of a relationship with God. I mean, I don't always understand my wife, why should I always understand God?
@@ -33,12 +39,6 @@ Time to go large on chemotherapy, antibody treatment and friends.
 When discussing my initial diagnosis with my friend Stu, the conversation turned to how cancer is dealt with. Stu's view was that "in years to come, we'll look at how we treat cancer now in the same way we do when we hear about cavemen treating headaches with a drill to the head".  He had an undeniable point. 
 
 When you think of cancer treatment you don't think "2 aspirin and you'll be right by Thursday". You think "that won't be fun". As I realised what was in front of me, I was thinking that a great deal. A great deal.
-
-There's a family WhatsApp group I'm part of. On the day I was to learn what my treatment was to be, I posted this:
-
-![screenshot of a WhatsApp message that reads "Prayers appreciated today folks. Dad is driving myself and Lisette to hospital and I'm hoping to get a treatment plan. And courage, for I am a cowardly lion"](./time-to-get-treament.webp)
-
-I may be a grown up and a big man physically, but I was very nervous about the treatment. With good cause.
 
 ## Drugs and their side effects 
 
