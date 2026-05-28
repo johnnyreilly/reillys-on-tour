@@ -18,9 +18,9 @@ If you're anything like me, you may want to cut your losses and stop reading now
 
 [When I last wrote](../2026-04-30-rough-road-ahead/index.md), I was anticipating getting treatment for my cancer diagnosis. Getting the diagnosis had been a drip, drip of bad news. Once we'd got there though, the question then became "what can we do about all this then?"
 
-I had, as I've mentioned previously, been very much hoping for a sudden miraculous healing. Having been in and out of churches my whole life, you become aware of the occasional modern day miracle. It's rare in my experience, but ongoing, and I would have quite happily had a piece of that action.
+I had, as I've mentioned previously, been very much hoping for a sudden miraculous healing. Having been in and out of churches my whole life, you become aware of the occasional modern day miracle. It's rare in my experience, but I would have quite happily had a piece of that action.
 
-That didn't happen. I've heard it said that the answer to prayers can be "yes, no or... not yet". That was a helpful framing for me. For what it's worth, a lack of upfront healing didn't dent my faith in God. That's not my basis. I still believe; that's unchanged. In my head I chalked it up to "I don't always understand God". There's lots of things on my "I don't get it" list, but they don't rob me of a relationship with God. I mean, I don't always understand my wife, why should I always understand God?
+Immediate healing didn't happen. I've heard it said that the answer to prayers can be "yes, no or... not yet". That was a helpful framing for me. For what it's worth, a lack of upfront healing didn't dent my faith in God. That's not my basis. I still believe; that's unchanged. In my head I chalked it up to "I don't always understand God". There's lots of things on my "I don't get it" list, but they don't rob me of a relationship with God. I mean, I don't always understand my wife, why should I always understand God?
 
 It seemed that recovery from cancer was going mean going the long way round. Maybe there's a bigger plan.
 
