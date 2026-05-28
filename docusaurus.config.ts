@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import docusaurusCloudinaryRehypePlugin from 'rehype-cloudinary-docusaurus';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const url = 'https://johnnyreilly.github.io/reillys-on-tour/';
@@ -143,6 +144,13 @@ const config: Config = {
         },
         docs: false,
         blog: {
+          rehypePlugins: [[
+            docusaurusCloudinaryRehypePlugin,
+            {
+              cloudName: 'priou',
+              baseUrl: url,
+            },
+          ]],
           archiveBasePath: '/blog',
           blogTitle: 'Reillys on Tour',
           blogDescription: 'The adventures of the Reilly family',
@@ -171,6 +179,13 @@ const config: Config = {
   ],
 
   headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://res.cloudinary.com',
+      },
+    },
     // Structured data in the form of JSON-LD - inspired by https://moz.com/blog/writing-structured-data-guide
     {
       tagName: 'script',
