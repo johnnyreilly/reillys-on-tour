@@ -102,6 +102,8 @@ const siteStructuredData = {
   ],
 };
 
+const isProductionBuild = process.env.NODE_ENV === 'production';
+
 const config: Config = {
   title: 'Reillys on Tour',
   tagline: 'The adventures of the Reilly family',
@@ -144,13 +146,15 @@ const config: Config = {
         },
         docs: false,
         blog: {
-          rehypePlugins: [[
-            docusaurusCloudinaryRehypePlugin,
-            {
-              cloudName: 'priou',
-              baseUrl: url,
-            },
-          ]],
+          rehypePlugins: isProductionBuild
+            ? [[
+                docusaurusCloudinaryRehypePlugin,
+                {
+                  cloudName: 'priou',
+                  baseUrl: url,
+                },
+              ]]
+            : [],
           archiveBasePath: '/blog',
           blogTitle: 'Reillys on Tour',
           blogDescription: 'The adventures of the Reilly family',
