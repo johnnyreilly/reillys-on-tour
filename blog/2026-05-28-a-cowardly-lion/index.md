@@ -74,7 +74,16 @@ Perhaps you've seen that James Bond movie "The Man with the Golden Gun". You may
 
 With that in place they could go buck mad and push all kinds of stuff into me. It's worth remembering what chemotherapy is. It's life giving poison. It's bad news for you in the short term, in order that you get to have a long term. Because it's even worse news for cancer. Obviously. That is the point.
 
-So one spring day, Lisette and I went to a hospital near London Bridge. I returned that night with a port fitted, feeling something like a faulty cyborg.
+So one spring day, Lisette and I went to a hospital near London Bridge. I returned that night with a port fitted, feeling something like a faulty cyborg. 
+
+For larks, I was also told:
+ - "Don't shower for a while, you have stitches". 
+ - "Don't shower?" 
+ - "Well not for a week or so, have Scouse showers."
+ - "Scouse showers?"
+ - "Yeah a flannel"
+
+ At the time I was focused mainly on staying as healthy as possible, and so nodded and left.  But let the record reflect that I was outraged on behalf of the people of Liverpool.
 
 ## The new traditions 
 
