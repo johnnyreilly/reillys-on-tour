@@ -5,6 +5,7 @@ import docusaurusCloudinaryRehypePlugin from 'rehype-cloudinary-docusaurus';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const url = 'https://johnnyreilly.github.io/reillys-on-tour/';
+const cloudinaryBaseUrl = 'https://johnnyreilly.github.io';
 const title = 'johnnyreilly';
 // const tagline = "Hi! I'm John Reilly - welcome! ❤️🌻";
 const description =
@@ -151,7 +152,7 @@ const config: Config = {
                 docusaurusCloudinaryRehypePlugin,
                 {
                   cloudName: 'priou',
-                  baseUrl: url,
+                  baseUrl: cloudinaryBaseUrl,
                 },
               ]]
             : [],
