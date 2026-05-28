@@ -54,7 +54,7 @@ Another entry on the list was infertility. I didn't think in depth about that at
 
 But it lead to one of life's unexpected emails:
 
-"the treatment can lead to infertility, would you like to sperm bank prior to starting the treatment?"
+> "the treatment can lead to infertility, would you like to sperm bank prior to starting the treatment?"
 
 The infertility news itself was not unexpected. What I hadn't realised, and I'll confess to disappointment upon discovering, was that "sperm bank" had become a verb.
 
