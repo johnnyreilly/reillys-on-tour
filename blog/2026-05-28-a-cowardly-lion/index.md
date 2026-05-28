@@ -48,7 +48,7 @@ The suggestion was 12 cycles of FOLFIRI chemotherapy plus antibody treatment. I 
 
 Let's start with potential side effects and work out from there. I was presented with a list of things that could happen; about ten to fifteen potential side effects. I had to acknowledge them and sign a document to say I was happy to proceed. The doctor talking me through the list, discounted various side effects as we went through it. "That won't happen. Nor that. That neither". This was surprising, and slightly encouraging.
 
-Not all side effects were dismissed. Hair loss was pretty likely. This did not bother me particularly. I'd already met that one head on (pun very much intended) by getting the boys to get out the clippers. Other side effects very much caught my eye. "Risk of sudden death" made me sit up and take notice. Yes, I looked with great interest at that one. "Less than 1% chance" it went on. You're reading this, so you can take it that I managed to be part of the 99%.
+Not all side effects were dismissed. Hair loss was pretty likely. This did not bother me particularly. I'd already met that one head on (pun very much intended) by getting the boys to get out the clippers. Other side effects very much caught my eye. "Risk of sudden death" made me sit up and take notice. Yes, I looked with great interest at that one. "Less than 1% chance" it went on. You're reading this, so you can take it that I managed to be part of the 99%. Thus far at least.
 
 Another entry on the list was infertility. I didn't think in depth about that at the time. I have two fine sons and I had no plans to enlarge the clan further. Lisette also, has no such plans.
 
