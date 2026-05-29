@@ -106,7 +106,7 @@ The first time I was unplugged, I waited until the nurse left the house, then I 
 
 I've done this three times now. Well, end-to-end I've done it twice. It's a Wednesday evening now, and I'm just back from my third chemotherapy session in the hospital. In two days time they'll disconnect me again, and I'll have eleven days break until we go again.
 
-After the first time, which was pretty heavy, I knew I had to do better. I needed, I need, to be able to bear this. That way life lies. I have to do this again, and again, and again and I'll still not be done. To get through this, and get through this well, I must thrive. That became my prayer. If instantaneous healing wasn't on offer, then God please help me get through this horrible thing.
+After the first time, which was pretty heavy, I knew I had to do better. I needed, I need, to be able to bear this. That way life lies. I have to do this again, and again, and again and I'll still not be done. To get through this, and get through this well, I must thrive. That became my prayer. If instantaneous healing wasn't on offer, then God please help me get through this horrible thing. Give me the strength I need; physical, mental and spiritual. Please help me God.
 
 I must make this work. For many years I have written a technical blog with the name "[I can make this work](https://johnnyreilly.com/about)". The name is semi retired, but the the spirit of it applies to my situation now.
 
