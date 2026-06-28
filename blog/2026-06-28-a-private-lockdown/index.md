@@ -16,7 +16,7 @@ The best way I can think of describing it is this: I'm in lockdown. We all did l
 
 I'm not going to the office. I'm not going to church. I'm not going to the cinema. I see tech meetups I'd like to be at happening in London. I'm not going to them. I don't really leave Twickenham, save for hospital trips.
 
-My world has become physically smaller. But it is a good world. I feel blessed to be in Twickenham. I live in a nice house, with a garden. I have a family and a cat. I'm close to the river and I can walk and watch the sun rise. There is, as there always is, so much to be so very grateful for. And I am.
+My world has become physically smaller. But it is a good world. I feel blessed to be in Twickenham. I live in a nice house, with a garden. I have a family and a cat. I'm close to the river and I can walk and watch the sun rise. There is, as there always is, so much to be so very grateful for. And I am. Let me tell you about it.
 
 ## Work
 
@@ -60,7 +60,7 @@ As well as making you drink more water, and urinate excessively, chemotherapy ha
 
 I'm not going to church anymore. A compromised immune system and loving people that would try to hug me and breathe all over me don't mix. Singing seems hazardous; mobile germs. I'm not going to the gym either. Even worse on the breathing front, plus added sweat.
 
-I am having one to one pilates and clinical PT sessions at my physio every other week. Move Physio in Twickenham. I started going there with my back issues last year, and they sorted me out. The pilates and PT sessions are somewhat adjusted given my current circumstances. The port in my chest restricts my movements a little (and my confidence; I'm scared of damaging it). However the sessions I'm having are keeping me on the straight and narrow and hopefully preventing any relapses on the back front. Quite apart from the physical side, the chats with Bal, Hannah, Justyna, Kia and everyone else do lift my mood tremendously as well. 
+I am having one to one pilates and clinical PT sessions at my physio every other week. Move Physio in Twickenham. I started going there with my back issues last year, and they sorted me out. The pilates and PT sessions are somewhat adjusted given my current circumstances. The port in my chest restricts my movements a little (and my confidence; I'm scared of damaging it). However the sessions I'm having are keeping me on the straight and narrow, and are hopefully preventing any relapses on the back front. Quite apart from the physical side, the chats with Bal, Hannah, Justyna, Kia and everyone else do lift my mood tremendously as well. 
 
 Despite all my best efforts, I still managed to get sick. Probably passed on from the enemy within; my beloved family. I did a day of hallucinations and toilet time. It's taken really seriously, getting ill when you're on chemotherapy. I've got a special card in my wallet to flash at the hospital folk. And if you get ill on chemotherapy, that's quite likely where you end up. Fortunately I didn't. The fact my family members got sick before and got better, and that I managed to not run a temperature was considered enough to keep me out of A&E. Phew.
 
@@ -78,15 +78,17 @@ So I look at the lemon tree and I think: "if you can come back from the brink, w
 
 ## Pilgrimage 
 
-I've always walked. I wake early, usually around 5. I walk around the river each day, stopping to take a photograph of the sunrise over the river at Hammertons Ferry terminal which I share on [Bluesky](https://bsky.app/profile/johnnyreilly.com) and with various family and friends. The walk resets me, brings me peace. It makes me happy. I stop and talk to people. I listen to the birds singing. I pray. I do stretches in the outdoor gym that draw questionable glances (not all stretches are delightful from a watchers point of view).
+I've always walked. I wake early, usually around 5. I walk around the river each day, stopping to take a photograph of the sunrise over the river at Hammertons Ferry terminal which I share on [Bluesky](https://bsky.app/profile/johnnyreilly.com) and with various family and friends. The walk resets me, brings me peace. It makes me happy. I stop and talk to people. I listen to the birds singing. I pray. I do stretches in the outdoor gym that draw questionable glances (not all stretches are delightful from a watchers point of view). I stop at a bakery and buy a croissant.
 
 ![Sunrise at Hammertons Ferry terminal](./sunrise-at-hammertons-ferry-terminal.webp)
 
-Walking is all the more important to me now. It has more purpose. If I can't go far, I must appreciate near all the more. I mentioned I'm not going to church. I found myself walking near church one Sunday morning, and a car rolled past me as I marched along and out came the cry "we love you John Reilly!" That made tear up. Quite lovely. Some people really show up. They really do.
+Walking is all the more important to me now. It has more purpose. If I can't go far, I must appreciate near all the more. I mentioned I'm not going to church. I found myself walking near church one Sunday morning, and a car rolled past me as I marched along and out came the cry "we love you John Reilly!" That gave me tears. Good tears. Quite lovely. Some people really show up. They really do.
 
 Some don't. But I notice the ones that do. And I dig them. They're amazing. They're special. They make the world better. Can you believe an internet friend in California sent me homemade honey from his bees? That's generousity.
 
 Walking has become my social life. I go for walks with friends from near and far. The record so far is held by the wonderful Graeme, who flew in from Johannesburg and came to Twickenham to walk with me. Rick flew in from Ireland and walked with me. Local friends walk with me regularly. My parents and my sisters family in Clapham are my regular companions. On one occasion Kirsty even brought a cheesecake that we ate together by the river. Simple stuff. Good times.
+
+![The family by the river](./walk-with-family.webp)
 
 Everyone tells me I'm doing very well. And I think I am. Physically in particular. Mentally I'm up and down. Sometimes my body hurts. I have blisters on my feet and cuts; it's one of the side effects. Sometimes it's difficult to eat because your tongue aches and your throat burns. In those moments it feels more like you're not doing so well. That you're on the way out. Even if you know it's temporary. It's hard to get the head to hold onto that sometimes.
 
@@ -102,9 +104,11 @@ About two thousand years ago, somewhere in Jerusalem, Jesus Christ had a meal wi
 
 Since that time, Christians have gathered to have bread and wine and repeat this tradition in remembrance. It's called Communion. I've participated in it many times in my life. It brings me humility and comfort. That God would suffer for me. Surely I'm not worthy? But God thinks I am.
 
-Thomas is one of the vicars at St Stephen's. He's been a great friend to me in this time. When I realised my new ways, I asked if I could take Communion sometime somehow. I didn't really know why I was asking, but it felt important.
+Thomas is one of the vicars at [St Stephen's](https://www.st-stephens.org.uk/); the church I'm part of in Twickenham. He's been a great friend to me in this time. When I realised my new ways, I asked if I could take Communion sometime somehow. I didn't really know why I was asking, but it felt important.
 
 So now, every other week, when I'm not having treatment, we have met for a one to one Communion. We've taken it outdoors, down by the riverside. We've taken it in the empty church building. We've taken it in the prayer chapel at church whilst the main body of the church was prepared for Refresh - a gathering of the babies and parents of Twickenham where the church becomes a giant play room. In fact on that occasion, parts of our Communion were soundtracked by Bluey, a children's TV show about a puppy. I'm pretty sure 1st century Jerusalem would have had its own unique background noises as well.
+
+This is Thomas in an atypically empty St Stephen's!
 
 ![The inside of St Stephens Church - it's empty apart from Thomas](./church-with-thomas.webp)
 
@@ -116,7 +120,7 @@ In the end, the tears pass. I eat the bread. I drink the wine. I am grateful. Th
 
 ## So, how am I?
 
-At times I feel like an aeroplane in a second world war movie. Flying over enemy territory. Being shot at from below, but still flying. The only way is forward, we'll get there. "We're doing this."
+At times I feel like an aeroplane in a war movie. Flying over enemy territory. Being shot at from below, but still flying. The only way is forward, we'll get there. "We're doing this."
 
 A friend sent me a message; it's kind of the same thing but a lot more positive (and therefore better): 
 
@@ -124,7 +128,7 @@ A friend sent me a message; it's kind of the same thing but a lot more positive 
 
 I like this.
 
-I had cried every day since the diagnosis. The other day I didn't. Yes, I did cry today. But I have days when I don't. Maybe that's progress. Maybe.
+I realised that I had cried every day since the diagnosis. Then the other day I didn't. Yes, I did cry today. But I have days when I don't. Maybe that's progress. Maybe.
 
 I want more time. That's what I keep coming back to. I'm not ready to be commemorated by a park bench. I'm sat on a commemorative bench now, and it's wonderful. But I'm not ready for one. I want more time. And I want it to be real time; real life. Not marking time. 
 
@@ -136,4 +140,4 @@ I hope this gentleman can balance the other fellow out. I believe he can. I must
 
 For now my world has shrunk. Whilst it may be smaller, it is still wonderful. Maybe I'm looking at less, and seeing more. I certainly intend to.
 
-We're doing this. We're doing this. I love my wife.
+We're doing this. I love my wife.
