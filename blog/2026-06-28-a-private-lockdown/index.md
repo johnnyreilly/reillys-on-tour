@@ -46,7 +46,7 @@ Apart from anything else, work nicely gets me out of my head. Left to my own dev
 
 I'm joining meetings with my camera on now. I'll not join strategically late; I'll have the cheery chats and enjoy it. Oftentimes I'll find myself sharing my peculiar current lifestyle with those on the call. Possibly I'm over sharing. But that's quite Investec too. I feel part of something, and that makes me happy. These people love me and I love them.
 
-Next Thursday a number of them are planning to do a sponsored run from the office in the City of London to the White Swan Pub on the riverside in Twickenham near me. They'll raise money for a cancer related charity named Maggies that I am grateful to. I'll get to see a number of them, in a socially distanced fashion. That's rather special. You don't get that everywhere.
+Next Thursday a number of them are planning to do a sponsored run / cycle and walk from the office in the City of London to the White Swan Pub on the riverside in Twickenham near me. They'll raise money for a cancer related charity named [Maggies](https://www.maggies.org/) that I am grateful to. I'll get to see a number of them, in a socially distanced fashion. That's rather special. You don't get that everywhere.
 
 ## Home
 
@@ -60,13 +60,13 @@ As well as making you drink more water, and urinate excessively, chemotherapy ha
 
 I'm not going to church anymore. A compromised immune system and loving people that would try to hug me and breathe all over me don't mix. Singing seems hazardous; mobile germs. I'm not going to the gym either. Even worse on the breathing front, plus added sweat.
 
-I am having one to one pilates and clinical PT sessions at my physio every other week. Move Physio in Twickenham. I started going there with my back issues last year, and they sorted me out. The pilates and PT sessions are somewhat adjusted given my current circumstances. The port in my chest restricts my movements a little (and my confidence; I'm scared of damaging it). However the sessions I'm having are keeping me on the straight and narrow, and are hopefully preventing any relapses on the back front. Quite apart from the physical side, the chats with Bal, Hannah, Justyna, Kia and everyone else do lift my mood tremendously as well. 
+I am having one to one pilates and clinical PT sessions at my physio every other week. [Move Physio](https://movephysio.co.uk/) in Twickenham. I started going there with my back issues last year, and they sorted me out. The pilates and PT sessions are somewhat adjusted given my current circumstances. The port in my chest restricts my movements a little (and my confidence; I'm scared of damaging it). However the sessions I'm having are keeping me on the straight and narrow, and are hopefully preventing any relapses on the back front. Quite apart from the physical side, the chats with Bal, Hannah, Justyna, Kia and everyone else do lift my mood tremendously as well. 
 
-Despite all my best efforts, I still managed to get sick. Probably passed on from the enemy within; my beloved family. I did a day of hallucinations and toilet time. It's taken really seriously, getting ill when you're on chemotherapy. I've got a special card in my wallet to flash at the hospital folk. And if you get ill on chemotherapy, that's quite likely where you end up. Fortunately I didn't. The fact my family members got sick before and got better, and that I managed to not run a temperature was considered enough to keep me out of A&E. Phew.
+Despite all my best efforts, I still managed to get sick. Probably passed on from the enemy within; my beloved family. I did a day of hallucinations and toilet time. It's taken really seriously, getting ill when you're on chemotherapy. I've got a special card in my wallet to flash at the hospital folk. And if you get ill on chemotherapy, that's quite likely where you end up. Fortunately I didn't. The fact my family members got sick before and got better before me, and that I managed to not run a temperature, was considered enough to keep me out of A&E. Phew.
 
 I find myself watching Clarkson's farm on hard repeat. I do that because I enjoy it. I do it because I'm having a hard time. It gets me through. I can't really explain why. It's very beautiful to watch - the photography of English countryside is stunning. I find all the characters comforting. They're voices and personalities that I'm familiar with. Somehow it relaxes me. It turns off part of my head that does pointless thinking. I've watched each episode of Clarkson's Farm probably 10 times at least. I haven't finished the fifth series yet; we're savouring each episode and taking our time watching them together as a family. It's like when I was a boy and I'd re-read Asterix books again and again. It didn't matter much that I'd read Asterix in Corsica a million times, it brought me happiness. Peace. We all need that.
 
-The children seem normal, by the way. Good. They were quite nervous when they first heard my diagnosis. Fair enough. But the fact that I still appear to be functioning fairly typically, if slightly differently, has eased their concerns for now it seems. The same level of general disobedience abounds. Chores are mostly not being done, and I am still being referred to as "bruh" for reasons that are unclear. Lisette is also referred to as "bruh". Go figure.
+The children seem happy. Good. They were quite nervous when they first heard my diagnosis. Fair enough. But the fact that I still appear to be functioning fairly typically, if slightly differently, has eased their concerns for now it seems. The same level of general disobedience abounds. Chores are mostly not being done, and I am still being referred to as "bruh" for reasons that are unclear. Lisette is also referred to as "bruh". Go figure.
 
 What else? I sit in the garden. I potter around my various plants and trees occasionally trimming the dead wood and picking up the partially eaten apples that the parakeets knock out of the tree as they come scrumping.
 
@@ -108,11 +108,11 @@ Thomas is one of the vicars at [St Stephen's](https://www.st-stephens.org.uk/); 
 
 So now, every other week, when I'm not having treatment, we have met for a one to one Communion. We've taken it outdoors, down by the riverside. We've taken it in the empty church building. We've taken it in the prayer chapel at church whilst the main body of the church was prepared for Refresh - a gathering of the babies and parents of Twickenham where the church becomes a giant play room. In fact on that occasion, parts of our Communion were soundtracked by Bluey, a children's TV show about a puppy. I'm pretty sure 1st century Jerusalem would have had its own unique background noises as well.
 
-This is Thomas in an atypically empty St Stephen's!
+This is Thomas in an atypically empty St Stephen's. (I took this photo standing on tiptoes standing on a chair.)
 
 ![The inside of St Stephens Church - it's empty apart from Thomas](./church-with-thomas.webp)
 
-The only alcohol I've drunk since my diagnosis has been Communion wine. That's not forever. But it is for now. I go each time for Communion without expectation. Thomas and I will talk. At some point we'll turn to Communion. Unbidden, each time I find tears rolling down my cheeks and I am racked with sobs. I'm not thinking anything in particular. But it comes. I'm feeling. I'm probably processing something. I don't really understand.
+The only alcohol I've drunk since my diagnosis has been Communion wine. That's not forever. But it is for now. I go each time for Communion without expectation. Thomas and I will talk. At some point we'll turn to Communion. Unbidden, each time I find tears rolling down my cheeks and I am racked with sobs. I'm not thinking anything in particular in that moment. But it comes. I'm feeling. I'm probably processing something. I don't really understand.
 
 ![Thomas sat at the Communion table](./thomas-at-the-communion-table.webp)
 
@@ -130,14 +130,14 @@ I like this.
 
 I realised that I had cried every day since the diagnosis. Then the other day I didn't. Yes, I did cry today. But I have days when I don't. Maybe that's progress. Maybe.
 
-I want more time. That's what I keep coming back to. I'm not ready to be commemorated by a park bench. I'm sat on a commemorative bench now, and it's wonderful. But I'm not ready for one. I want more time. And I want it to be real time; real life. Not marking time. 
+I want more time. That's what I keep coming back to. I'm not ready to be commemorated by a park bench. I'm sat on a commemorative bench now, and it's wonderful. But I'm not ready for one. Give me more time. Please God. And give me real time; real life. Not marking time. 
 
-Whilst I remember to notice all the positives, the sun rising, the kindness of friends and family, the love I am surrounded by.... despite all that there is a part of me that is scratching off days on my cell wall. I'm not proud of that guy, but he's in there. 
+Whilst I remember to notice all the positives, there is a part of me that is scratching off days on my cell wall. I'm not proud of that guy, but he's in there. 
 
-On the other hand, so is the man that walks around the river each morning, and takes a photograph of sunrise at the Hammertons ferry terminal. So is the man who strolls with friends and family. So is the man who is buying a croissant each morning and eating it with fresh coffee. And the guy who wanders around the garden feeling pleased with plants and trees. The chap that takes pleasure in coming up with new meals to cook and the one who goes for lunchtime meals with his wife in otherwise deserted restaurants.
+On the other hand, so is the man that walks around the river each morning, and takes a photograph of sunrise at the Hammertons ferry terminal. So is the man who strolls with friends and family. So is the man who buys a croissant each morning and eats it with coffee he's made using beans sent from a friend in South Africa. And the guy who wanders around the garden feeling pleased with plants and trees. The chap that takes pleasure in coming up with new meals to cook and the one who goes for lunchtime meals with his wife in otherwise deserted restaurants. The man that notices the many kindnesses of friends and family, who feels the love he is so reliably surrounded by.
 
 I hope this gentleman can balance the other fellow out. I believe he can. I must nurture him.
 
 For now my world has shrunk. Whilst it may be smaller, it is still wonderful. Maybe I'm looking at less, and seeing more. I certainly intend to.
 
-We're doing this. I love my wife.
+We're doing this. I love my wife. We're doing this.
