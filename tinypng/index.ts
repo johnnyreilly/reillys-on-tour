@@ -71,12 +71,12 @@ async function processImageFiles(imageFiles: string[]) {
         ? source
             .resize({
               method: 'fit',
-              width: 800,
-              height: 450,
+              width: 1200,
+              height: 630,
             })
-            .convert({
-              type: ['image/png'], // title images are always png because social media sharing doesn't support webp well enough
-            })
+            // .convert({
+            //   type: ['image/png'], // title images are always png because social media sharing doesn't support webp well enough
+            // })
         : source.convert({
             type: ['image/webp', 'image/png'],
           });
