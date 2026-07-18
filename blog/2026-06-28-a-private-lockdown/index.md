@@ -48,6 +48,18 @@ I'm joining meetings with my camera on now. I'll not join strategically late; I'
 
 Next Thursday a number of them are planning to do a sponsored run / cycle and walk from the office in the City of London to the White Swan Pub on the riverside in Twickenham near me. They'll raise money for a cancer related charity named [Maggies](https://www.maggies.org/) that I am grateful to. I'll get to see a number of them, in a socially distanced fashion. That's rather special. You don't get that everywhere.
 
+## Update 18 July 2026
+
+About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of the sponsored walk / run. It sounded like about 5 or 6 people would take part and I'd get to see them down by the riverside at the end for 30 minutes or so; and spend a little time with friends in person, instead of on a screen.  This was an entirely delightful prospect.
+
+They surprised me.  Around 3:30 I got the first message that people were arriving and I hastened down to the river. There were more people there than I had expected.  Quite a lot more.  And as the afternoon progressed more arrived.  Then more. Then more. I don't know the actual numbers in the end, but I know it was headed in the direction of 70 Investec people.  I was amazed.  
+
+This is us:
+
+![a photograph of myself surrounded by around 70 Investec employees and Lisette and James](./rough-road-runners.webp)
+
+Together [they raised about six thousand pounds for Maggies](https://www.justgiving.com/page/roughroadrunners). At 10:30pm that night, there were still Investec people down at the White Swan.  They'd taken time out of their lives to raise some money for charity, and to raise my mood.  I was bowled over.  The people of Investec are magnificent.
+
 ## Home
 
 My life at home has changed in a number of ways. I now sleep on a mattress on the floor, intentionally close to a toilet. For two nights out of every fourteen, I have a pump plugged into me that pushes chemotherapy into my bloodstream. For practical reasons, being close to the floor is helpful. The pump can sit on the ground and not be disturbed as I move in my sleep.
