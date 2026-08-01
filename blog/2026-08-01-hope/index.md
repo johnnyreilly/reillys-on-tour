@@ -79,11 +79,11 @@ But that felt impossible to me on the evening of July 13th. I couldn't see a fut
 
 The results were due on July 15th. I awoke that morning with a song running through my head: "Whatever" by Oasis. 
 
-This song passed me by when it was initially released. As "guitar music is for losers" - John Reilly aged 17.
+This song passed me by when it was initially released. As "guitar music is for losers" - John Reilly, aged 17.
 
 My mind has broadened since I was a teenager and I will now accept that music that isn't East coast hip-hop may have merit. With that change in perspective, I've grown to love this song over the years.
 
-The best songs allow you to make up your own meanings. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept going through my head: I know it's alright.
+The best songs allow you to decide what they mean. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept repeating in my head: "I know it's alright".
 
 I didn't actually think it was. But I wanted it to be. I'd like to imagine the DJ deciding my brains playlist knew something I didn't.
 
