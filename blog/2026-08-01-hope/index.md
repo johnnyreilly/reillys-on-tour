@@ -118,8 +118,8 @@ It had all gone slightly blurry for me in the room. "The news is good." I focuss
 
 "We'd planned for you to do twelve rounds of chemotherapy. We'll probably stick with that. You've done six. But we need to take you off for a while now. We're going to schedule your first surgery. Although we can't see anything in lung, that's not to say there's nothing there. We want to remove the part where the tumour was; statistically that makes reoccurrence much less likely. So. Your body will recover from chemotherapy for a while, then surgery, you should recover from that in about a month, then we'll start you on the chemotherapy again with a view to surgery on the colon later this year."
 
-I'd expected pretty much anything but what I had been told. This gave me, gives me, hope. Hope doesn't need to be ginormous. It just needs to be enough. This was enough.
+I'd expected pretty much anything but what I had been told. This gave me, gives me, hope. Hope doesn't need to be all encompassing. It just needs to be enough. This was enough for me.
 
-So this is me. I feel like I've done maybe the first 20% of my treatment. And whilst the road is disappointingly long, I am on it. 
+So this is me now. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of my treatment. Whilst the road is disappointingly long, I am on it. 
 
 The news is good. The news is good!
