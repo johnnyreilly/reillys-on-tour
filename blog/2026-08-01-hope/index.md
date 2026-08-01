@@ -37,7 +37,7 @@ About a month before this, I'd had a call from Lauren and Janice at work, and th
 
 My colleagues surprised me.  On the day of the run, at around 3:30pm, my phone pinged to tell me that they were here. I hastened down to the river. It wasn't five people. It wasn't six people. There were more.  Quite a lot more.  And as the afternoon progressed more arrived.  Then more. Then more still. I don't know the actual numbers in the end, but I know it was headed in the direction of seventy Investec people.  I was amazed.  
 
-This is us:
+This is some of us:
 
 ![a photograph of myself surrounded by around 70 Investec employees and Lisette and James](./rough-road-runners.webp)
 
