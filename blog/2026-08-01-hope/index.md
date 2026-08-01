@@ -41,13 +41,13 @@ This is some of us:
 
 ![a photograph of myself surrounded by around 70 Investec employees and Lisette and James](./rough-road-runners.webp)
 
-Together [they raised about six thousand pounds for Maggies](https://www.justgiving.com/page/roughroadrunners). 
+Together [the "Rough Road Runners" (as they had called themselves) raised about six thousand pounds for the charity Maggies](https://www.justgiving.com/page/roughroadrunners). 
 
-At 10:30pm that night, there were still Investec people down at the White Swan.  They'd taken time out of their lives to raise some money for charity, and to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent.
+By 10:30pm that night, there were still Investec people down at the White Swan. It helps that it is a lovely pub and it was a gloriously warm evening. But still, I was very touched. These wonderful people had taken time out of their lives to raise some money for charity, and with that, to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent.
 
-I really bloody loved that. Fantastic!
+Being sick, sucks. However, it does give you a chance to appreciate how good and kind the people around you are. They step up, they really do.
 
-## The darkest hour is just before dawn
+## The darkest hour is just before the dawn
 
 And then things went South again.
 
