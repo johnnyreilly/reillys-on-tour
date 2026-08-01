@@ -1,7 +1,7 @@
 ---
 title: "A private lockdown"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./title-image.jpg
 description: "What life is like for me as I go through treatment"
 hide_table_of_contents: false

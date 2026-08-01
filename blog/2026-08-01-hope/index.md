@@ -1,7 +1,7 @@
 ---
 title: "Hope"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./title-image.jpeg
 description: "I get some good news about my treatment."
 hide_table_of_contents: false
@@ -106,22 +106,33 @@ She looked up at this point and saw Lisette and myself with tears rolling down o
 
 "Oh you'll set us off!" she passed tissues to us both. She kept talking.
 
-"The tumour in your colon was four centimetres. It's shown significant regression and is now two centimetres." The doctor went on to say more about activity in the tumour and, I'll confess I didn't really understand the details. It sounded like the tumour had gone from highly active which was bad news, to considerably less so, which was presumably the opposite of bad.
+"The tumour in your colon was four centimetres. It's shown significant regression and is now two centimetres." The doctor went on to say more about activity in the tumour and, I'll confess I didn't really understand the details. It sounded like the tumour had gone from highly active which was bad, to considerably less so, which was presumably the opposite of bad.
 
 As I say, I didn't quite follow. But it didn't matter. "The news is good". Good news. Gospel.
 
 Thank God. That's all I could think. Thank you God. Thank you.  I found myself able to see my blessings once again. A gift I had somewhat lost over the previous week. 
 
-I live at the best possible time to have cancer; now. The best treatment history has afforded, is now. I live near one of the best hospitals for cancer treatment in the world. I have access to healthcare; many people do not. I'm being treated by some of the best people to ever do it. I'm not alone. I'm surrounded by a loving wife, family, friends, neighbours and church. I have many, many reasons to be grateful.
+I live at the best possible time to have cancer: now. The best treatment history has afforded, is right now. I live near one of the best hospitals for cancer treatment in the world. I have access to healthcare; many people do not. I'm being treated by some of the best people to ever do it. I'm not alone. I'm surrounded by a loving wife, family, friends, neighbours and church. I have many, many reasons to be grateful.
 
 It had all gone slightly blurry for me in the room. "The news is good." I focussed again on what the doctor was saying.
 
 "We'd planned for you to do twelve rounds of chemotherapy. We'll probably stick with that. You've done six. But we need to take you off for a while now. We're going to schedule your first surgery. Although we can't see anything in lung, that's not to say there's nothing there. We want to remove the part where the tumour was; statistically that makes reoccurrence much less likely. So. Your body will recover from chemotherapy for a while, then surgery, you should recover from that in about a month, then we'll start you on the chemotherapy again with a view to surgery on the colon later this year."
 
-I'd expected pretty much anything but what I had been told. This gave me, gives me, hope. Hope doesn't need to be all encompassing. It just needs to be enough. This was enough for me.
+I'd expected pretty much anything but what I had been told. What I learned gave me, gives me, hope. Hope doesn't need to be all encompassing. It just needs to be enough. This was enough for me.
 
-So this is me now. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of my treatment. Whilst the road is disappointingly long, I am on it. 
+So this is me now. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of my treatment. Whilst the road is disappointingly long, I am on it and I've learned there are less potholes than I'd feared. I have butchered that analogy.  I don't care. 
 
 The news is good. The news is good!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHfx9LXzxpw?si=pehjxh_uIMDd4YLr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### The recovery diaries
+
+I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say.  When I've written about it, I feel I've dealt with it in some way.  I'm not quite sure why. If you'd like to read the posts (and hey - it's not the most jolly of topics so don't feel you have to) you can find them here:
+
+- [Rough road ahead](../2026-04-30-rough-road-ahead/index.md)
+- [A cowardly lion](../2026-05-28-a-cowardly-lion/index.md)
+- [A private lockdown](../2026-06-28-a-private-lockdown/index.md)
+- [Hope](../2026-08-01-hope/index.md)

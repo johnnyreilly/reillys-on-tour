@@ -1,7 +1,7 @@
 ---
 title: "Rough road ahead"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./me-and-the-boy-post-head-shave-social.jpg
 description: "The story of how I found out I was dealing with cancer"
 hide_table_of_contents: false

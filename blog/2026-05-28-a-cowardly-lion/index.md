@@ -1,7 +1,7 @@
 ---
 title: "A cowardly lion"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./time-to-get-treament.webp
 description: "The story of getting started with my cancer treatment"
 hide_table_of_contents: false
