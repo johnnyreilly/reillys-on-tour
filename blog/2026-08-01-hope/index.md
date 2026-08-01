@@ -31,7 +31,7 @@ The scans were done. I was scanned. I went home. I have had jollier days. I feel
 
 ## An unexpected visit 
 
-So how was I doing at this point? I'd had quite a boost just a couple of weeks before. A cohort of my colleagues had come to lift my spirits.
+So how was I doing at this point? I'd had quite a boost just a couple of weeks before. On July 2nd a cohort of my colleagues had come to lift my spirits.
 
 About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of their running club doing a sponsored walk / run from my office in the City of London to my home in Twickenham. By the sound of it, about five or six people would take part. I'd get to see them down by the riverside at the end for thirty minutes or so. The prospect of spending a little time with five friends in person, instead of on a screen was entirely delightful. Just chatting to folk on a screen was getting tedious.
 
@@ -51,7 +51,7 @@ I really bloody loved that. Fantastic!
 
 And then things went South again.
 
-When I was a teenager I had epilepsy. Quite badly. Then, unexpectedly, when I was 22 I stopped having seizures. This was good. In years to come I got a driving license and I came to regard epilepsy as a memory. On the day before New Year's Eve in 2025 I'd been struggling with insomnia. And after a night of not sleeping, I had my first seizure in 26 years. I woke up in Kingston Hospital, I lost my driving licence. All in all, it was a bit rubbish.
+When I was a teenager I had epilepsy. Quite badly. Then, unexpectedly, when I was 22 I stopped having seizures. This was good. In years to come I got a driving license and I came to regard epilepsy as a memory. On the day before New Year's Eve in 2025 I'd been struggling with insomnia. And after a night of not sleeping, I had my first seizure in 26 years. I found myself in Kingston Hospital, I lost my driving licence. All in all, it was a bit rubbish.
 
 Still. It's probably a one off. That's what I thought. I'll get the driving licence back in time. It'll be fine. So I was disappointed on the morning of July 7th to have another seizure. I'll spare you the details since they aren't super interesting. But it knocked the stuffing out of me. 
 
