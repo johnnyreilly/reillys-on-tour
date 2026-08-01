@@ -57,7 +57,7 @@ Still. It's probably a one off. That's what I thought. I'll get the driving lice
 
 I found myself spiralling. What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. I couldn't take that.
 
-*I promise this will lighten up; stick with me folks. Soon we'll skip to the good part.*
+*I promise this will lighten up; stick with me folks. Soon we'll skip to the good part. Pinky swear.*
 
 So yeah. I was a bit down. But you can see why.  Up until now, it's only been bad stories. You know how you read the news and it's 100% negative generally? Well, that's what all my medical news had been for a while. I was rather doubting that any other kind was possible. So when I went for the scans on July 13th, a bad vibe was rumbling through my head on a loop.
 
