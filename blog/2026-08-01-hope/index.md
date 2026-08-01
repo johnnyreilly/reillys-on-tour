@@ -91,7 +91,7 @@ I didn't actually think it was. But I wanted it to be. I'd like to imagine the D
 
 The appointment was 11:30 at the Royal Marsden in Sutton. The same place I go to for treatment. A kind friend drove Lisette and I to the appointment and we sat in the waiting room, not relaxing. 
 
-We were eventually called in to see the doctor who is in charge of my treatment. I think I've mentioned before that she's a pro, and exudes alpha dog / leader of the pack type vibes. If you want someone who gives you the sense she knows what she's doing, she does. Also, as Lisette has noted, she's quite glamorous. This is a doctor that knows how to dress. My GP growing up very much did not. I digress.
+We were eventually called in to see the doctor who is in charge of my treatment. I think I've mentioned before that she's a pro. She exudes alpha dog / leader of the pack type vibes. If you want someone who gives you the sense she knows what she's doing, she does. Also, as Lisette has noted, she's quite glamorous. This is a doctor that knows how to dress. My GP growing up very much did not. I digress.
 
 "How are you?" the doctor said.
 "Quite stressed!" I squeaked in response.
