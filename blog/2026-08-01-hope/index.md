@@ -2,7 +2,7 @@
 title: "Hope"
 authors: johnnyreilly
 tags: []
-image: ./title-image.jpg
+image: ./title-image.jpeg
 description: "I get some good news about my treatment."
 hide_table_of_contents: false
 slug: hope
@@ -77,9 +77,9 @@ But that felt impossible to me on the evening of July 13th. I couldn't see a fut
 
 ## I know it's alright
 
-The results were due on July 15th. I awoke that morning with a song running through my head: "Whatever" by Oasis. 
+The results were due on July 15th. I awoke that morning with a song running through my head: "Whatever" by Oasis.  This song had passed me by when it was initially released. As "guitar music is for losers" - John Reilly, aged 17.
 
-This song passed me by when it was initially released. As "guitar music is for losers" - John Reilly, aged 17.
+![Me as a teenager with a speech bubble saying "Guitar music is for losers"](./guitar-music-is-for-losers.webp)
 
 My mind has broadened since I was a teenager and I will now accept that music that isn't East coast hip-hop may have merit. With that change in perspective, I've grown to love this song over the years.
 
@@ -123,3 +123,5 @@ I'd expected pretty much anything but what I had been told. This gave me, gives 
 So this is me now. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of my treatment. Whilst the road is disappointingly long, I am on it. 
 
 The news is good. The news is good!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHfx9LXzxpw?si=pehjxh_uIMDd4YLr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
