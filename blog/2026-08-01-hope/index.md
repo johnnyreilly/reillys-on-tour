@@ -45,7 +45,7 @@ Together [the "Rough Road Runners" (as they had called themselves) raised about 
 
 By 10:30pm that night, there were still Investec people down at The White Swan. It helps that it is a lovely pub and it was a gloriously warm evening. But still, I was very touched. These wonderful people had taken time out of their lives to raise some money for charity, and with that, to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent.
 
-Being sick, sucks. However, it does give you a chance to appreciate how good and kind the people around you are. They step up, they really do.
+Being poorly, sucks. However, it does give you a chance to appreciate how good and kind the people around you are. They step up, they really do.
 
 ## The darkest hour is just before the dawn
 
