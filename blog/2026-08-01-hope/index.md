@@ -71,7 +71,9 @@ I read Psalm 91 following my aunt's recommendation. It's a banger. The third ver
 
 > For he will protect you from every trap and protect you from the fatal plague.
 
-What's cancer if not the plague? I wanted to believe this verse. I want protection from this plague. I would be lying if I said that I believed that then. I didn't. That felt impossible to me on the night of July 13th. I couldn't see it. I was lacking hope.
+What's cancer if not the plague? I wanted to believe this verse. I want protection from this plague. 
+
+But that felt impossible to me on the evening of July 13th. I couldn't see a future. I was lacking hope.
 
 ## I know it's alright
 
