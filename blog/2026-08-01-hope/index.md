@@ -33,7 +33,7 @@ The scans were done. I was scanned. I went home. I have had jollier days. I feel
 
 So how was I doing at this point? I'd had quite a boost just a couple of weeks before. On July 2nd a cohort of my colleagues had come to lift my spirits.
 
-About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of their running club doing a sponsored walk / run from my office in the City of London to my home in Twickenham. By the sound of it, about five or six people would take part. I'd get to see them down by the riverside at the end for thirty minutes or so. The prospect of spending a little time with five friends in person, instead of on a screen was entirely delightful. Just chatting to folk on a screen was getting tedious.
+About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of their running club doing a sponsored walk / run from my office in the City of London to a pub called The White Swan near my home in Twickenham. By the sound of it, about five or six people would take part. I'd get to see them down by the riverside at the end for thirty minutes or so. The prospect of spending a little time with five friends in person, instead of on a screen was entirely delightful. Just chatting to folk on a screen was getting tedious.
 
 My colleagues surprised me.  On the day of the run, at around 3:30pm, my phone pinged to tell me that they were here. I hastened down to the river. It wasn't five people. It wasn't six people. There were more.  Quite a lot more.  And as the afternoon progressed more arrived.  Then more. Then more still. I don't know the actual numbers in the end, but I know it was headed in the direction of seventy Investec people.  I was amazed.  
 
