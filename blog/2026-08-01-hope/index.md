@@ -65,7 +65,7 @@ Many people sent me encouragement. They were all far more hopeful than I found a
 
 My aunt that's a nun sent me this message:
 
-![The night prayer psalm tonight could be good for you: Ps 91,especially the last few verses. I will be with them. I will rescue them........](./screenshot-aunt-message.png)
+![The night prayer psalm tonight could be good for you: Ps 91,especially the last few verses. I will be with them. I will rescue them........](./screenshot-aunt-message.webp)
 
 I read Psalm 91 following my aunt's recommendation. It's a banger. The third verse in particular popped for me:
 
