@@ -55,7 +55,7 @@ When I was a teenager I had epilepsy. Quite badly. Then, unexpectedly, when I wa
 
 Still. It's probably a one off. That's what I thought. I'll get the driving licence back in time. It'll be fine. So I was disappointed on the morning of July 7th to have another seizure. I'll spare you the details since they aren't super interesting. But it knocked the stuffing out of me. 
 
-What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. I couldn't take that.
+I found myself spiralling. What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. I couldn't take that.
 
 *I promise this will lighten up; stick with me folks. Soon we'll skip to the good part.*
 
