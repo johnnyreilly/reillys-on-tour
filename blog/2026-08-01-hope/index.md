@@ -1,0 +1,146 @@
+---
+title: "Hope"
+authors: johnnyreilly
+tags: []
+image: ./title-image.jpg
+description: "I get some good news about my treatment."
+hide_table_of_contents: false
+slug: hope
+---
+
+Let me preempt what I'm going to write by saying this: it's good news my friends, it's good news. Much that I've written recently hasn't been. This is. I may yet experience bad news again. Or not. Either way, right now I want to tell you about some good news. 
+
+## Six of the best
+
+You find me on the morning of July 13th. It's the long hot summer of 2026. The time that will be looked back upon by future historians as the moment we realised the environment was past the point of no return, and that humanity was doomed. 
+
+Whoa. This guy has not honoured the whole "this is good news" commitment has he? Let me start that again.
+
+It was the morning of July 13th, another hot summers day that future historians will look back upon as "1976 part 2". (Look it up, that year was an exceptionally hot summer - I wasn't born but I'm told this was a year everyone remembers as unrelenting from a sun / lack of rain perspective.)
+
+Lisette and I found ourselves orienteering our way to various hospital appointments in the fine city of London. And why? Because I'd now done six rounds of chemotherapy and three of targeted therapy. They'd been dealing me the medication cards every other Wednesday for three months. It was time to see what cards I was left holding. I was going to be scanned again.
+
+Over the course of the day, in two hospitals, I was due to be:
+1. Injected with dye and have my brain scanned with an MRI machine 
+2. Injected with different dye and have my lungs and colon CT scanned
+3. Injected with a nuclear isotope, left in a room alone for an hour whilst the radioactiveness got all up inside of me, then PET-CT scanned. Lungs and colon again.
+
+Oh and I couldn't eat all day. Nothing but glamour this cancer lark, I think you'll agree.
+
+The scans were done. I was scanned. I went home. I have had jollier days. I feel for Lisette. I was not great company that evening.
+
+## An unexpected visit 
+
+So how was I doing at this point? I'd had quite a boost just a couple of weeks before. A cohort of my colleagues had come to lift my spirits.
+
+About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of the sponsored walk / run from my office in the City of London to my home in Twickenham. It sounded like about five or six people would take part, and I'd get to see them down by the riverside at the end for 30 minutes or so. I'd spend a little time with five friends in person, instead of on a screen.  This was an entirely delightful prospect. Just chatting to folk on a screen was getting tedious.
+
+My colleagues surprised me.  On the day of the run, at around 3:30pm, I got a first message that they were there. I hastened down to the river. It wasn't five people. It wasn't six people. There were more.  Quite a lot more.  And as the afternoon progressed more arrived.  Then more. Then more still. I don't know the actual numbers in the end, but I know it was headed in the direction of seventy Investec people.  I was amazed.  
+
+This is us:
+
+![a photograph of myself surrounded by around 70 Investec employees and Lisette and James](./rough-road-runners.webp)
+
+Together [they raised about six thousand pounds for Maggies](https://www.justgiving.com/page/roughroadrunners). 
+
+At 10:30pm that night, there were still Investec people down at the White Swan.  They'd taken time out of their lives to raise some money for charity, and to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent.
+
+I really bloody loved that. Fantastic!
+
+## The darkest hour is just before dawn
+
+And then things went South again.
+
+When I was a teenager I had epilepsy. Quite badly. Then, unexpectedly, when I was 22 I stopped having seizures. This was good. In years to come I got a driving license and I came to regard epilepsy as a memory. On the day before New Year's Eve in 2025 I'd been struggling with insomnia. And after a night of not sleeping, I had my first seizure in 26 years. I woke up in Kingston Hospital, I lost my driving licence. All in all, it was a bit rubbish.
+
+Still. It's probably a one off. That's what I thought. I'll get the driving licence back in time. It'll be fine. So I was disappointed on the morning of July 7th to have another seizure. I'll spare you the details since they aren't super interesting. But it knocked the stuffing out of me. 
+
+What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. I couldn't take that.
+
+*I promise this will lighten up; stick with me folks. Soon we'll skip to the good part.*
+
+So yeah. I was a bit down. But you can see why.  Up until now, it's only been bad stories. You know how you read the news and it's 100% negative generally? Well, that's what all my medical news had been for a while. I was rather doubting that any other kind was possible. So when I went for the scans on July 13th, a bad vibe was rumbling through my head on a loop.
+
+Many people sent me encouragement. They were all far more hopeful than I found able to manage.
+
+My aunt that's a nun sent me this message:
+
+![The night prayer psalm tonight could be good for you: Ps 91,especially the last few verses. I will be with them. I will rescue them........](./screenshot-aunt-message.png)
+
+I read Psalm 91 following my aunt's recommendation. It's a banger. The third verse in particular popped for me:
+
+> For he will protect you from every trap and protect you from the fatal plague.
+
+What's cancer if not the plague? I wanted to believe this verse. I want protection from this plague. I would be lying if I said that I believed that then. I didn't. That felt impossible to me on the night of July 13th. I couldn't see it. I was lacking hope.
+
+## I know it's alright
+
+The results were due on July 15th. I awoke that morning with a song running through my head: "Whatever" by Oasis. 
+
+This song passed me by when it was initially released. As "guitar music is for losers" - John Reilly aged 17.
+
+My mind has broadened since I was a teenager and I will now accept that music that isn't East coast hip-hop may have merit. With that change in perspective, I've grown to love this song over the years.
+
+The best songs allow you to make up your own meanings. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept going through my head: I know it's alright.
+
+I didn't actually think it was. But I wanted it to be. I'd like to imagine the DJ deciding my brains playlist knew something I didn't.
+
+## "The news is good"
+
+The appointment was 11:30 at the Royal Marsden in Sutton. The same place I go to for treatment. A kind friend drove Lisette and I to the appointment and we sat in the waiting room, not relaxing. 
+
+We were eventually called in to see the doctor who is in charge of my treatment. I think I've mentioned before that she's a pro, and exudes alpha dog / leader of the pack type vibes. If you want someone who gives you the sense she knows what she's doing, she does. Also, as Lisette has noted, she's quite glamorous. This is a doctor that knows how to dress. My GP growing up very much did not. I digress.
+
+"How are you?" the doctor said.
+"Quite stressed!" I squeaked in response.
+
+Without missing a beat, and no doubt taking in the look in my eyes, she said "the news is good". In four words she drastically reduced the amount of tension inside of me. Like I said, she's a pro.
+
+I breathed out. I didn't know what the news was, but I knew I could relax a bit. So I did. The doctor then proceeded to walk through my test results, occasionally bringing them up on the screen in front of her.
+
+"First the MRI - all clear. Your brain looks fine. I don't know what happened with the seizure, but talk to your neurologist. Maybe they need to adjust your medication. Now let's talk about your lung. In April, you had a two centimetre tumour visible on your scan. We can't see it anymore."
+
+She looked up at this point and saw Lisette and myself with tears rolling down our cheeks. 
+
+"Oh you'll set us off!" she passed tissues to us both. She kept talking.
+
+"The tumour in your colon was four centimetres. It's shown significant regression and is now two centimetres." The doctor went on to say more about activity in the tumour and, I'll confess I didn't really understand the details. It sounded like the tumour had gone from highly active which was bad news, to considerably less so, which was presumably the opposite of bad.
+
+As I say, I didn't quite follow. But it didn't matter. "The news is good". Good news. Gospel.
+
+Thank God. That's all I could think. Thank you God. Thank you.  I found myself able to see my blessings once again. A gift I had somewhat lost over the previous week. 
+
+I live at the best possible time to have cancer; now. The best treatment history has afforded, is now. I live near one of the best hospitals for cancer treatment in the world. I have access to healthcare; many people do not. I'm being treated by some of the best people to ever do it. I'm not alone. I'm surrounded by a loving wife, family, friends, neighbours and church. I have many, many reasons to be grateful.
+
+It had all gone slightly blurry for me in the room. "The news is good." I focussed again on what the doctor was saying.
+
+"We'd planned for you to do twelve rounds of chemotherapy. We'll probably stick with that. You've done six. But we need to take you off for a while now. We're going to schedule your first surgery. Although we can't see anything in lung, that's not to say there's nothing there. We want to remove the part where the tumour was; statistically that makes reoccurrence much less likely. So. Your body will recover from chemotherapy for a while, then surgery, you should recover from that in about a month, then we'll start you on the chemotherapy again with a view to surgery on the colon later this year."
+
+I floated out of the room. I'd expected pretty much anything but what I'd heard. I had hope. Hope doesn't need to be ginormous. It just needs to be enough. This was enough.
+
+So this is me. I feel like I've done maybe the first 20% of my treatment. And whilst the road is disappointingly long, I am on it. 
+
+The news is good. The news is good!
+
+
+
+
+--++++
+
+
+Going up a belt buckle 
+
+
+
+
+John Maynard Keynes in the long run we're all dead. And so we are. I'm not that old, but I was wondering "is this my long run"?
+
+Wedding anniversary 
+Test results 
+Fit
+Stress beforehand 
+I am doing less  I am less useful 
+Part of me struggling with that
+Deep down I think part of me thinks I'm doing less so I matter less
+This isn't healthy 
+
