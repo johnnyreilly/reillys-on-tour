@@ -141,3 +141,14 @@ I hope this gentleman can balance the other fellow out. I believe he can. I must
 For now my world has shrunk. Whilst it may be smaller, it is still wonderful. Maybe I'm looking at less, and seeing more. I certainly intend to.
 
 We're doing this. I love my wife. We're doing this.
+
+---
+
+## The recovery diaries
+
+I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say.  When I've written about it, I feel I've dealt with it in some way.  I'm not quite sure why. If you'd like to read the posts (and hey - it's not the most jolly of topics so don't feel you have to) you can find them here:
+
+- [Rough road ahead](../2026-04-30-rough-road-ahead/index.md)
+- [A cowardly lion](../2026-05-28-a-cowardly-lion/index.md)
+- [A private lockdown](../2026-06-28-a-private-lockdown/index.md)
+- [Hope](../2026-08-01-hope/index.md)

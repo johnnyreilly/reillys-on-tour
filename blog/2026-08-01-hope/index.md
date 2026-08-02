@@ -83,7 +83,7 @@ The results were due on July 15th. I awoke that morning with a song running thro
 
 My mind has broadened since I was a teenager and I will now accept that music that isn't East coast hip-hop may have merit. With that change in perspective, I've grown to love this song over the years.
 
-The best songs allow you to decide what they mean. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept repeating in my head: "I know it's alright".
+The best songs allow you to bring your own meaning to them. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept repeating in my head: "I know it's alright".
 
 I didn't actually think it was. But I wanted it to be. I'd like to imagine the DJ deciding my brains playlist knew something I didn't.
 
@@ -112,7 +112,7 @@ As I say, I didn't quite follow. But it didn't matter. "The news is good". Good 
 
 Thank God. That's all I could think. Thank you God. Thank you.  I found myself able to see my blessings once again. A gift I had somewhat lost over the previous week. 
 
-I live at the best possible time to have cancer: now. The best treatment history has afforded, is right now. I live near one of the best hospitals for cancer treatment in the world. I have access to healthcare; many people do not. I'm being treated by some of the best people to ever do it. I'm not alone. I'm surrounded by a loving wife, family, friends, neighbours and church. I have many, many reasons to be grateful.
+I live at the best possible time to have cancer: now. The best treatment that history has afforded is right now. I live near one of the best hospitals for cancer treatment in the world. I have access to healthcare; many people do not. I'm being treated by some of the best people to ever do it. I'm not alone. I'm surrounded by a loving wife, family, friends, neighbours and church. I have many, many reasons to be grateful.
 
 It had all gone slightly blurry for me in the room. "The news is good." I focussed again on what the doctor was saying.
 
@@ -120,7 +120,7 @@ It had all gone slightly blurry for me in the room. "The news is good." I focuss
 
 I'd expected pretty much anything but what I had been told. What I learned gave me, gives me, hope. Hope doesn't need to be all encompassing. It just needs to be enough. This was enough for me.
 
-So this is me now. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of my treatment. Whilst the road is disappointingly long, I am on it and I've learned there are less potholes than I'd feared. I have butchered that analogy.  I don't care. 
+So this is where I find myself. Temporarily chemotherapy free.  I feel a bit more like me. I've done maybe the first 20% of all the treatment that's headed my way. Whilst the road is disappointingly long, I am on it and I've learned there are less potholes than I'd feared. I have butchered that analogy.  I don't care. 
 
 The news is good. The news is good!
 
@@ -128,7 +128,7 @@ The news is good. The news is good!
 
 ---
 
-### The recovery diaries
+## The recovery diaries
 
 I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say.  When I've written about it, I feel I've dealt with it in some way.  I'm not quite sure why. If you'd like to read the posts (and hey - it's not the most jolly of topics so don't feel you have to) you can find them here:
 
