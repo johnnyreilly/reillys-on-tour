@@ -43,7 +43,7 @@ This is some of us:
 
 Together [the "Rough Road Runners" (as they had called themselves) raised about six thousand pounds for the charity Maggies](https://www.justgiving.com/page/roughroadrunners). 
 
-By 10:30pm that night, there were still Investec people down at The White Swan. It helps that it is a lovely pub and it was a gloriously warm evening. But still, I was very touched. These wonderful people had taken time out of their lives to raise some money for charity, and with that, to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent.
+By 10:30pm that night, there were still Investec people down at The White Swan. It helps that it is a lovely pub and it was a gloriously warm evening. But still, I was very touched. These wonderful people had taken time out of their lives to raise some money for charity, and with that, to raise my mood significantly.  I was bowled over.  The people of Investec are magnificent; and this tells you more about them than it does about me.
 
 Being poorly, sucks. However, it does give you a chance to appreciate how good and kind the people around you are. They step up, they really do.
 
@@ -55,15 +55,13 @@ When I was a teenager I had epilepsy. Quite badly. Then, unexpectedly, when I wa
 
 Still. It's probably a one off. That's what I thought. I'll get the driving licence back in time. It'll be fine. So I was disappointed on the morning of July 7th to have another seizure. I'll spare you the details since they aren't super interesting. But it knocked the stuffing out of me. 
 
-I found myself spiralling. What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. I couldn't take that.
+I found myself spiralling. What is wrong with me? Is this a different problem surfacing? Something they haven't picked up yet? Is this where they tell me it's brain cancer? Please God, no. 
 
-*I promise this will lighten up; stick with me folks. Soon we'll skip to the good part. Pinky swear.*
+*I promise this will lighten up; stick with me folks. Soon we'll skip to the good part. It's coming. Pinky swear.*
 
 So yeah. I was a bit down. But you can see why.  Up until now, it's only been bad stories. You know how you read the news and it's 100% negative generally? Well, that's what all my medical news had been for a while. I was rather doubting that any other kind was possible. So when I went for the scans on July 13th, a bad vibe was rumbling through my head on a loop.
 
-Many people sent me encouragement. They were all far more hopeful than I found able to manage.
-
-My aunt that's a nun sent me this message:
+Many people sent me encouragement. They were all far more hopeful than I found able to manage. My aunt that's a nun sent me this message:
 
 ![The night prayer psalm tonight could be good for you: Ps 91,especially the last few verses. I will be with them. I will rescue them........](./screenshot-aunt-message.webp)
 
@@ -71,9 +69,7 @@ I read Psalm 91 following my aunt's recommendation. It's a banger. The third ver
 
 > For he will protect you from every trap and protect you from the fatal plague.
 
-What's cancer if not the plague? I wanted to believe this verse. I want protection from this plague. 
-
-But that felt impossible to me on the evening of July 13th. I couldn't see a future. I was lacking hope.
+What's cancer if not the plague? I wanted to believe this verse. I want protection from this plague. But that felt impossible to me on the evening of July 13th. I couldn't see a future. I was lacking hope.
 
 ## I know it's alright
 
@@ -85,13 +81,13 @@ My mind has broadened since I was a teenager and I will now accept that music th
 
 The best songs allow you to bring your own meaning to them. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept repeating in my head: "I know it's alright".
 
-I didn't actually think it was. But I wanted it to be. I'd like to imagine the DJ deciding my brains playlist knew something I didn't.
+I didn't actually think it was. But I wanted it to be. I'd like to imagine someone knew something I didn't and was trying to tell me. Or maybe my subconscious just likes the song? It is excellent.
 
 ## "The news is good"
 
 The appointment was 11:30 at the Royal Marsden in Sutton. The same place I go to for treatment. A kind friend drove Lisette and I to the appointment and we sat in the waiting room, not relaxing. 
 
-We were eventually called in to see the doctor who is in charge of my treatment. I think I've mentioned before that she's a pro. She exudes alpha dog / leader of the pack type vibes. If you want someone who gives you the sense she knows what she's doing, she does. Also, as Lisette has noted, she's quite glamorous. This is a doctor that knows how to dress. My GP growing up very much did not. I digress.
+We were eventually called in to see the doctor who is in charge of my treatment. I think I've mentioned before that she's a pro. She exudes alpha dog / leader of the pack type vibes. If you want someone who gives you the sense she knows what she's doing, she does. Also, as Lisette has noted, she's quite glamorous. This is a doctor that knows how to dress. The GP I saw as I was growing up very much did not. I digress.
 
 "How are you?" the doctor said.
 "Quite stressed!" I squeaked in response.
