@@ -1,7 +1,7 @@
 ---
 title: "A private lockdown"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./title-image.jpg
 description: "What life is like for me as I go through treatment"
 hide_table_of_contents: false
@@ -47,18 +47,6 @@ Apart from anything else, work nicely gets me out of my head. Left to my own dev
 I'm joining meetings with my camera on now. I'll not join strategically late; I'll have the cheery chats and enjoy it. Oftentimes I'll find myself sharing my peculiar current lifestyle with those on the call. Possibly I'm over sharing. But that's quite Investec too. I feel part of something, and that makes me happy. These people love me and I love them.
 
 Next Thursday a number of them are planning to do a sponsored run / cycle and walk from the office in the City of London to the White Swan Pub on the riverside in Twickenham near me. They'll raise money for a cancer related charity named [Maggies](https://www.maggies.org/) that I am grateful to. I'll get to see a number of them, in a socially distanced fashion. That's rather special. You don't get that everywhere.
-
-## Update 18 July 2026
-
-About a month before this, I'd had a call from Lauren and Janice at work, and they'd suggested the idea of the sponsored walk / run. It sounded like about 5 or 6 people would take part and I'd get to see them down by the riverside at the end for 30 minutes or so; and spend a little time with friends in person, instead of on a screen.  This was an entirely delightful prospect.
-
-They surprised me.  Around 3:30 I got the first message that people were arriving and I hastened down to the river. There were more people there than I had expected.  Quite a lot more.  And as the afternoon progressed more arrived.  Then more. Then more. I don't know the actual numbers in the end, but I know it was headed in the direction of 70 Investec people.  I was amazed.  
-
-This is us:
-
-![a photograph of myself surrounded by around 70 Investec employees and Lisette and James](./rough-road-runners.webp)
-
-Together [they raised about six thousand pounds for Maggies](https://www.justgiving.com/page/roughroadrunners). At 10:30pm that night, there were still Investec people down at the White Swan.  They'd taken time out of their lives to raise some money for charity, and to raise my mood.  I was bowled over.  The people of Investec are magnificent.
 
 ## Home
 
@@ -153,3 +141,14 @@ I hope this gentleman can balance the other fellow out. I believe he can. I must
 For now my world has shrunk. Whilst it may be smaller, it is still wonderful. Maybe I'm looking at less, and seeing more. I certainly intend to.
 
 We're doing this. I love my wife. We're doing this.
+
+---
+
+## The recovery diaries
+
+I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say.  When I've written about it, I feel I've dealt with it in some way.  I'm not quite sure why. If you'd like to read the posts (and hey - it's not the most jolly of topics so don't feel you have to) you can find them here:
+
+- [Rough road ahead](../2026-04-30-rough-road-ahead/index.md)
+- [A cowardly lion](../2026-05-28-a-cowardly-lion/index.md)
+- [A private lockdown](../2026-06-28-a-private-lockdown/index.md)
+- [Hope](../2026-08-01-hope/index.md)

@@ -1,7 +1,7 @@
 ---
 title: "A cowardly lion"
 authors: johnnyreilly
-tags: []
+tags: [recovery-diaries]
 image: ./time-to-get-treament.webp
 description: "The story of getting started with my cancer treatment"
 hide_table_of_contents: false
@@ -129,3 +129,14 @@ After I posted my message in the family WhatsApp group, one of my lovely relativ
 ![A WhatsApp message responding to the one from earlier which reads "The cowardly lion in the Wizard of Oz showed courage, but just doubted himself. Just like you. X"](./courage.webp)
 
 I can make this work. With a little bit of help from God, my friends and my family. I will make this work. Or, if I'm more honest, together, we will will make this work.
+
+---
+
+## The recovery diaries
+
+I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say.  When I've written about it, I feel I've dealt with it in some way.  I'm not quite sure why. If you'd like to read the posts (and hey - it's not the most jolly of topics so don't feel you have to) you can find them here:
+
+- [Rough road ahead](../2026-04-30-rough-road-ahead/index.md)
+- [A cowardly lion](../2026-05-28-a-cowardly-lion/index.md)
+- [A private lockdown](../2026-06-28-a-private-lockdown/index.md)
+- [Hope](../2026-08-01-hope/index.md)
