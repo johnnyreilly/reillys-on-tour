@@ -81,7 +81,7 @@ My mind has broadened since I was a teenager and I will now accept that music th
 
 The best songs allow you to bring your own meaning to them. "Whatever" has some nonsense lyrics, but ends with Liam Gallagher singing plaintively "I know it's alright". For whatever (pun most definitely intended) reason, this last line kept repeating in my head: "I know it's alright".
 
-I didn't actually think it was. But I wanted it to be. I'd like to imagine someone knew something I didn't and was trying to tell me. Or maybe my subconscious just likes the song? It is excellent.
+I didn't actually think it was. But I wanted it to be. I'd like to imagine someone knew something I didn't and was trying to tell me. Or maybe my subconscious just likes the song. It is excellent.
 
 ## "The news is good"
 
@@ -100,7 +100,7 @@ I breathed out. I didn't know what the news was, but I knew I could relax a bit.
 
 She looked up at this point and saw Lisette and myself with tears rolling down our cheeks. 
 
-"Oh you'll set us off!" she passed tissues to us both. She kept talking.
+"Oh you'll set us off!" She passed tissues to us both. She kept talking.
 
 "The tumour in your colon was four centimetres. It's shown significant regression and is now two centimetres." The doctor went on to say more about activity in the tumour and, I'll confess I didn't really understand the details. It sounded like the tumour had gone from highly active which was bad, to considerably less so, which was presumably the opposite of bad.
 
