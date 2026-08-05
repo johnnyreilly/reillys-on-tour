@@ -70,6 +70,3 @@ As Lisette reflected later, she was glad to have gone. But she was sad for what 
 
 I leave you with Benjamin playing a song on the piano at Quattro Gatti. It's a song he's been writing with his friends with the name of "emotional damage". He has a flair for the dramatic, our boy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0v7mnpvg8Pk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen=""></iframe>
-
-
