@@ -14,6 +14,8 @@ Needless (little pun there) to say, cancer treatment really doesn't want to meet
 
 If you're anything like me, you may want to cut your losses and stop reading now. Please feel free, if I was you I think I would too.
 
+<!--truncate-->
+
 ## Treatment 
 
 [When I last wrote](../2026-04-30-rough-road-ahead/index.md), I was anticipating getting treatment for my cancer diagnosis. Getting the diagnosis had been a drip, drip of bad news. Once we'd got there though, the question then became "what can we do about all this then?"
