@@ -12,7 +12,7 @@ If you read [my last post](../2025-12-28-reflections-on-a-difficult-year/index.m
 
 I'll cut to the chase; I've had a cancer diagnosis.  Which is pretty tough.  I'm writing this to share the story of where I am, where I'm going, and maybe to encourage others.  Not that I think I'm a poster boy for encouragement right now.  But perhaps I'll get people thinking about doing medical tests sooner rather than later.  That alone would be worthwhile. 
 
-<!--truncate-->
+{/*truncate*/}
 
 ## Something is not right
 

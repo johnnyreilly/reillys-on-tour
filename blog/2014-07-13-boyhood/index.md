@@ -1,7 +1,7 @@
 ---
 title: "Boyhood"
 authors: johnnyreilly
-tags: [Boyhood]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: boyhood
 image: ./ben-in-the-front-garden.jpg

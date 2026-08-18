@@ -14,7 +14,7 @@ Needless (little pun there) to say, cancer treatment really doesn't want to meet
 
 If you're anything like me, you may want to cut your losses and stop reading now. Please feel free, if I was you I think I would too.
 
-<!--truncate-->
+{/*truncate*/}
 
 ## Treatment 
 

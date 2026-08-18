@@ -1,7 +1,7 @@
 ---
 title: "Keeping Schtum"
 authors: johnnyreilly
-tags: [Pregnant, Secret, Chris, Lisette]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: keeping-schtum
 ---

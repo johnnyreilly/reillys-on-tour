@@ -1,7 +1,7 @@
 ---
 title: "Cable Cars and Credit Cards"
 authors: johnnyreilly
-tags: [old friends, Lago Maggiore, Revolut]
+tags: []
 hide_table_of_contents: false
 slug: cable-cars-and-credit-cards
 image: ./friends-by-the-lake.jpg

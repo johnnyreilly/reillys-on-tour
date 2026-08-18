@@ -1,7 +1,7 @@
 ---
 title: "The Gorgon"
 authors: johnnyreilly
-tags: [cro-magnon man]
+tags: []
 hide_table_of_contents: false
 slug: the-gorgon
 image: ./cro-magnon-man.jpg

@@ -1,7 +1,7 @@
 ---
 title: "500 Days of Benjamin"
 authors: johnnyreilly
-tags: []
+tags: [parenthood]
 hide_table_of_contents: false
 slug: 500-days-of-benjamin
 image: ./2013-10-27+09.33.08.jpg

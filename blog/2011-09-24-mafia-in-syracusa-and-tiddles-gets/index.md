@@ -1,7 +1,7 @@
 ---
 title: "Mafia in Syracusa and Tiddles gets stuck"
 authors: johnnyreilly
-tags: [Mafia, Syracuse, Syracusa]
+tags: []
 hide_table_of_contents: false
 slug: mafia-in-syracusa-and-tiddles-gets
 image: ./sunrise.jpg

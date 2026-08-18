@@ -1,0 +1,9 @@
+parenthood:
+  label: 'Parenthood'
+  description: "I'm a dad.  Every now and then I've written something about it."
+  permalink: /parenthood
+
+recovery-diaries:
+  label: 'Recovery diaries'
+  description: "I'm writing about what's happening to me as I go through treatment. It helps me process the experiences, if that's not too peculiar a thing to say. When I've written about it, I feel I've dealt with it in some way. I'm not quite sure why."
+  permalink: /recovery-diaries

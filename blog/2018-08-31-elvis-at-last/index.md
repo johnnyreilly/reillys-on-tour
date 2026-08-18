@@ -1,7 +1,7 @@
 ---
 title: "Elvis At Last"
 authors: johnnyreilly
-tags: [elvis, devon, farm]
+tags: []
 hide_table_of_contents: false
 slug: elvis-at-last
 image: ./family-on-the-beach.jpg

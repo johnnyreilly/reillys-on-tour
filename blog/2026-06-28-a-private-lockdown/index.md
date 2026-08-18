@@ -12,7 +12,7 @@ The [last time I wrote](../2026-05-28-a-cowardly-lion/index.md), treatment was b
 
 I've done 5 rounds of chemotherapy, and 2 of targeted therapy. I know roughly what to expect, and my life is quite different. At least for now. So that's what I want to tell you about this time. My life now.
 
-<!--truncate-->
+{/*truncate*/}
 
 The best way I can think of describing it is this: I'm in lockdown. We all did lockdown back in 2020. We pandemicked together. I'm now pandemicking solo. Well that's probably the wrong word. I don't care. I'm going with it. For me it's round 2. I've had practice. I'm a pro.
 

@@ -1,7 +1,7 @@
 ---
 title: "FREEDOM!!!!!! ..."
 authors: johnnyreilly
-tags: [Freedom, George Michael, Sicilians, Arancini]
+tags: []
 hide_table_of_contents: false
 slug: freedom
 image: ./arancino.jpg

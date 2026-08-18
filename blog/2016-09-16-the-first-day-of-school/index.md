@@ -1,7 +1,7 @@
 ---
 title: "The First Day of School"
 authors: johnnyreilly
-tags: []
+tags: [parenthood]
 hide_table_of_contents: false
 slug: the-first-day-of-school
 image: ./BenjaminAndLisetteLeavingForSchool.jpg

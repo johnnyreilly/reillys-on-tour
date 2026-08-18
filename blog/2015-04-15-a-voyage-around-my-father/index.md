@@ -1,14 +1,14 @@
 ---
 title: "A voyage around my father"
 authors: johnnyreilly
-tags: []
+tags: [parenthood]
 hide_table_of_contents: false
 slug: a-voyage-around-my-father
 image: ./ThatsMe.jpg
 ---
 My name is James Edmund Reilly. Hullo there! You seem a little bored. No matter; I have the remedy. Let me tell you about how my holiday began.
 
-![](ThatsMe.jpg)
+![James](ThatsMe.jpg)
 
 It was Wednesday 15th April, 2015. In Twickenham, where I'm proud to lay my hat, spring was determinedly springing. I awoke at 4:30am to the tuneful warblings of birdsong. Not wanting to be left out I decided that I would join my feathered friends in their early morning chorus. I gave voice and cleared the lungs with a good howl. I imagine it really added something to the melody. After around 15 minutes of this I felt I was done. By now I could hear daddy downstairs moving around and I settled back to rest, content in the knowledge of a job well done. Not only had I added to the music of the morning but I knew Daddy doesn't like to waste the day. I'd given him the wonderful gift of an extra 2 hours of awake time before everyone else got up. I knew he'd be pleased as punch. Mummy and I soon drifted off again.
 

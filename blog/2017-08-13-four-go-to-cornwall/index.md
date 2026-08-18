@@ -1,7 +1,7 @@
 ---
 title: "Four go to Cornwall"
 authors: johnnyreilly
-tags: [portscatho, hidden hut, cornwall]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: four-go-to-cornwall
 image: ./at_the_beach.jpg

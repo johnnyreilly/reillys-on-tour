@@ -1,7 +1,7 @@
 ---
 title: "Incoming!"
 authors: johnnyreilly
-tags: [labour, contractions]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: incoming
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Learning things about pizza"
 authors: johnnyreilly
-tags: [Neopolitan, Pizza]
+tags: []
 hide_table_of_contents: false
 slug: learning-things-about-pizza
 image: ./13102008099.jpg

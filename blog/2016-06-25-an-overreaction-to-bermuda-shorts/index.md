@@ -1,7 +1,7 @@
 ---
 title: "An Overreaction to Bermuda Shorts"
 authors: johnnyreilly
-tags: [Nantes, Pornic, Priou]
+tags: []
 hide_table_of_contents: false
 slug: an-overreaction-to-bermuda-shorts
 image: ./BermudaShortsDanger.jpg

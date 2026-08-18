@@ -10,7 +10,7 @@ slug: hope
 
 Let me preempt what I'm going to write by saying this: it's good news my friends, it's good news. Much that I've written recently hasn't been. This is. I may yet experience bad news again. Or not. Either way, right now I want to tell you about some good news. 
 
-<!--truncate-->
+{/*truncate*/}
 
 ## Six of the best
 

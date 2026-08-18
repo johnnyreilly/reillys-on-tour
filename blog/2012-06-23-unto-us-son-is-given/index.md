@@ -1,7 +1,7 @@
 ---
 title: "Unto us a son is given..."
 authors: johnnyreilly
-tags: [Birth, West Middlesex Hospital]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: unto-us-son-is-given
 image: ./Us.jpg
