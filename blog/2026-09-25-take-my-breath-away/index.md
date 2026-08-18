@@ -24,7 +24,7 @@ My eyebrows had shot to the ceiling at this point; I very much didn't like the f
 
 Not for the first time in my recovery journey, I found myself deciding to defer to the experts.  Well, let me be more candid: as we walked back to Waterloo station, I raged against the world about how sad / angry / frustrated that I was with how my life was going, and Lisette reminded me that I was getting treatment, some of the best going, and I should grab it with open arms.  As ever, she was right.
 
-So, that's how Lisette and I found ourselves heading into hospital that morning. I was mulling what I should call this post.  *"The one where they cut out some of my breathing bits"* didn't appeal. Then I was reminded of the classic song from Top Gun; Berlin's *"Take my breath away"*.  It seemed to sum up my situation up gloriously. I'm not using AI to write these words.  But the image below, well I can only take credit for the idea.
+So, that's how Lisette and I found ourselves heading into hospital that morning. I was mulling what I should call this post.  *"The one where they cut out some of my breathing bits"* didn't appeal. Then I was reminded of the classic song from Top Gun; Berlin's *["Take my breath away"](https://www.youtube.com/watch?v=Bx51eegLTY8)*.  It seemed to sum up my situation up gloriously. I'm not using AI to write these words.  But the image below, well I can only take credit for the idea.
 
 ![Take off of the Top Gun poster but rebranded as Top Lung with me replacing Tom Cruise and Lisette replacing Kelly McGillis](./top-lung.jpg)
 
