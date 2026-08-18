@@ -32,11 +32,9 @@ So, that's how Lisette and I found ourselves heading into hospital that morning.
 
 I was to be admitted to the Sir Reginald Wilson ward of the Royal Brompton; a hospital known for heart and lung care. The ward I was being admitted to was strictly for private patients.  Through my work, I had access to private healthcare, which I had started using fairly early on in this grim process.
 
-Before last year, I'd had no experience of private healthcare at all; having been happily cared for by the NHS since my birth.  For those reading this who don't know what the "NHS" is; it's the National Health Service and it is the organisation that serves the health of UK citizens most admirably, and has done for many years. It is much loved.  Saying something bad about the NHS is considered akin to blasphemy in the UK. Probably worse.
+Before last year, I'd had no experience of private healthcare at all; having been happily cared for by the NHS since my birth.  For those reading this who don't know what the "NHS" is; it's the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) and it is the organisation that serves the health of UK citizens most admirably, and has done for many years. It is much loved.  Saying something bad about the NHS is considered akin to blasphemy in the UK. Probably worse.
 
-Over the course of my life, I have had various health issues; mostly epilepsy and some hearing problems when I was a boy.  These were all tended to by the NHS and so I didn't really know what private healthcare was.
-
-It turns out, that in the UK at least, private healthcare and the NHS can be compared to the class of ticket you have for a flight. Whether it's private healthcare or the NHS, the treatment is likely to be identical. The people that treat you may be the same, the medication / procedures you experience are likely to also be the same. Just as on a plane, regardless of whether you're travelling in first class or economy, you're still flying to Palma De Mallorca.  (Or wherever, I mention that as an airport that I have flown to many times on easyJet to visit family.) 
+In the UK at least, private healthcare and the NHS can be compared to the class of ticket you have for a flight. Whether it's private healthcare or the NHS, the treatment is likely to be identical. The people that treat you may be the same, the medication / procedures you experience are likely to also be the same. Just as on a plane, regardless of whether you're travelling in first class or economy, you're still flying to Palma De Mallorca.  (Or wherever, I mention that as an airport that I have flown to many times to visit family.) 
 
 However, there are two differences between private healthcare and the NHS that are worth drawing attention to.
 
@@ -79,7 +77,7 @@ The visitor demographics lined up with what the nurse had said as well.  Whilst 
 
 ## Going under
 
-By 6am on Wednesday August 12th I'd been admitted to hospital.  By 7am I'd been issued with a hospital gown, dark green pressure socks to stop me developing deep vein thromosis, and slipper socks which I was to wear over the top as I navigated the hospital. I was a modern day Wee Willie Winkie.
+By 6am on Wednesday August 12th I'd been admitted to hospital.  By 7am I'd been issued with a hospital gown, dark green pressure socks to stop me developing deep vein thromosis, and slipper socks which I was to wear over the top as I navigated the hospital. I was a modern day [Wee Willie Winkie](https://en.wikipedia.org/wiki/Wee_Willie_Winkie).
 
 Instructed to get into a hospital bed and lie down, it occurred to me that I hadn't actually seen the surgeon since our meeting four months ago and I wasn't entirely clear what was going to happen next. Off the bed went, trundling towards the room where I was to be put to sleep.  Almost by coincidence, or so it seemed, we bumped into the surgeon on the way who shook my hand as I lay in bed. I took the opportunity to ask a few questions about the procedure. He looked a little surprised as to my interest, but happily explained his plans.
 
@@ -109,11 +107,11 @@ I had visitors.  My wife came.  My sister came.  My parents came. I was rubbish 
 
 I was low. Sad. My life had become the lived experience of things I cherished being taken away from me. That's what it felt like. "Is this what I get now? Is this what I can look forward to?"  It was hard to imagine a life where I was a dad and a husband again, not just a distant patient. Useless to everyone he cares for.
 
-As I write this now, I acknowledge that this is not how other people saw it.  My perspective was poor. I was addled by pain, drugs and the physical and mental trauma of a surgery.  It is hard to remember to be kind to yourself, even if you intend to be.  I don't think I'm very good at it. Not in the moment.
+As I write this now, I acknowledge that this is not how other people saw it.  My perspective was poor. I was feeling sorry for myself, and I was addled by pain, drugs and the physical and mental trauma of a surgery.  It is hard to remember to be kind to yourself, even if you intend to be.  I don't think I'm very good at it. Not in the moment.
 
 ## Recuperation 2
 
-Why am I telling you about my lowest times? I think, because they pass. Let me illustrate this in a roundabout way.
+Why am I telling you about my lowest times? I think, because they pass. And that is worth noting. Let me illustrate this in a roundabout way.
 
 On the Sunday morning, something went wrong with the catheter that had been connected to me for five days. The catherter was a needle that hooked into my back and delivered pain relieving drugs.  It going wrong lead to two hours of agony.  Really extreme pain.  I had ibuprofen, paracetemol, something I don't know the name of and liquid morphine all pumped into me within twenty minutes.  They made no difference.  
 
@@ -125,7 +123,7 @@ At that point, life was unbearable.  Unbearable.  All I did was scream, then pra
 
 Then, the nurse took out the catheter. Over the course of the morning the pain ebbed away, until it was gone. I could see once more that the sky was blue.  That I would be going home to my family in a matter of days. That I had had potentially life saving treatment, and whilst it was hard, I would recover. I could see a future.  It had only been hours since the sky was black and I was serving a life sentence in prison.
 
-It's okay to find things difficult.  Bad days are unavoidable.  We're not always up; sometimes we're down. God still loves us. Life is still good. We are blessed in many ways, even if we're not noticing them. 
+It's okay to find things difficult.  Bad days are unavoidable.  We're not always up; sometimes we're down. God still loves us. Life is still good. We are blessed in many ways, even if we're not managing to notice them. 
 
 The feelings we have when we are at our lowest can change.  They can lift.  They are quite likely to; if we give it a little time.  I know this right now.  I technically knew it when I was finding life tougher, I just didn't have the energy to believe it. That doesn't make it less true.  I write this, in the hope that perhaps I will read it when I need to, to remind myself.  And maybe I'll be convinved of it. Just a little bit.  Maybe.
 
