@@ -4,11 +4,11 @@ authors: johnnyreilly
 tags: [parenthood]
 hide_table_of_contents: false
 slug: 500-days-of-benjamin
-image: ./2013-10-27+09.33.08.jpg
+image: ./benjamin-and-mum-swing.jpg
 ---
 It's just over 500 days since Benjamin, my son, was born. He's no longer the fragile newborn. He eats normal food, he walks, he sleeps through the night. He's a very healthy little fellow. He doesn't talk yet but I've no doubt it's in the post.
 
-![](2013-09-22+08.00.56.jpg)
+![Benjamin and Dad at the seaside](benjamin-and-dad-seaside.jpg)
 
 Lately I've been considering - how has becoming a father changed me? Because I know it has.
 
@@ -26,6 +26,6 @@ Each day we're filled with enormous gratitude that God has blessed us \***so**\*
 
 I guess that's it. Life is as it was before, but the emotional intensity is greatly increased. The joy has increased exponentially. And so has the fear. But it's worth it for the joy. Yes, it's definitely worth it.
 
-![](2013-10-27+09.33.08.jpg)
+![Benjamin on a swing with Mum](benjamin-and-mum-swing.jpg)
 
 

@@ -4,9 +4,9 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: mum-and-dads-40th-wedding-anniverary
-image: ./2013-07-20+12.15.20.jpg
+image: ./40th-anniversary-garden-party.jpg
 ---
-![](2013-07-20+12.15.20.jpg)
+![Garden party for Mum and Dad's 40th anniversary](40th-anniversary-garden-party.jpg)
 
 On the occasion of Mum and Dad's 40th wedding anniversary I was prompted into making a speech. Not my natural thing really but it went okay - give or take a little (welcome) heckling from various Aunties present... I thought I'd put the notes of the speech up here - they're pretty much left as I had them on the day and you'll notice the occasional PROMPT FOR ME TO ASK THE PEOPLE PRESENT SOMETHING in caps. This is the speech:
 

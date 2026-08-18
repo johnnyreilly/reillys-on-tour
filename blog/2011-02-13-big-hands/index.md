@@ -37,6 +37,6 @@ love John and Lisette
 
 PS Ever wondered how Cheryl Cole was actually managing to make a living with her music post Girls Aloud? (Surely I can't be the only one pondering that) Well I have the answer - it's the Thai's! They love her! Can't move for renditions of her debut single as a solo artist. Though Thai is a tonal language and the locals seem to struggle with an English consonant. So it's a bit "Figh', Figh', Figh', Figh for this lo'e" if you follow me.
 
-![](P1030451.JPG)
+![Khao San Road lit up at night in Bangkok](khao-san-road-at-night.jpg)
 
 

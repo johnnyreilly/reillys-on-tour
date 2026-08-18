@@ -17,8 +17,8 @@ Dear all, Am typing this on the strangest keyboard I have ever encountered. It a
  
  See you soon! love, John and Lisette
  
-![](P1010890.JPG)
+![The steps leading up to Sacre-Coeur](sacre-coeur-steps.jpg)
 
-![](P1010880.JPG)
+![Dinner at a restaurant in Paris](paris-restaurant-dinner.jpg)
 
 

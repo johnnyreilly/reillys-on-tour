@@ -10,7 +10,9 @@ slug: julian-assange-is-dead
 
 ---
 
-This morning Lisette and I went to an English church in Taormina, Sicily where we are staying. There was a Scottish couple there who were renewing their wedding vows having been married for 40 years. Lisette wept tears of joy. Fantastic stuff. Afterwards we sat outside and drank wine and fanta with the (generally elderly) congregation who were an assortment of English, Scottish and New Yorkers (whose family came from Sicily). It's interesting how different cultures approach belief differently. The previous night we'd seen the other end of the spectrum in the form of a very ornate church procession through the centre of Taormina. The focus of which was a statue of Mary which had been more decorated in earrings and jewels than you would have thought plausible. Left us thinking: Holy Mary Mother of God... you look a little like B.A. Baracus.... ![](http://top-people.starmedia.com/tmp/swotti/cacheBXIGDA==/imgMr%20T7.jpg)
+This morning Lisette and I went to an English church in Taormina, Sicily where we are staying. There was a Scottish couple there who were renewing their wedding vows having been married for 40 years. Lisette wept tears of joy. Fantastic stuff. Afterwards we sat outside and drank wine and fanta with the (generally elderly) congregation who were an assortment of English, Scottish and New Yorkers (whose family came from Sicily). It's interesting how different cultures approach belief differently. The previous night we'd seen the other end of the spectrum in the form of a very ornate church procession through the centre of Taormina. The focus of which was a statue of Mary which had been more decorated in earrings and jewels than you would have thought plausible. Left us thinking: Holy Mary Mother of God... you look a little like B.A. Baracus....
+
+![Mr T, aka B.A. Baracus from The A-Team](http://top-people.starmedia.com/tmp/swotti/cacheBXIGDA==/imgMr%20T7.jpg)
 
 ---
 

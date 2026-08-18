@@ -28,6 +28,6 @@ See you all soon people!
 
 love John and Lisette
 
-![](DSCF2190.JPG)
+![Cycling tour through the Chianti countryside](chianti-cycling-tour.jpg)
 
 

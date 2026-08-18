@@ -4,7 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: oh-i-wish-i-spoke-spanish
-image: ./hon3bocosus2.jpg
+image: ./bocas-del-toro-beach.jpg
 ---
 Because then I wouldn't feel so bad....
 
@@ -35,6 +35,6 @@ Take care people!
 
 John and Lisette
 
-![](hon3bocosus2.jpg)
+![Beach at Bocas del Toro, Panama](bocas-del-toro-beach.jpg)
 
 

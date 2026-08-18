@@ -32,7 +32,7 @@ Priscilla was freaking out. She rounded upon Mummy and said, in an accusatory fa
 
 It!!! It???!!? The painted lady had harshed my mellow somewhat. Mummy seemed a little anxious after Priscilla had finished her tirade so I held her for a while. She needed comforting. I also expressed my considered opinion of Lady P by filling my nappy. That'd show her!
 
-![](ComfortingMummy.jpg)
+![Baby James being held and comforted by Mummy](ComfortingMummy.jpg)
 
 With that I went to sleep and didn't awake until Mallorca. At the end of the flight Mummy and Daddy seemed a little bit broken. But not to worry; I'll take good care of them. They'll be fine soon. Probably.
 

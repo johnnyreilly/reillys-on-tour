@@ -17,4 +17,4 @@ So far we've travelled down from Paris and West along to Chinon. Since then we'v
 
 Last night in Loches, Lisette and I took the opportunity to eat a Medieval meal in a restaurant set in a 15th century chateaux. The meal began simply enough with goblets of mead and spiced wine (not dissimilar to the mulled wine of Christmas but taken cold). It continued with a sort of pea and garlic soup. At least that was the working assumption until we dredged up Kermit's leg from the bottom of the bowl... It was at this point that we realised it was a \***different**\* sort of green soup. I should say though that it wasnt unpleasant and contrary to expectations it tasted nothing like chicken. More like fish really. This was followed up with the unusual combination of wood pidgeon and cooked grapes which was surprisingly tasty. To finish we were served prunes that had been steeped in alcohol. I did not like prunes before and do not like them now. I'm sure it's a useful life experience though. And healthy I dare say. love, John and Lisette 
 
-![](P1010977.JPG)
+![A bowl of frog leg soup](frog-leg-soup.jpg)

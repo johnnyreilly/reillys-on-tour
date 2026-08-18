@@ -20,6 +20,6 @@ Lisette and I are no longer in Chiang Mai and are best described as being "in di
 
 love John and Lisette 
 
-![](P1030513.JPG)
+![Cooking together on the Chiang Mai cookery course](chiang-mai-cookery-course.jpg)
 
 

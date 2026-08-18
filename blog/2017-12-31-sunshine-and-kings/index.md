@@ -14,11 +14,11 @@ Quite apart from the not-so-nice-judge-y aspect, this is a lamentable attitude f
 
 I'm both a man of integrity and a man with silly ideas. That's why I'm stuck doing my best Mr Magoo. But if there was ever a locale where compromise for eye's sake would seem reasonable, it's Spain. Each morning I've watched the sun rise over Mallorca; soaring into the sky above Palma old town. Watching the glowing red orb climb until the light is too much. It's beautiful.
 
-![](Dawn-in-Palma-Old-Town.jpg)
+![Dawn breaking over Palma old town](Dawn-in-Palma-Old-Town.jpg)
 
 Benjamin and James are enamoured of their Christmas presents: toy bendy buses. Plastic and metal approximations of the the sort that used to rumble through London's streets, occasionally catching fire. Ah, those bus shaped phoenixes, how we miss them. Galaxy S8's are but a lowly tribute act. In one of those peculiar ironies it turns out that all buses in Palma are bendy buses. Consequently the bus drivers of Mallorca are presently being greeted by 2 small blonde haired boys, who enter their vehicles waving petite bendy buses at them as they proceed past in search of window seats.
 
-![](James-on-a-bendy-bus-with-a-bendy-bus.jpg)
+![James riding a bendy bus with his toy bendy bus](James-on-a-bendy-bus-with-a-bendy-bus.jpg)
 
 Travel generally (not just bus journeys) is much easier now than it ever was. It's all down to the internet. o2 have dropped roaming charges in Europe; you can use data in Mallorca just like you're in Margate. (I've never been to Margate but I have to believe it would make me want to use the web.)
 
@@ -40,6 +40,6 @@ Christmas in Palma is different. They celebrate more on Christmas Eve than Chris
 
 Christmas here has Mallorcan ways, food and traditions. It's not London but that's not a bad thing. Palma has a glory of it's own. And no Victorian waifs either... So props!
 
-![](Family-in-El-Molinar.jpg)
+![Family together in El Molinar, Mallorca](Family-in-El-Molinar.jpg)
 
 

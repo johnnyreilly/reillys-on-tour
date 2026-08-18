@@ -4,15 +4,15 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: glamping-and-brewing-edited-by-benjamin
-image: ./IMG-20190529-WA0009.jpg
+image: ./vintage-campsite-cooking.jpg
 ---
 On May 27th 2019 the weather in Peschiera del Garda looked like this:
 
-![](weather-forecast.png)
+![Weather forecast for Peschiera del Garda](weather-forecast.png)
 
 Whilst in Twickenham it was more like this:
 
-![](weather-forecast-twickenham.png)
+![Weather forecast for Twickenham](weather-forecast-twickenham.png)
 
 Since myself, my good lady Lisette and the marvellous, "extreme" (that's right! - Ben) Benjamin and James were camping in the former location, we collectively agreed it was a bummer.
 
@@ -20,7 +20,7 @@ To be more accurate, we were not so much camping as glamping (correct! - Ben). W
 
 But it didn't have a toilet or running water, so we could still argue that on some level we were still "getting back to basics". This kind of camping also fulfils a basic life-need of mine, that is to say: access to cooking facilities. The absence of stoves means I've always viewed hotels as disempowering experiences. To me at least, not being able to cook is in the same ballpark as being denied the right to vote. Hotels are essentially prisons with a more lenient gate policy.
 
-![](IMG_20190526_195626.jpg)
+![Map of the campsite](campsite-map.jpg)
 
 In many ways, this kind of trip harks back to the holidays of my childhood. Apart from the first seven summer breaks of my life, family holidays were spent on a campsite somewhere in Europe. Before that, each August we'd gone to stay in a chalet in the Gower in South Wales. This particular family ritual was brought to a brutal close due to a tragic brewing accident which I will attribute to my father. As it was his fault.
 
@@ -34,7 +34,7 @@ Once the shock of the moment passed, we went to investigate. It turned out that 
 
 I digress. Family holidays after that were, invariably, camping trips to somewhere in Europe. I seem to recall that the first trip split our time between Jard-sur-Mer and Biarritz. Over time we established a pattern of driving, catching a ferry and travelling to either France, Italy or Switzerland. Always camping in pre-erected tents. Generally with Eurocamp. (Still, I understand, a going concern.)
 
-![](IMG-20190529-WA0007.jpg)
+![Vintage photo of a family beach holiday](vintage-beach-holiday.jpg)
 
 Looking back upon those holidays, some questions come to mind. As I recall, at least in the beginning of those trips, we would take all the food we were going to eat with us. I'll say that again as it bears repeating: we transported, from England, all the food we intended to eat in France. All the food.
 
@@ -42,7 +42,7 @@ I can't think quite why. I think of my parents as game to eat most anything. Per
 
 Either way, the first Reilly trip to France was like Matt Damon travelling to Mars. Carefully bringing with us all the supplies necessary to support life. Not knowing quite what might present itself in reality. I'm certainly aware of a tendency in myself to over prepare and leave nothing to chance. Lisette will occasionally remind me of the time in the Galapagos where I proposed catching a bus to see the bus stop where we would catch a bus in a weeks time. We Reillys can be like that.
 
-![](IMG-20190529-WA0009.jpg)
+![Vintage photo of cooking at the campsite](vintage-campsite-cooking.jpg)
 
 I think this is probably something my parents got over. Perhaps they weren't willing to initially accept that French people probably did have shops which sold food, but came round to the view after sufficient evidence had been gathered. I picture them upon that first trip after I and my brothers and sister had been dispatched to bed. My father, looking for all the world like Mr Spock with an afro, thoughtfully writing in a journal one evening in Jard:
 
@@ -54,10 +54,10 @@ Whatever the mechanism, clearly they came around. Certainly I can remember on la
 
 It is striking to me that the holidays I'm having now are not that different to the ones I had thirty years ago. Just that now I'm playing a different role in the family en semble; I'm the father now. I've been mulling over why we have chosen to have such similar holidays as my parents. In the end I suspect it's simple: they were good times and I remember them with happiness. I will certainly do the same when I recall these new holidays in future. We enjoy each other; family, friends and the world around us. We laugh. We eat ice cream. We are together. Content. I feel very fortunate indeed sometimes.
 
-![](IMG_20190530_140808_1.jpg)
+![Family and friends together at Lake Garda](family-and-friends-lake-garda.jpg)
 
 Whilst we seem be retreading an existing path in some senses, Lisette and I have opted not to emulate my childhood in regards food transportation. We have instead been standing in awe inside the various food temples on offer to us. There's so much potential for culinary happiness when you're surrounded by ingredients. So very many possibilities. You can see why communism didn't work out; insufficient varieties of cheese and olive oil.
 
-![](IMG-20190529-WA0002.jpg)
+![Family selfie at the Verona Arena](family-selfie-verona-arena.jpg)
 
 

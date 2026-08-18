@@ -4,7 +4,7 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: dispatches-from-front
-image: ./hon1ant2.jpg
+image: ./couple-in-antigua.jpg
 ---
 One love people.
 
@@ -24,6 +24,6 @@ One heart,
 
 John and Lisette
 
-![](hon1ant2.jpg)
+![John and Lisette together in Antigua](couple-in-antigua.jpg)
 
 

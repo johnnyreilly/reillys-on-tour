@@ -6,7 +6,7 @@ hide_table_of_contents: false
 slug: requiem-in-crossbush
 image: ./funeral-service.jpg
 ---
-![](funeral-service.jpg)
+![Order of service for Gran's requiem mass](funeral-service.jpg)
 
 It was Friday 13th. Gran had never been keen on that date. So it was ironic, or perhaps appropriate, that date came to be the occasion of her funeral. The universe likes a giggle.
 

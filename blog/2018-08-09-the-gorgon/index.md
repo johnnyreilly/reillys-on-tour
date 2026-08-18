@@ -14,7 +14,7 @@ I get it from my father, who got it from his father, who in turn... All the way 
 
 I used to joke about this with people. Then one afternoon, in a moment of boredom, I decided to google what Cro-Magnon man looked like. You know you get those artists impressions of long dead species? Well the same exists for CMM. Lo and behold, atop the list of my image search results was a gentle portrait of... Well, not to put too fine a point on it, me. I'm handsome enough, but to all intents and purposes I am also pre-historic man.
 
-![](cro-magnon-man.jpg)
+![Artist's impression of a Cro-Magnon man](cro-magnon-man.jpg)
 
 Daily people say to me "are you okay?", seeing the foaming torrent of fury upon my brow. What they don't realise is, they're almost certainly seeing me imagining "what will I eat for lunch today?" The person asking the question doubtless thinks I'm giving genuine consideration to eating them. Alas.
 

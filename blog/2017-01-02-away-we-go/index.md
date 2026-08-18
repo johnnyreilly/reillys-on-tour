@@ -58,6 +58,6 @@ Or something else entirely. Maybe abroad. Brexit is likely to restrict Brits' ab
 
 What I lack is clarity. I pray I would know what to do. And when. And why. It comes down to this: I don't want to go. Or do I? And if I do, well where?
 
-![](away_we_go.jpg)
+![The family walking down a country lane with the buggy](away_we_go.jpg)
 
 

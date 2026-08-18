@@ -16,12 +16,12 @@ This was a milestone morning. Everybody knew it was a milestone morning. Somethi
 
 But imperceptibly a point was reached. The countdown clock had started ticking. Benjamin needed to be togged up in his uniform, pictures needed to be taken. It was time; the boy needed to go to school.
 
-![](BenjaminAndLisetteLeavingForSchool.jpg)
+![Benjamin and Lisette leaving for his first day of school](BenjaminAndLisetteLeavingForSchool.jpg)
 
 The bell was rung. John watched Benjamin walk into his classroom and take his seat on the floor. His back was to his father and Benjamin formed part of a haphazard circle of 4 year olds. In a difficult to describe way, it felt to John as though Benjamin had just left his family. Left his pack, to be part of another pack. Of course he would see him again that evening. But in a way he wouldn't. He'd see a subtly different Benjamin, with the beginnings of new experiences and loyalties and friends. John's eyes grew hot and he forced himself to stare at the wall for a minute or two until he felt more in control of his emotions. Behind him he could hear Hazel exclaiming to Lisette "you're tearing up!" At least we're in the same boat.
 
 Meanwhile, James had decided that by not going into the class he was clearly missing out. He lay face down on the playground. Lisette felt rather the same way although for different reasons. Normally on a Thursday it would have been her day to spend time with Benjamin and James. Her little gang. They would have gone to Little Acorns to see friends, then to Marble Hill Park to run around and eat lunch in the enclosure. Then maybe to the 1 o'clock club. But that wouldn't happen anymore. Her little buddy was gone. He had moved on and she wasn't ready to. Being a mother was, to quote Gilly Charkham, "a wrench". That night it rained heavily and thundered. It seemed somewhat appropriate.
 
-![](BenjaminAtSchool.jpg)
+![Benjamin sitting with his classmates on his first day at school](BenjaminAtSchool.jpg)
 
 

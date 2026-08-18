@@ -14,7 +14,7 @@ In seeking a mutual meeting place we found ourselves reaching for the logistical
 
 In keeping with how we first got to know one another, luxury accomodation was not our priority. We decided to camp. Can there be a fuller way to challenge your fear of shared toilet facilities? When one considers the possibilities afforded by a squat toilet I would suggest not. Thus it came to pass that 4 adults and 4 children went camping together on Lago Maggiore.
 
-![](friends-by-the-lake.jpg)
+![Friends camping together beside Lago Maggiore](friends-by-the-lake.jpg)
 
 The joy of travelling with Benjamin and James is the vicarious appreciation. Like it or not, as we age we become inevitably dulled by the remarkable things in life. Do you still gaze out of the window of the aeroplane open-mouthed, as the earth drops away beneath you? Do you jump up and down emitting a voluble "yayyyyyy!!!!" because you've just been on a cable car?
 
@@ -24,7 +24,7 @@ As we left the runway our on EasyJet flight to Milan, James (who is 3) gazed out
 
 Also, I must admit, there are other advantages to their company. Would I have been invited onto the bridge of a ship if I \**didn't*\* have a 5 and 3 year old with me? Probably not. Thanks to a generous Captain, both Benjamin and James got to see the view from the top deck of the craft navigating us from Stresa to Arona across the lake. Not only that, they got to take the helm, steer our noble metal steed and (obvs) parp the horns. All the while, Lisette, Una and the rest of the passengers sat unaware of the junior helmsmen to whom their lives were entrusted. As far as the boys are concerned, life goal = achieved.
 
-![](james-steering-ship.jpg)
+![James steering the ship across Lago Maggiore](james-steering-ship.jpg)
 
 ---
 image: ./friends-by-the-lake.jpg
@@ -39,6 +39,6 @@ But with my handy Revolut card I have a get-out-of-jail-free. Don't bother worki
 
 By the way, this is exactly how languages die out. Foreign languages, killed by laziness circa 2050. Carry on camping!
 
-![](james-sticking-tongue-out.jpg)
+![James sticking his tongue out](james-sticking-tongue-out.jpg)
 
 

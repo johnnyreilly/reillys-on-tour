@@ -15,7 +15,7 @@ During my time abroad I have taken the opportunity to cultivate a goodly crop of
 
 This morning I tried something different. Looking out as the sun rose above the Loire while we breakfasted I wrote a poem! Is very short, almost a haiku really - it's very simple and it describes the events of the wife's preceding half hour. Here goes: Market, Rillette + Baguette: Lisette... Granted it's not quite "step aside John Betjeman" quality but I remain quite pleased. To illustrate the poem I include a picture of Lisette "in the moment": 
 
-![](P1020009.JPG)
+![Lisette with a baguette by the Loire](lisette-with-baguette-loire.jpg)
 
 ---
 

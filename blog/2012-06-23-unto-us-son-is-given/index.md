@@ -6,11 +6,15 @@ hide_table_of_contents: false
 slug: unto-us-son-is-given
 image: ./Us.jpg
 ---
-... and this is him! ![](Lisette-and-Benjamin.jpg)
+... and this is him!
+
+![Lisette holding newborn Benjamin](Lisette-and-Benjamin.jpg)
 
 ## It took longer than expected
 
- When Lisette's contractions started on June 14th I assumed that the birth would be taking place in pretty short order after that. I was wrong. It all started out pretty easily I'd say. Lisette was having contractions about every 5 minutes and they weren't enormously painful. This may have been helped by Lisette plugging herself into a "tens" machine. (I know; I'd never heard of one either.) A tens machine is a small device which has extrudes pads which are attached to the small of the back (of the woman in labour) and deliver electrical pulses which sooth the contraction pain. It's supposed to be similar to the effect of rubbing your leg after you've knocked it. Maybe it's hocus pocus; I don't know. But once plugged into the machine Lisette seemed pretty much okay. And it was a beautiful day on June 14th so we did what any self-respecting Brit would have done in the circumstances; we sat in the garden and had Paul the next-door neighbour round for tea. ![](Feeling+a+bit+tens.jpg)
+ When Lisette's contractions started on June 14th I assumed that the birth would be taking place in pretty short order after that. I was wrong. It all started out pretty easily I'd say. Lisette was having contractions about every 5 minutes and they weren't enormously painful. This may have been helped by Lisette plugging herself into a "tens" machine. (I know; I'd never heard of one either.) A tens machine is a small device which has extrudes pads which are attached to the small of the back (of the woman in labour) and deliver electrical pulses which sooth the contraction pain. It's supposed to be similar to the effect of rubbing your leg after you've knocked it. Maybe it's hocus pocus; I don't know. But once plugged into the machine Lisette seemed pretty much okay. And it was a beautiful day on June 14th so we did what any self-respecting Brit would have done in the circumstances; we sat in the garden and had Paul the next-door neighbour round for tea.
+
+![Lisette using a TENS machine in the garden](Feeling+a+bit+tens.jpg)
 
  Over the course of the day the pain of the contractions got a little more intense but the delay between contractions didn't seem to decrease. In fact at points Lisette fell asleep and the delay would increase. That doesn't happen in the films. By the evening I was exhausted. The anticipation of imminent arrival combined with a fierce refusal for things to properly begin was quite wearing out my nerves. Lisette was tired too. I started dozing off on the sofa and in the end Lisette sent me to bed around midnight. I realise this sounds rather selfish but, as Lisette pointed out, there was nothing I could do and she needed me to have energy later. ## Orienteering
 
@@ -26,7 +30,9 @@ image: ./Us.jpg
 
  Happily, Lisette's fears were unfounded. After hours of not much happening things suddenly kicked into high gear. This part was like the films. There was noise. There was pain. It was intense. And suddenly, floating in the water, was a baby! Lisette collapsed against the side of the pool; understandably exhausted by her exertions. The baby stayed floating, a little pink island. At this point Lisette and I implicitly expected that the midwives would kick in. Isn't this the point when they're supposed to pick up the child by its hind legs, raise it up and ensure that it takes it's first breath? Not anymore it seems. "There's your baby... Pick up your baby..." Sally and Karen gently intoned. Lisette came to with a start and reached out to grab the floating child. ## "It's a boy!"
 
- A boy. A boy! I've got a son! We've got a son! Look, he's breathing. He's moving! He's got fingernails! He's got hair! This is amazing! The excitement Lisette and I felt when he was born. It was a moment of absolute joy. I wept. In a good way. I can't believe that we're alone in feeling that way. That wouldn't be credible. Has every human being born provoked that reaction in their mother, their father? Wouldn't that be wonderful? Wouldn't that be fantastic? I don't know if that's actually the case. But I love the idea that perhaps as everyone enters the world they create joy. And that's it. This is us; the brand new "us"! ![](Us.jpg)
+ A boy. A boy! I've got a son! We've got a son! Look, he's breathing. He's moving! He's got fingernails! He's got hair! This is amazing! The excitement Lisette and I felt when he was born. It was a moment of absolute joy. I wept. In a good way. I can't believe that we're alone in feeling that way. That wouldn't be credible. Has every human being born provoked that reaction in their mother, their father? Wouldn't that be wonderful? Wouldn't that be fantastic? I don't know if that's actually the case. But I love the idea that perhaps as everyone enters the world they create joy. And that's it. This is us; the brand new "us"!
+
+![John, Lisette and newborn Benjamin, the new family](Us.jpg)
 
 ## Vital Statistics
 
