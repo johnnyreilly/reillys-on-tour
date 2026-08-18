@@ -8,6 +8,8 @@ image: ./vintage-campsite-cooking.jpg
 ---
 On May 27th 2019 the weather in Peschiera del Garda looked like this:
 
+{/*truncate*/}
+
 ![Weather forecast for Peschiera del Garda](weather-forecast.png)
 
 Whilst in Twickenham it was more like this:

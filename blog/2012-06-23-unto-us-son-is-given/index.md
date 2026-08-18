@@ -8,6 +8,8 @@ image: ./Us.jpg
 ---
 ... and this is him!
 
+{/*truncate*/}
+
 ![Lisette holding newborn Benjamin](Lisette-and-Benjamin.jpg)
 
 ## It took longer than expected

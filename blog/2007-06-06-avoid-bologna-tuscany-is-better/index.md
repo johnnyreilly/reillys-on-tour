@@ -10,6 +10,8 @@ Dear all,
 
 Lisette and I have finally made it to Bologna - and have officially left Tuscany behind. Now that we've got here I'm increasingly of the opinion that we never should have left. Bologna seems somewhat industrial, hostile and - dare I say it - mugging territory. (For the more nervous of you I haven't actually seen direct evidence of this - it's just a feeling)
 
+{/*truncate*/}
+
 We pulled into town latish last night having caught the Eurostar from Firenze/Florence to make our journey. That in itself was a bit of a surprise - I was only aware of the Eurostar chugging along between Waterloo and Paris. Quite unexpected. Having arrived and hauled our stuff to the hotel we went for an evening saunter during which I made the following observations:
 
 1. There's a lot of cars

@@ -8,6 +8,8 @@ image: ./away_we_go.jpg
 ---
 There's this film called [Away We Go](<https://en.wikipedia.org/wiki/Away_We_Go>). It's about a couple expecting their first baby and wondering where they should live. Over the course of the movie, they travel to different places in North America, spend time with different groups of friends and family. In the end, (spoiler alert) they work out where they think they should be.
 
+{/*truncate*/}
+
 When Lisette and I first saw it we thought it was fantastic. It's got a great soundtrack. It's got John Krasinski, making me question my own sexuality and reinforcing Lisette's. It has beautiful locations. It has great characters. What's not to love?
 
 When we first watched it, the main theme of the film was just incidental to us. "Where should we live?" That's the question. Where should we be now? Where should we raise our children? Where do we belong? Over recent years this theme has become something Lisette and I actively think about.

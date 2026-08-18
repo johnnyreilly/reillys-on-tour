@@ -8,6 +8,8 @@ image: ./Trainspotting-2.jpg
 ---
 On Friday night I went to the cinema and saw T2: Trainspotting with a mate. I loved it; for my money it's a wonderful film. Albeit one with a terrible name. I put it to you my alternative title is better... Ish.
 
+{/*truncate*/}
+
 ![Poster for T2 Trainspotting](Trainspotting-2.jpg)
 
 I went to see the original in the cinema. Like pretty much anyone of my generation I had the mandatory orange posters plastered on my walls. I read the book multiple times. I had the video, the VHS cassette (I'm that old). Hell, I had the green special edition VHS with the deleted scenes. (Which was probably only released because at that time the marketing men realised they could slap Trainspotting on \**anything*\* and make some money.) If I was going out for a night I watched Trainspotting with a drink in my hand before I headed out. It was part of the vague rituals of my life.

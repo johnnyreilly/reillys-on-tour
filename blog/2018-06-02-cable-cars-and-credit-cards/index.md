@@ -8,6 +8,8 @@ image: ./friends-by-the-lake.jpg
 ---
 I proferred the binbag. "All the rubbish; in here please". Conor turned to his right, "Una, will you climb in now?" Una grinned and mimed throwing objects into the sack. "There's my hopes and dreams right there Conor."
 
+{/*truncate*/}
+
 Conor, Una, Lisette and I have known each other for half our lives. Well; Conor's not quite there - he's the elder statesman of our group. We met when we were working for British Airways as students, and living in Hounslow's finest dodgy digs. Since that time we've been scattered to the four winds; Una to Ireland, Conor to Switzerland. Lisette and I, well, maybe 3 miles tops to Twickenham.
 
 In seeking a mutual meeting place we found ourselves reaching for the logistically logical location: Italy. (I know; like a stepladder where you least expect it.)

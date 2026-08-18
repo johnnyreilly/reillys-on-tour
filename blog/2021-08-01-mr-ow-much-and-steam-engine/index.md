@@ -8,6 +8,8 @@ image: ./steam-engine-cab.jpg
 ---
 The bodies lay upon the ground in the field. They were dressed colourfully, each kitted out in varieties of neon outfits that shone in the sunshine. "They're very still" I said, by way of summing up the situation. "They all died" said Lisette, who was also taking in the view.
 
+{/*truncate*/}
+
 Because I'm a slightly gullible fellow (and, well, you just never know) I watched keenly half wondering if it might be true. They were very still. After a surprisingly long period of time, the figures started to move slowly. It turns out that yoga in a field can, temporarily, be indistinguishable from death.
 
 ## Camp Wowo

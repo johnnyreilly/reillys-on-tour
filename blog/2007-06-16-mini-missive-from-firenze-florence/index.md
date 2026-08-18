@@ -9,6 +9,8 @@ Hi All,
 
 Am 30!
 
+{/*truncate*/}
+
 Currently sitting in internet cafe prior to catching the bus to Siena for a day out. So far have been to Pisa, Lucce and Florence (where we are currently holed up in a very nice place indeed!)
 
 Yesterday was spent cycling round Chianti with Keith (Irish) and Andy (Scottish) - for some reason Italians dont feel up to running bike tours themselves... Was very pleasant - we got to taste award winning wine and olive oil along the way made by a Count and Countess no less! (Not of the vampiric variety we have been assured) A fair portion of the days entertainment was provided by Andy who is possibly the most blatant of chat-up merchants I have ever seen in operation.

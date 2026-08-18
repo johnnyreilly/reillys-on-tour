@@ -8,6 +8,8 @@ image: ./benjamin-and-mum-swing.jpg
 ---
 It's just over 500 days since Benjamin, my son, was born. He's no longer the fragile newborn. He eats normal food, he walks, he sleeps through the night. He's a very healthy little fellow. He doesn't talk yet but I've no doubt it's in the post.
 
+{/*truncate*/}
+
 ![Benjamin and Dad at the seaside](benjamin-and-dad-seaside.jpg)
 
 Lately I've been considering - how has becoming a father changed me? Because I know it has.

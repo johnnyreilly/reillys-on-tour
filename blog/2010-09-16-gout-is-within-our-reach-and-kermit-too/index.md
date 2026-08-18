@@ -7,6 +7,8 @@ slug: gout-is-within-our-reach-and-kermit-too
 ---
 After nearly a week of eating French cuisine I am presented with a mystery and it is this: how are the French not yet extinct? Each meal appears to consist of a \***minimum**\* of 3 courses. Each course contains enough calories, cholesterol and fat to give an elephant pause for thought. So how are these people still functioning let alone skinny? I have some vague notion that the French send themselves away to foreign countries every now and then where they find the cuisine so repulsive they abstain entirely from eating while their bodies return to healthier levels. A "detox trip" if you will; this may explain [South Kensington](<http://en.wikipedia.org/wiki/South_Kensington>). We see Lisette's (French) mum and (English) dad next week in Spain and so I intend to consult Annie on the matter. Perhaps that's what led her to make for Geordieland in the first place... 
 
+{/*truncate*/}
+
 ---
 
 In an effort to fit in more with the locals I have been attempting to pepper my language with French colloqialisms. So there's been a lot of "comme ci comme ça" and "pourquoi" going on. I think it sounds terrific! Lisette, not so much.

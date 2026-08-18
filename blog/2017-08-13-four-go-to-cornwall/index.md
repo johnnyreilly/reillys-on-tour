@@ -8,6 +8,8 @@ image: ./at_the_beach.jpg
 ---
 Lisette and I have proven ourselves incapable in the "booking holidays" category of competence. After months of attempting to find something we realised we'd fallen at the first hurdle by failing to do the requisite planning-one-year-in-advance. This is alas mandatory now Benjamin is in school and restricting our holiday times to select high priced periods. Why did he have to grow up?
 
+{/*truncate*/}
+
 So it was, that around 3 weeks prior to us having to explain the meaning of the word "staycation" to Benjamin and James, we received an offer. A couple we knew from church, Peter and Sarah, were going to be in Portscatho, a village in Cornwall and would we like to stay with them? Would we? Popes / Catholics / bears / woods - you get my drift.
 
 We set our sights for the Southwest. And so, the four of us came to find ourselves winding our way down a single-lane road with the rain lashing the windscreen of our rented car. Always say yes to a memory.

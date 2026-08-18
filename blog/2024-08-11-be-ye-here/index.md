@@ -8,6 +8,8 @@ slug: be-ye-here
 ---
 Working out where to go on holiday has always seemed like slightly hard work. How do you choose? Do we go to Italy? We've been before. Do we go to France? They'll only want us to wear Speedos at the swimming pool. So where shall we go?
 
+{/*truncate*/}
+
 We were delighted when we discovered a friend in Belfast, who had recently had a baby, would be up for a visit. A mutual friend of ours, was also planning a trip back to Ireland from where he lives. We've known each other for 25 years now, and have travelled before as a group. Why not get the band back together and spend some time in Ireland this summer? That was the thought, and so the Reilly family made plans.
 
 Passage was booked on the Liverpool to Belfast ferry. Grandma Reilly kindly leant her car to the Twickenham Reillys, so that myself, Lisette and the boys could roll Northwards and over the Irish Sea to Ireland.

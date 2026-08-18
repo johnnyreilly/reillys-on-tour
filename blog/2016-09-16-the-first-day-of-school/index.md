@@ -8,6 +8,8 @@ image: ./BenjaminAndLisetteLeavingForSchool.jpg
 ---
 It was a warm Thursday morning. Despite it being mid-September and the beginning of autumn it still felt summery. Just another day of sunshine.
 
+{/*truncate*/}
+
 But that wasn't quite true, for today was Benjamin's first day of school. He was going to get up, eat breakfast, put on a shirt, shorts and a tie and walk the 6 doors down the road to St Stephen's Primary. Lisette had reservations about the tie; the shirt too for that matter. It seemed excessive for a child as young as 4. But they were the rules. She had other things to worry about; John was faintly baffled by the level of stress accorded to the difficulty in acquiring shorts. But there you go.
 
 The morning began as most mornings did. Lisette drank a mug of tea upstairs. The boys drank milk, played and sat around her. Downstairs, Radio 4 could be heard in the background as John flicked various knobs and twisted dials on his coffee machine until something was produced that sat somewhere on the scale between "cappuccino" and "latte". There was something deeply satisfying to him about the level of effort required to produce coffee. The idea that the varying levels of attention to detail meant you could either produce a gloriously flavoured treacle or, alas more likely, a mug of brown slop.

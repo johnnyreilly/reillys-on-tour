@@ -8,6 +8,8 @@ image: ./bens-feelings.jpg
 ---
 Miss Rachel at Nursery had a grand idea. She would give Benjamin a number of words and ask him how he felt about them. So she did. As Benjamin responded she diligently scribed away the results and presented Lisette with this at the end of the day:
 
+{/*truncate*/}
+
 ![A nursery worksheet showing Benjamin's feelings about a police car, fish, mouse, crocodile, monkey and lion](./bens-feelings.jpg)
 
 It's not the best photo I've ever taken but the contents are gold and I didn't want to forget them. So here they are; Rachel's words and Benjamin's musings:

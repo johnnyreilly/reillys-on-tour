@@ -8,6 +8,8 @@ image: ./bocas-del-toro-beach.jpg
 ---
 Because then I wouldn't feel so bad....
 
+{/*truncate*/}
+
 3 weeks in and we're feeling the pain of not being able to communicate. Last night we went to a Chinese restaurant for dinner (in Bocas del Toro - where we've been for 3 days now). I don't think anyone in the establishment actually was Chinese but that's still what it called itself.
 
 The menu was presented and as with Chinese places the world over we were presented with a menu which was comparable in size to the complete works of Shakespeare. Not to be defeated we ordered some beers (we have at least learned the phrase "cevesa" during our travels). Further study of the menu didn't really render much hope apart from the fact that I identified "chow mein" which I thought might make a nice side dish to share. When the waitress came we decided to chance it and order with our fingers crossed....

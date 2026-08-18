@@ -10,6 +10,8 @@ image: ./funeral-service.jpg
 
 It was Friday 13th. Gran had never been keen on that date. So it was ironic, or perhaps appropriate, that date came to be the occasion of her funeral. The universe likes a giggle.
 
+{/*truncate*/}
+
 At 10 o'clock in the morning the family and friends of Averil Bessie Jenkins gathered at the Poor Clare's Convent in Crossbush, near Arundel. Home of Sister Pat; aunt to me, sister to my mother and my aunts, daughter of Gran. Averil had been a Jenkins, a Frame and a Luxford over the course of her life. The building was filled with people who had known all three.
 
 I'd travelled down with my sister Kirsty from London that morning by train, where our brother Peter met us at Arundel station. Mum had primed me beforehand and so I found myself clean-shaven, dressed in a black suit, wearing a tie and smart black shoes. It was very unlike me. Mum was delighted. Aunty Frances took a photograph.

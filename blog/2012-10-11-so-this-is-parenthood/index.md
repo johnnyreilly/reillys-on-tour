@@ -7,6 +7,8 @@ slug: so-this-is-parenthood
 ---
 It's now been 4 months since Benjamin was born. I realised the other day that many things were happening. Each day there are changes; every morning something is different. And so I wanted to note down where we are, what's happened, how we feel, what it's been like.
 
+{/*truncate*/}
+
 First let's take a look at the little man:
 
 ![Benjamin](benjamin-tongue-out-smile.jpg)

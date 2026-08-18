@@ -10,6 +10,8 @@ One love people.
 
 The weather here in Antigua has yet to dip beneath 30 degrees. As a result I am pretty much a limp rag doll for much of the time but Lisette is absolutely loving it!
 
+{/*truncate*/}
+
 We've been watching pelicans fish each morning and flying fish jump from the water (prior to getting eaten) as well! You'd think they'd learn but alas they don't.
 
 One surprising side affect of arriving in Antigua is that both Lisette and I have gone from not sleeping at all to developing some strange offshoot of sleeping sickness. Our favourite catchphrase of the moment is "I'll just have a little snooze" - we're averaging about 20 hours sleep a day at present

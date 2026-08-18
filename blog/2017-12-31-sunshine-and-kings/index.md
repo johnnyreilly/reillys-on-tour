@@ -8,6 +8,8 @@ image: ./Dawn-in-Palma-Old-Town.jpg
 ---
 The difference between Spanish winter and British is not really temperature. A mild British winter day isn't significantly colder than Spain. The difference is light. Winter or summer, there is a lot more light to go around in Mallorca than in London. Lisette, Benjamin, James and I are staying in Palma visiting family. The day we arrived was not auspicious; it was overcast and stormy. The next day however, well... As I looked around I realised I was squinting. The light was too strong. I haven't squinted in London since October.
 
+{/*truncate*/}
+
 So it's a shame I distrust sunglasses. For some reason I always have. If the eyes are the windows of the soul then it follows that I regard sunglasses as harbingers of suspicion. If you won't let me look into your eyes then part of my brain is convinced you must be up to no good. Probably only a hop, skip and a jump away from pretensiousness too; that most tragic of attributes.
 
 Quite apart from the not-so-nice-judge-y aspect, this is a lamentable attitude for another reason. The thing is, I look quite fabulous in sunglasses. Really I do; Ray-Bans were born to be on my face. Aviators; sitting atop my nose have reached their pinnacle in existence; they can do no better. I base this on memories of me wearing sunglasses when I would have last countenanced it; when I was 20. It might not hold true now I'm 40. But then, ha! Move over Beverly Hill 90210's Luke Perry, there's a challenger for the throne.

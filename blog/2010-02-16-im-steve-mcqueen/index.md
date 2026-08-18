@@ -7,6 +7,8 @@ slug: im-steve-mcqueen
 ---
 ...and this is The Great Escape - I'll come back to that.... Hello Folks, Lisette and I have headed off for one of our adventures - this time to Sri Lanka. Unlike our usual approach to holidaying (buy tickets, catch plane and pray) we have decided to deviate. We are "on a tour". The tour started somewhat inauspiciously. We arrived after a 12 hour flight at 3 am on Valentines Day in Colombo. We were met by a man bearing an "Adventure Company" sign who bundled us into a van together with our fellow tour-ees/tour-ettes. All were pretty shattered at this point and pretty much hoping for instant bed. Not to be. Our tour guide (Asangha) drove us for quite some time and we were in some pretty ropey neighbourhoods by the time he confessed that he may have taken a wrong turn at some point. However, by 4am we were delivered to a hotel. The good. The bad: hotel was pitch black and it soon became apparent that we did not have reservations. The group mood did darken somewhat at this point, particularly as by now the flies (which dont need sight to detect human flesh it seems) were by now crawling upon us fairly profusely. Not much happened for quite a long time as I recall. Asangha made a lot of phone calls, essentially begging the hotel to open up and show us the love. Am delighted to say that, in the end, they turned on the lights and in due course delivered us to rooms where we collapsed. It was later revealed by Asangha that he had made reservations for us... but not at that hotel. Hey ho. Expectations suitably lowered.
 
+{/*truncate*/}
+
 ![John relaxing on the veranda](john-on-the-veranda.jpg)
 
 ---

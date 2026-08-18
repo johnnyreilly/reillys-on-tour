@@ -8,6 +8,8 @@ image: ./ben-in-the-front-garden.jpg
 ---
 I just cried. I'm not an especially tearful person for the most part so that was kind of odd.
 
+{/*truncate*/}
+
 Lisette and I went to the cinema last night. It's our wedding anniversary on Monday and Lisette is due to give birth in a months time. So we felt an outing was in order - probably our last outing for quite some time.
 
 We saw a film called "[Boyhood](<http://en.wikipedia.org/wiki/Boyhood_(film)>)". It moved me. It's a film pretty much like no other. You see a boy, Mason, age from about 7 to 19. It's amazing. It's not full of big drama - but it is full of the kind of things that happen when you grow up. It made me remember the things that happened to me when I was younger. I should say that my own life was easier than Mason's - there were far less genuinely scary adults in my own upbringing.

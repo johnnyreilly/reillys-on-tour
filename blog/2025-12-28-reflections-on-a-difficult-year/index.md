@@ -10,6 +10,8 @@ slug: reflections-on-a-difficult-year
 
 The year is coming to a close. The Reilly family Christmas tree has long been up, and, as you walk the streets of London, everywhere is lit by the magic of fairy lights.
 
+{/*truncate*/}
+
 This year has been very difficult for me. I have not had the year I expected to. It has been different. Something quite terrifying and horrible. But also, laced with humanity. I wanted to take some time to write it down. Often when I write, I'm trying to make the people reading smile. I am not, on this occasion. This is John in sincere mode.
 
 Here follows the tale of year, and where I find myself now.

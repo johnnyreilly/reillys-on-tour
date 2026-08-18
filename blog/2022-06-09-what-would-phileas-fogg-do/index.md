@@ -8,6 +8,8 @@ image: ./family-photo-burano.jpg
 ---
 It is June 2022. COVID hove into view back in early 2020 and radically adjusted all our lives. Part of that was the ability (and ease) of travelling abroad. Like so many, the Reilly family were effectively grounded since then. We have made trips, but we never left England.
 
+{/*truncate*/}
+
 So when life started to seem less restrictive, we made plans. We found ourselves camping in a place called Cavallino in Italy. It looks on a map, as if it is near Venice. Looks can be deceiving. It turns out Swindon has better travel links to London than Cavallino has to Venice.
 
 However, links it has, and links we have used. You can travel from Cavallino on the bus down to Punta Sabbioni and then switch to a boat for the trip into Venice (or rather "Venezia").

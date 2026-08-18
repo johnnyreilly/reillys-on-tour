@@ -8,6 +8,8 @@ image: ./cro-magnon-man.jpg
 ---
 As I have grown older, I've become aware of a characteristic of mine, which I don't much like. It's not casual racism or a prediliction for keeping a lap dog in a handbag about my person. It's more complicated than that.
 
+{/*truncate*/}
+
 It's my face. Or at least: that's where it starts. I have a resting facial expression that gives off a vibe. A hostile one. Not intentionally; it's just well... It's a thing. My face at rest looks like Vinnie Jones thinking "you don't get to talk about my mum".
 
 I get it from my father, who got it from his father, who in turn... All the way back to Cro-Magnon man. Somehow my family line has managed to maintain the same physical characteristics as the European early modern humans of 15,000 years ago, almost without compromise.

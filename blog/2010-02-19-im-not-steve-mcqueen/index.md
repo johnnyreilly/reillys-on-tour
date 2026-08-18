@@ -7,6 +7,8 @@ slug: im-not-steve-mcqueen
 ---
 ...no - as it turns out I'm \*all\* woman... (thanks to the good Professor) Hi all, First up, thanks for your emails - apologies for not responding in kind but I've just recently (within the last half hour) been re-introduced to the world of "pre-broadband". Internet connection in Kandy is pretty much approximate to to internet connection in England in the early 90's. Maybe slower. And so each keystroke has alas become rationed for today.
 
+{/*truncate*/}
+
 ---
 
 Following about 12 hours of monsoon rain Sri Lanka has returned to levels of frankly dangerous heat and humidity. Even Lisette (bearing in mind her boundless enthusiasm for heat) has declared that it's "a bit much". If you'd like to paint a mental picture of me at present you should imagine a man in a sauna, fully clothed and eating curry. I'm hot.

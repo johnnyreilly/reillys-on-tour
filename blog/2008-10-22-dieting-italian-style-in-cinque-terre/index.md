@@ -8,6 +8,8 @@ image: ./john-hiking-cinque-terre.jpg
 ---
 We have arrived in the Cinque Terre which is on the North West coast of Italy. The direct translation is "Five Towns" and the idea is that you stroll / hike from one town to the next marvelling in the sights of the sea and the beauty of the towns. And the towns are lovely - it is as if Walt Disney came here 80 years ago to get his ideas of what fairy castles etc should look like.
 
+{/*truncate*/}
+
 ![Lisette admiring the Cinque Terre coastal view](lisette-cinque-terre-view.jpg)
 
  We are staying in the most Southerly town inside the Cinque Terre - Riomaggiore. There are no real hotels inside the Cinque Terre and the books (Lonely Planet and the "<s>Rough</s>

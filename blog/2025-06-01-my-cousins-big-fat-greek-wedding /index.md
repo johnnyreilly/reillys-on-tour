@@ -10,6 +10,8 @@ slug: my-cousins-big-fat-greek-wedding
 
 > "A Reilly male is never without a handkerchief" - Kirsty Kissell née Reilly 
 
+{/*truncate*/}
+
 It was a warm day in Crete. By warm, I mean 38 degrees Celcius. Classic British understatement really; it was, in point of fact, unconscionably hot.
 
 The wider Reilly family had been landing in Crete in preparation for Dominic's wedding to Eleni. Dominic is my cousin, the eldest child of Frances and Jim. Frances is the youngest sister of my mother Ann. To Fran's great delight, she is closer in age to me, than to her oldest sister / my mother.

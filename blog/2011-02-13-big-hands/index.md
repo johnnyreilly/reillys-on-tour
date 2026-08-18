@@ -7,6 +7,8 @@ slug: never-let-me-go
 ---
 So the flames licked up the side of the building and smoke billowed like billy-o. The people up and down the street turned, pointed and stared and the restaurant where Lisette and I had eaten our first meal in Bangkok was consumed by fire. Yup, Lisette and I are on holiday and appear to be blazing a trail in a more literal sense than usual. We are currently resident in Bangkok and making plans to head North to Chiang Mai.
 
+{/*truncate*/}
+
 ---
 
 I love my wife.

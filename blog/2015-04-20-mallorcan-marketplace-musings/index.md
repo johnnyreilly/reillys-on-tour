@@ -8,6 +8,8 @@ image: ./BenjaminAstrideHisNobleSteed.jpg
 ---
 Fun fact, the word "typical" enjoys a vastly different meaning when used by Brits as opposed to when used by the Spanish. The English usage of typical is effectively: "It's rubbish and I knew it would be". Example: the word uttered upon learning there is no car parking space when you need one. The Spanish definition is simpler; it means "traditional". Consequently the examples are jollier: olive oil, tapas and maracas.
 
+{/*truncate*/}
+
 ---
 
 The flaxen haired youth's name was Benjamin Luxford Reilly and, as he was fond of telling people, "I \*not\* a baby, I a big boy".

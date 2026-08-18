@@ -8,6 +8,8 @@ image: ./family-on-the-beach.jpg
 ---
 The Reillys had set out on their summer holidays. Benjamin, James and the Reilly parents were going to stay with some friends on a working farm in rural Devon. The farm was proudly carbon-neutral; it generated electricity and had its own water supply. This was a holiday that could only be more middle class if they breastfed the livestock hummus.
 
+{/*truncate*/}
+
 ![the Reilly family and an image of Elvis](elvis-and-family.jpg)
 
 Rather than travel directly from Twickenham to Devon, the family had opted to break up the journey. So it was that on a Wednesday evening the Reillys found themselves outside their Somerset Airbnb and in need of food. Having wheelspun into the driveway, Mr Reilly was driving no further. Instead, the four of them set out on foot to search for dinner.
