@@ -3,7 +3,7 @@ title: "Take my breath away"
 authors: johnnyreilly
 tags: [recovery-diaries]
 image: ./title-image.jpg
-description: "The tale in which part of my lung is removed in the Royal Brompton hospital."
+description: "I go for lung surgery at the Royal Brompton hospital. This is part of my recovery diaries."
 hide_table_of_contents: false
 slug: take-my-breath-away
 ---
