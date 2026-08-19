@@ -7,6 +7,8 @@ slug: on-seine-in-membrane
 ---
 Dear all, Am typing this on the strangest keyboard I have ever encountered. It appears to be the standard French keyboard which for no reason that I can comprehend does not tally with any other computer keyboard on the face of the planet. Can't think why they made it like this other than to slow the non-French down. It's definitely working. Struggling to find the letters and have given up on punctuation. So if this reads a bit odd I apologise - it's this or insanity. Lisette and I arrived in Paris on Friday night and met up with our good friend Una who had just flown in from Belfast. It didnt start off as the most French of experiences. Due to the trains not running - maybe a strike - we had to catch a taxi into town. We ended up being driven by a man in gleaming white robes, strange hat and listening to "***Africa 1***" Radio which is about as local as it sounds. Una, Lisette and I had decided to venture into unknown waters on our weekend in Paris and were staying on a barge moored next to the Eiffel Tower. The barge was owned and normally lived in by a Parisien lady who lets it out on the occasional weekend to raise some spare cash. Its quite strange staying in what is clearly someone elses home. Particularly when the home in question is rammed to bursting with pictures of famous maharajas and, strangely, naked Indian ladies. Still we didnt dwell on the matter and ventured out onto the Seine in the early hours of Saturday morning in search of a drink. Our first port of call was a jolly looking nightclub facing onto the Seine. Not to be though, as we uttered "Bon Soir!" to the bouncer we were looked slowly up and down before he pronounced very definitely the phrase "Private party" and waved us off into the middle distance. Perhaps we should have got changed before venturing out. Una was outraged at this and could be seen mouthing the words "private party" to herself at numerous points over the weekend. It had clearly deeply affected her as she encouraged us to made a second attempt to gain entry on the Saturday night. Only bottling out at the last minute when it became clear that the same bouncer was in place and so our odds were at best unfavourable.
 
+{/*truncate*/}
+
 ---
 
  Paris has much to recommend it around the Notre Dame / Latin Quarter area. To my disappointment though Montmartre was nothing like in Moulin Rouge - granted, a film - it turned out seedier than a parrots breakfast. French men look mighty clean. There are also indecently enamoured of draping jumpers over their shoulders and wearing scarves. It should be noted that they dont approach the scarf in the manner of that mighty Doctor Who Tom Baker. No, instead the scarves are wrapped repeatedly round the neck until they resemble a member of that tribe (possibly African but not sure) which extends the length of their necks by wearing multiple metal bands betweeen their shoulders and their chin. Still - tres chic I'm sure.
@@ -17,8 +19,8 @@ Dear all, Am typing this on the strangest keyboard I have ever encountered. It a
  
  See you soon! love, John and Lisette
  
-![](P1010890.JPG)
+![The steps leading up to Sacre-Coeur](sacre-coeur-steps.jpg)
 
-![](P1010880.JPG)
+![Dinner at a restaurant in Paris](paris-restaurant-dinner.jpg)
 
 

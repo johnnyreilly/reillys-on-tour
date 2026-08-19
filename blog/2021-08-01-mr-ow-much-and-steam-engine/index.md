@@ -4,9 +4,11 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: mr-ow-much-and-steam-engine
-image: ./IMG_20210728_155439.jpg
+image: ./steam-engine-cab.jpg
 ---
 The bodies lay upon the ground in the field. They were dressed colourfully, each kitted out in varieties of neon outfits that shone in the sunshine. "They're very still" I said, by way of summing up the situation. "They all died" said Lisette, who was also taking in the view.
+
+{/*truncate*/}
 
 Because I'm a slightly gullible fellow (and, well, you just never know) I watched keenly half wondering if it might be true. They were very still. After a surprisingly long period of time, the figures started to move slowly. It turns out that yoga in a field can, temporarily, be indistinguishable from death.
 
@@ -30,7 +32,7 @@ Myself I found something magical about us waking up in the tent together. Blonde
 
 One of the attractions of Wowo is the Bluebell Railway. The Bluebell Railway is what's known as a "heritage line", the trains that run are all historic, and mostly steam engine powered. The boys like trains generally. Steam trains are, naturally, even more exciting. The combination of them being from times gone past, incredibly powerful and noisy, as well as being dangerous, makes them thrilling. They're like dinosaurs that aren’t quite extinct. The Bluebell Railway is Jurassic Park.
 
-![The boys witnessing a steam engine on the Bluebell Railway](IMG_20210728_160713.jpg)
+![The boys witnessing a steam engine on the Bluebell Railway](boys-watching-steam-engine.jpg)
 
 So a trip to Camp Wowo would be incomplete without a trip on the Bluebell Railway. Sadly the last time we were here, it was fairly early into the COVID 19 pandemic and the Bluebell Railway was closed. The line is mostly staffed by retired volunteers. Given that this demographic was considered high risk, it was unsurprising to discover that the line was out of action for a while.
 
@@ -48,7 +50,7 @@ The Reilly family steamed out of Sheffield Park on the first train of the day. W
 
 Whilst it's notionally fun to realise you're being conveyed by a steam engine, this high passes quite quickly. A compartment is just a moving box; the steam engine is where the action is. Happily, getting to the action is totally achievable. The engineers that run the train are essentially excited seven year olds in seventy year old bodies. They happily showed off the engine to the awe inspired children gathered around, once we'd pulled into a station. I got to glimpse into the firebox and I have to say it was terrifying. I found myself looking at a large bath of shimmering fiery coal, pushing out a fierce wall of heat. I didn't realise I was scared of baths of fire, but it turns out I really am.
 
-![Myself and the boys in the cab of a steam engine looking into the firepit feeling suitably awed](IMG_20210728_155439.jpg)
+![Myself and the boys in the cab of a steam engine looking into the firepit feeling suitably awed](steam-engine-cab.jpg)
 
 ## Mr Ow Much and the steam engine
 

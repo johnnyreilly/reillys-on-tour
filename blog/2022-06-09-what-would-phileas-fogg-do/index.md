@@ -4,9 +4,11 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: what-would-phileas-fogg-do
-image: ./PXL_20220604_122836113.MP.jpg
+image: ./family-photo-burano.jpg
 ---
 It is June 2022. COVID hove into view back in early 2020 and radically adjusted all our lives. Part of that was the ability (and ease) of travelling abroad. Like so many, the Reilly family were effectively grounded since then. We have made trips, but we never left England.
+
+{/*truncate*/}
 
 So when life started to seem less restrictive, we made plans. We found ourselves camping in a place called Cavallino in Italy. It looks on a map, as if it is near Venice. Looks can be deceiving. It turns out Swindon has better travel links to London than Cavallino has to Venice.
 
@@ -14,11 +16,11 @@ However, links it has, and links we have used. You can travel from Cavallino on 
 
 This is the Reilly family on Burano, an island to the north of Venice.
 
-![](PXL_20220604_122814832.MP.jpg)
+![Lisette with Benjamin and James beside a Burano canal](mum-and-boys-burano.jpg)
 
-![](PXL_20220604_122836113.MP.jpg)
+![The Reilly family together on the island of Burano](family-photo-burano.jpg)
 
-![](PXL_20220604_122852808.MP.jpg)
+![Lisette laughing while hugging her son in Burano](mum-hugging-son-burano.jpg)
 
 Having left the UK, where pretty much all COVID related mask restrictions were lifted some time ago, it was a surprise to discover that they are still in force in Italy. They're due to be relaxed in a week or so. For now though, bus, boat, plane and train travel requires a mask.
 
@@ -58,7 +60,7 @@ But now, it would be me doing that with the boys alone, as Lisette would be on h
 
 Meanwhile, the Reilly lads would be similarly on our own pilgrimage. Catching the dawn bus along to Punta Sabbioni and clambering aboard a boat bound for St Mark's Square.
 
-![](PXL_20220606_055741005.MP.jpg)
+![Boys sitting on a bench near St Mark's Square](st-marks-square-bench.jpg)
 
 We had a final family breakfast together there, munching on rough sandwiches made of the leftover loaves, charcuterie and cheese we had. Then we had to part.
 

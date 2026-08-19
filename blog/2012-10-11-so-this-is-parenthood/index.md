@@ -1,15 +1,17 @@
 ---
 title: "So this is Parenthood..."
 authors: johnnyreilly
-tags: [Breast-feeding, tongue tie]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: so-this-is-parenthood
 ---
 It's now been 4 months since Benjamin was born. I realised the other day that many things were happening. Each day there are changes; every morning something is different. And so I wanted to note down where we are, what's happened, how we feel, what it's been like.
 
+{/*truncate*/}
+
 First let's take a look at the little man:
 
-![](P1060654+again.JPG)
+![Benjamin](benjamin-tongue-out-smile.jpg)
 
 Now I know I'm biased but isn't he gorgeous? I think it's safe to say that Lisette and I have become that which we despised: parents that dote on their progeny. We're wondering if he might have ginger hair. Looks a bit that way. And do notice his tongue. That tongue was the cause of a lot of trouble.
 

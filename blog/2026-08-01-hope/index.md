@@ -10,6 +10,8 @@ slug: hope
 
 Let me preempt what I'm going to write by saying this: it's good news my friends, it's good news. Much that I've written recently hasn't been. This is. I may yet experience bad news again. Or not. Either way, right now I want to tell you about some good news. 
 
+{/*truncate*/}
+
 ## Six of the best
 
 You find me on the morning of July 13th. It's the long hot summer of 2026. The time that will be looked back upon by future historians as the moment we realised the environment was past the point of no return, and that humanity was doomed. 

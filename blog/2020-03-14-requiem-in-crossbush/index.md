@@ -6,9 +6,11 @@ hide_table_of_contents: false
 slug: requiem-in-crossbush
 image: ./funeral-service.jpg
 ---
-![](funeral-service.jpg)
+![Order of service for Gran's requiem mass](funeral-service.jpg)
 
 It was Friday 13th. Gran had never been keen on that date. So it was ironic, or perhaps appropriate, that date came to be the occasion of her funeral. The universe likes a giggle.
+
+{/*truncate*/}
 
 At 10 o'clock in the morning the family and friends of Averil Bessie Jenkins gathered at the Poor Clare's Convent in Crossbush, near Arundel. Home of Sister Pat; aunt to me, sister to my mother and my aunts, daughter of Gran. Averil had been a Jenkins, a Frame and a Luxford over the course of her life. The building was filled with people who had known all three.
 

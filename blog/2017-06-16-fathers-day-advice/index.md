@@ -7,6 +7,8 @@ slug: fathers-day-advice
 ---
 When I was 16 years old, my father gave me a piece of advice that dramatically changed me. His advice changed my interactions with the world. I rather doubt he thought it would have such impact, but change me it did.
 
+{/*truncate*/}
+
 Having finished my mandatory schooling, I had recently started attending sixth form college. I was taking A-levels in Maths, Computer Science and Economics. I found I took to the former 2 subjects like a duck to water. They weren't a struggle, they were interesting and I had a natural aptitude. For want of a better phrase, I could "do it".
 
 However, Economics was a different kettle of fish. It did not fit in my head. I could not grok it. I sat there, in lesson after lesson, listening hard to Terri Wilcox explaining Keynes, Monetarism, supply and demand. Occasionally she deviated and talked about her beloved Blackburn Rovers. It did not go in. Not the Economics and certainly not the football. At the end of each sentence uttered I found myself more bewildered than the last.

@@ -12,6 +12,8 @@ If you read [my last post](../2025-12-28-reflections-on-a-difficult-year/index.m
 
 I'll cut to the chase; I've had a cancer diagnosis.  Which is pretty tough.  I'm writing this to share the story of where I am, where I'm going, and maybe to encourage others.  Not that I think I'm a poster boy for encouragement right now.  But perhaps I'll get people thinking about doing medical tests sooner rather than later.  That alone would be worthwhile. 
 
+{/*truncate*/}
+
 ## Something is not right
 
 At the start of March 2026, I felt like I was in the best shape of my life. The back issues were mostly abated.  I still had some symptoms, but they weren't bad.  The truth is, that suffering back issues had lit a fire underneath me in terms of exercise, my diet was intentionally more healthy than it had ever been.  I felt good.  Really good.

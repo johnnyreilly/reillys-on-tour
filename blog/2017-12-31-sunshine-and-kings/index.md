@@ -8,17 +8,19 @@ image: ./Dawn-in-Palma-Old-Town.jpg
 ---
 The difference between Spanish winter and British is not really temperature. A mild British winter day isn't significantly colder than Spain. The difference is light. Winter or summer, there is a lot more light to go around in Mallorca than in London. Lisette, Benjamin, James and I are staying in Palma visiting family. The day we arrived was not auspicious; it was overcast and stormy. The next day however, well... As I looked around I realised I was squinting. The light was too strong. I haven't squinted in London since October.
 
+{/*truncate*/}
+
 So it's a shame I distrust sunglasses. For some reason I always have. If the eyes are the windows of the soul then it follows that I regard sunglasses as harbingers of suspicion. If you won't let me look into your eyes then part of my brain is convinced you must be up to no good. Probably only a hop, skip and a jump away from pretensiousness too; that most tragic of attributes.
 
 Quite apart from the not-so-nice-judge-y aspect, this is a lamentable attitude for another reason. The thing is, I look quite fabulous in sunglasses. Really I do; Ray-Bans were born to be on my face. Aviators; sitting atop my nose have reached their pinnacle in existence; they can do no better. I base this on memories of me wearing sunglasses when I would have last countenanced it; when I was 20. It might not hold true now I'm 40. But then, ha! Move over Beverly Hill 90210's Luke Perry, there's a challenger for the throne.
 
 I'm both a man of integrity and a man with silly ideas. That's why I'm stuck doing my best Mr Magoo. But if there was ever a locale where compromise for eye's sake would seem reasonable, it's Spain. Each morning I've watched the sun rise over Mallorca; soaring into the sky above Palma old town. Watching the glowing red orb climb until the light is too much. It's beautiful.
 
-![](Dawn-in-Palma-Old-Town.jpg)
+![Dawn breaking over Palma old town](Dawn-in-Palma-Old-Town.jpg)
 
 Benjamin and James are enamoured of their Christmas presents: toy bendy buses. Plastic and metal approximations of the the sort that used to rumble through London's streets, occasionally catching fire. Ah, those bus shaped phoenixes, how we miss them. Galaxy S8's are but a lowly tribute act. In one of those peculiar ironies it turns out that all buses in Palma are bendy buses. Consequently the bus drivers of Mallorca are presently being greeted by 2 small blonde haired boys, who enter their vehicles waving petite bendy buses at them as they proceed past in search of window seats.
 
-![](James-on-a-bendy-bus-with-a-bendy-bus.jpg)
+![James riding a bendy bus with his toy bendy bus](James-on-a-bendy-bus-with-a-bendy-bus.jpg)
 
 Travel generally (not just bus journeys) is much easier now than it ever was. It's all down to the internet. o2 have dropped roaming charges in Europe; you can use data in Mallorca just like you're in Margate. (I've never been to Margate but I have to believe it would make me want to use the web.)
 
@@ -40,6 +42,6 @@ Christmas in Palma is different. They celebrate more on Christmas Eve than Chris
 
 Christmas here has Mallorcan ways, food and traditions. It's not London but that's not a bad thing. Palma has a glory of it's own. And no Victorian waifs either... So props!
 
-![](Family-in-El-Molinar.jpg)
+![Family together in El Molinar, Mallorca](Family-in-El-Molinar.jpg)
 
 

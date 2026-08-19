@@ -8,6 +8,8 @@ image: ./dinner-as-a-family-on-lisettes-birthday.jpg
 ---
 My dear Lisette,
 
+{/*truncate*/}
+
 You are an amazing mother to the boys. You might doubt that yourself on occasion, but you most certainly are. Let's take a moment and think about how this is true.
 
 ## Providing

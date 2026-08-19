@@ -169,7 +169,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          postsPerPage: 20,
+          postsPerPage: 5,
           path: './blog',
           routeBasePath: '/',
           // Please change this to your repo.

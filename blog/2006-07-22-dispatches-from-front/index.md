@@ -4,11 +4,13 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: dispatches-from-front
-image: ./hon1ant2.jpg
+image: ./couple-in-antigua.jpg
 ---
 One love people.
 
 The weather here in Antigua has yet to dip beneath 30 degrees. As a result I am pretty much a limp rag doll for much of the time but Lisette is absolutely loving it!
+
+{/*truncate*/}
 
 We've been watching pelicans fish each morning and flying fish jump from the water (prior to getting eaten) as well! You'd think they'd learn but alas they don't.
 
@@ -24,6 +26,6 @@ One heart,
 
 John and Lisette
 
-![](hon1ant2.jpg)
+![John and Lisette together in Antigua](couple-in-antigua.jpg)
 
 

@@ -1,16 +1,18 @@
 ---
 title: "An Overreaction to Bermuda Shorts"
 authors: johnnyreilly
-tags: [Nantes, Pornic, Priou]
+tags: []
 hide_table_of_contents: false
 slug: an-overreaction-to-bermuda-shorts
 image: ./BermudaShortsDanger.jpg
 ---
 It is a truism that there are holidays it is a pleasure to go on and holidays that make you appreciate home. We have just returned from France where we chose to stay on a French-only campsite, miles from the nearest town, where there was no public transport and (crucially) without any transport of our own. For the first half of the holiday we seemed likely to be falling into the second holiday category. We piled misjudgement upon unbelievably bad weather upon sickness upon unavailable taxis until we made manifest a teetering blancmange of calamity.
 
+{/*truncate*/}
+
 The whole journey was planned in order that Benjamin and James might meet their Great Uncle Yves and their Great Aunt Nicole. I'm happy to report this was achieved. There was a gathering of 3 generations of Priou, all in the same room at the same time and enjoying one another's company.
 
-![](BermudaShortsDanger.jpg)
+![Campsite sign forbidding Bermuda shorts as a danger to children](BermudaShortsDanger.jpg)
 
 The rumours that the French had outlawed Bermuda Shorts seemed unlikely to have any basis in fact. I mean, it's a joke, right? Outlawing tasteless yet comfortable summer legwear. No. They really \*really\* mean it. They revile Bermuda Shorts. For why, for why? It's surely an irrational hatred, no?
 
@@ -36,6 +38,6 @@ Consequently, lunchtimes have been a deceptive affair. Commonly the boys "share"
 
 Our own judgement on this holiday has frequently been off. I have been pretty horribly ill. The rain has been biblical. However, for the last 2 days the sun actually shone. We ate about 7 pints of moules frite. It felt like a holiday at last! Even if that welcome sunshine hadn't come calling we would have been worth it for this:
 
-![](Priou-Family.jpg)
+![Three generations of the Priou family gathered together](Priou-Family.jpg)
 
 

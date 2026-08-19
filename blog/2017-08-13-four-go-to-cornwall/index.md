@@ -1,22 +1,24 @@
 ---
 title: "Four go to Cornwall"
 authors: johnnyreilly
-tags: [portscatho, hidden hut, cornwall]
+tags: [parenthood]
 hide_table_of_contents: false
 slug: four-go-to-cornwall
 image: ./at_the_beach.jpg
 ---
 Lisette and I have proven ourselves incapable in the "booking holidays" category of competence. After months of attempting to find something we realised we'd fallen at the first hurdle by failing to do the requisite planning-one-year-in-advance. This is alas mandatory now Benjamin is in school and restricting our holiday times to select high priced periods. Why did he have to grow up?
 
+{/*truncate*/}
+
 So it was, that around 3 weeks prior to us having to explain the meaning of the word "staycation" to Benjamin and James, we received an offer. A couple we knew from church, Peter and Sarah, were going to be in Portscatho, a village in Cornwall and would we like to stay with them? Would we? Popes / Catholics / bears / woods - you get my drift.
 
 We set our sights for the Southwest. And so, the four of us came to find ourselves winding our way down a single-lane road with the rain lashing the windscreen of our rented car. Always say yes to a memory.
 
-![](boys_with_trains.jpg)
+![Benjamin and James playing with toy trains](boys_with_trains.jpg)
 
 In a gesture towards being actual grown up adults we had opted to break up the long journey into manageable chunks. We did this by Air B&B-ing our way to Cornwall. On the first night we stayed with a retired hot air ballonist in Somerset, who was convinced 9/11 was in reality a conspiracy courtesy of the Illuminati. We followed that with a night at the most lovely of farmhouses just inside in the border of Cornwall. It had what few other B&Bs have: a functioning steam railway. James was beside himself with joy; muttering "train.... Me... Me! Train! Me! Train. Train!"
 
-![](James_delighted.jpg)
+![James delighted by the farmhouse steam railway](James_delighted.jpg)
 
 We had something of a baptism of fire concerning the single lane roads for which Cornwall is famed. I must be ruthlessly honest: unlike Rain Man I am not an excellent driver. So much so that each journey tends to begin like this:
 
@@ -32,11 +34,11 @@ So finding myself front bumper to front bumper with a Land Rover, on a road with
 
 Portscatho is a beautiful village on the the East coast of the Roseland Peninsula. It slants down a hill which means at almost any position you can look out to sea. And being East facing, the sun rises above the bay each morning, looking for all the world like a megawatt-bulb Zeppelin. The village contains a pub, a butcher, a couple of shops and the harbour club which doubles as the local cinema on Monday nights. The small harbour is populated with motorboats sat just inside a stone quay which juts out into the sea. Children can occasionally be found hurling themselves off the end of the quay, enacting a worrying local tradition. Apparently it's safe as long as there's no more than 4 flagstones depth to jump. More than that and legs might be broken. Ah tradition!
 
-![](the-coast.jpg)
+![View along the Cornish coast at Portscatho](the-coast.jpg)
 
 The water is crystal clear and you're likely to find people crabbing. 🦀 Crabbing involves using some bait, typically bacon, to tempt in shrimp and crabs to nets. On the first night Sarah took us on a tour and we met some boys doing just that. No friends of caution, they'd opted for a full rasher of bacon in their net. They no doubt figured that if you scaled up the bait, you scaled up the prize. They were hoping to land Godzilla. Alas life doesn't work like that and they had thus far acquired a single (rather puny) shrimp. But we admired their intentions.
 
-![](ben-and-me.jpg)
+![Ben and Daddy watching crabbing at the harbour](ben-and-me.jpg)
 
 The third personality we were living with was Peter and Sarah's dog: Jess. Jess is a giant black walking carpet of friendliness. An enthusiastic and affectionate labradoodle with breath that, post-breakfast, could stun an ox. She's awesome and, with a little coaxing, enabled the boys to get past their fear of dogs.
 
@@ -44,16 +46,16 @@ One evening Peter and Sarah were out for dinner. I volunteered to take Jess for 
 
 Move the car, move the dog poo, move the car, move the dog poo. Almost meditative. I might have it engraved on a plaque. Once I'd summoned energy for the day, I did, and I did. Anyone who was near the harbour at 6am that morning, may have witnessed a man furtively foraging in a driveway; attempting to retrieve something whilst desperately trying not to wake the occupants of the house. Such witnesses would have quickly realised that the driveway being made of super-audible gravel really worked against his noble aims.
 
-![](James_tongue.jpg)
+![James pulling a silly face and sticking out his tongue](James_tongue.jpg)
 
 Walking distance from Portscatho is Porthcurnick Beach. It's a glorious stretch of sand to which we dragged 2 bags, buckets and spades, and a buggy. We arranged ourselves on Lisette's picnic rug, pretty much immediately resigning ourselves to it being persistently covered in sand. Different people have varying expectations of a beach trip. Just along from our modest pitch a family had erected a tent. The entrance of the tent was expanded out on each side by windbreakers taking the form of walls leading out from the tent to the sea. At the end of the windbreakers a tennis court had been etched into the sand where 2 of the party were gently thwacking a ball to each other. Applying for planning permission was undoubtedly their next logical step.
 
-![](ben-digging.jpg)
+![Ben digging in the sand at Porthcurnick Beach](ben-digging.jpg)
 
 The beach is well known for a beach side café called "The Hidden Hut". There's been articles in magazines and papers about it. And once someone off of the telly ate there. Or something. Either way, it's popular. Having eaten there a couple of times, we can say it deserves its reputation. The prices are very "London" though. Also, when rain kicks in (as alas it was wont to do on a regular basis) you can really find yourself wishing for a roof to shelter under.
 
 In that wonderful way that children have, Benjamin and James almost instantly made friends with an assortment of other like-minded spade wavers down by the seafront. Negotiating amongst each other what should be constructed next and how. Much digging was done and many moats and castles were made. If I close my eyes I can still see Benjamin standing facing the shore, laughing as the waves hit his back. Magical.
 
-![](at_the_beach.jpg)
+![Benjamin laughing as waves hit his back at the beach](at_the_beach.jpg)
 
 

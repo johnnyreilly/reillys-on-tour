@@ -4,11 +4,13 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: avoid-bologna-tuscany-is-better
-image: ./Image110.jpg
+image: ./ill-remember-you-graffiti.jpg
 ---
 Dear all,
 
 Lisette and I have finally made it to Bologna - and have officially left Tuscany behind. Now that we've got here I'm increasingly of the opinion that we never should have left. Bologna seems somewhat industrial, hostile and - dare I say it - mugging territory. (For the more nervous of you I haven't actually seen direct evidence of this - it's just a feeling)
+
+{/*truncate*/}
 
 We pulled into town latish last night having caught the Eurostar from Firenze/Florence to make our journey. That in itself was a bit of a surprise - I was only aware of the Eurostar chugging along between Waterloo and Paris. Quite unexpected. Having arrived and hauled our stuff to the hotel we went for an evening saunter during which I made the following observations:
 
@@ -25,9 +27,9 @@ Anyway - Tuscany on the whole is not without grafitti. However there is a relati
 
 "Where is the happyness?" - written on the roof of a house in GIANT letters. We spied it from the top of a tower (we've climbed quite a few towers this holiday...) "I don't want to be alone - do you?" "I'll remember you" - written on a wall in Lucce.
 
-![](DSCF2076.JPG)
+![Graffiti message written on a Tuscan rooftop](tuscan-rooftops-graffiti.jpg)
 
-![](Image110.jpg)
+!['I'll remember you' graffiti on a wall in Lucca](ill-remember-you-graffiti.jpg)
 
 Stirring sentiments don't you think? You could almost join together the different entries to form a story. Sad man is very lonely. Declaims "Where is the happiness?" to the empty world, emphasising further his solitary existence. Sad man meets someone passing through town and they get talking. After they've got to know each other a little, perhaps had a drink to reduce the inhibitions, the sad man opens up and says "I don't want to be alone - do you?". A friendship (maybe a romance?) begins between the two - the sad man is not sad anymore. Finally the other (whoever it may be) has to move on for whatever reason. The man (no longer sad) says to the other before they leave: "I'll remember you". A beautiful story... don't you think? I reckon there's a film in there somewhere...
 
@@ -39,6 +41,6 @@ See you all soon!
 
 John
 
-![](DSCF2367.JPG)
+![Lisette with balsamic vinegar in Modena](lisette-balsamic-vinegar-modena.jpg)
 
 

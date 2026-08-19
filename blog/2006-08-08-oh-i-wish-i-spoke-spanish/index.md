@@ -4,9 +4,11 @@ authors: johnnyreilly
 tags: []
 hide_table_of_contents: false
 slug: oh-i-wish-i-spoke-spanish
-image: ./hon3bocosus2.jpg
+image: ./bocas-del-toro-beach.jpg
 ---
 Because then I wouldn't feel so bad....
+
+{/*truncate*/}
 
 3 weeks in and we're feeling the pain of not being able to communicate. Last night we went to a Chinese restaurant for dinner (in Bocas del Toro - where we've been for 3 days now). I don't think anyone in the establishment actually was Chinese but that's still what it called itself.
 
@@ -35,6 +37,6 @@ Take care people!
 
 John and Lisette
 
-![](hon3bocosus2.jpg)
+![Beach at Bocas del Toro, Panama](bocas-del-toro-beach.jpg)
 
 

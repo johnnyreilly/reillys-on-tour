@@ -8,6 +8,8 @@ image: ./bakewell-puddings-and-tarts.jpeg
 ---
 It was the start of the summer holidays. The Reilly family had headed North to the Peak District to go youth hostelling, prior to heading East to Newark for the Focus festival.
 
+{/*truncate*/}
+
 A good time had been had by all. We'd been staying in the picturesque and slightly remote village of Hartington. The weather had been typical of British summertime. Which is to say, a combination of not raining whilst looking like it might, actually raining and on occasion, being suspiciously pleasant. One must roll with whatever nature throws at you in this country.
 
 The UK loves a railway. We have many. But we used to have more. Back in the 1960s a man named Dr Beeching wrote an infamous report on the profitability of our forest of railway lines. And as a consequence there was deforestation; many of those railways became ex-railways.

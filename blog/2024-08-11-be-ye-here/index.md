@@ -2,11 +2,13 @@
 title: "Be ye here"
 authors: johnnyreilly
 tags: []
-image: ./PXL_20240810_103313096.jpg
+image: ./group-photo-lough-erne.jpg
 hide_table_of_contents: false
 slug: be-ye-here
 ---
 Working out where to go on holiday has always seemed like slightly hard work. How do you choose? Do we go to Italy? We've been before. Do we go to France? They'll only want us to wear Speedos at the swimming pool. So where shall we go?
+
+{/*truncate*/}
 
 We were delighted when we discovered a friend in Belfast, who had recently had a baby, would be up for a visit. A mutual friend of ours, was also planning a trip back to Ireland from where he lives. We've known each other for 25 years now, and have travelled before as a group. Why not get the band back together and spend some time in Ireland this summer? That was the thought, and so the Reilly family made plans.
 
@@ -22,7 +24,7 @@ But somehow, in the time from leaving the M25 behind us, boarding the ferry in L
 
 The plan was a holiday of two halves. After popping in to meet our friend Una and the baby in Belfast, we'd head North to base ourselves in Portrush and tour around the top of Ireland for three days. Then we'd head down to Enniskillen and stay in a big house on Lough Erne with Una, Kelvin, the baby plus our other friend Conor and his boys.
 
-![All of us posing for a photo](PXL_20240810_103313096.jpg)
+![All of us posing for a photo](group-photo-lough-erne.jpg)
 
 We found ourselves roaming around and visiting sites like the Giant's Causeway (or as we came to think of them: the tremendous volcanic hexagons). We stopped the car at the side of the road when we saw people pointing out at the water, and got to see a pod of dolphins playing in the water. We headed to the Carrick-a-Rede rope bridge that allows you to sway over to a island covered in birds, which looks out towards the Scottish island of the Mull of Kintyre. I hadn't realised just how close to Scotland, Ireland is.
 
@@ -61,6 +63,6 @@ Ben ran up and down at the bus stop wailing "we're totally screwed..…" This di
 
 This was fine. We were going to make it back to Ireland, unlike all those abandoned cars. That was all I needed to know.
 
-![Me and the family smiling in a selfie](PXL_20240806_100026594.jpg)
+![Me and the family smiling in a selfie](family-selfie-antrim-coast.jpg)
 
 
