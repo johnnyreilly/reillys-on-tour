@@ -8,7 +8,7 @@ hide_table_of_contents: false
 slug: take-my-breath-away
 ---
 
-It was at 5:30am on Wednesday August 12th, that Lisette and I found ourselves Ubering from our home in Twickenham, to the Royal Brompton Hospital in Chelsea.  I'd had good news on my recent scans.  The tumour in my colon had shrunk, and the one in my lung wasn't showing up. This made the doctors feel it was safe to "finish the job".
+It was at 5:30am on Wednesday August 12th, that Lisette and I found ourselves Ubering from our home in Twickenham, to the Royal Brompton Hospital in Chelsea.  I'd had [good news](../2026-08-01-hope/index.md) on my recent scans.  The tumour in my colon had shrunk, and the one in my lung wasn't showing up. This made the doctors feel it was safe to "finish the job".
 
 {/*truncate*/}
 
@@ -26,7 +26,7 @@ Not for the first time in my recovery journey, I found myself deciding to defer 
 
 So, that's how Lisette and I found ourselves heading into hospital that morning. I was mulling what I should call this post.  *"The one where they cut out some of my breathing bits"* didn't appeal. Then I was reminded of the classic song from Top Gun; Berlin's *["Take my breath away"](https://www.youtube.com/watch?v=Bx51eegLTY8)*.  It seemed to sum up my situation up gloriously. I'm not using AI to write these words.  But the image below, well I can only take credit for the idea.
 
-![Take off of the Top Gun poster but rebranded as Top Lung with me replacing Tom Cruise and Lisette replacing Kelly McGillis](./top-lung.jpg)
+![Take off of the Top Gun poster but rebranded as Top Lung with me replacing Tom Cruise and Lisette replacing Kelly McGillis](./top-lung.webp)
 
 ## Buylingual
 
@@ -34,13 +34,13 @@ I was to be admitted to the Sir Reginald Wilson ward of the Royal Brompton; a ho
 
 Before last year, I'd had no experience of private healthcare at all; having been happily cared for by the NHS since my birth.  For those reading this who don't know what the "NHS" is; it's the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) and it is the organisation that serves the health of UK citizens most admirably, and has done for many years. It is much loved.  Saying something bad about the NHS is considered akin to blasphemy in the UK. Probably worse.
 
-In the UK at least, private healthcare and the NHS can be compared to the class of ticket you have for a flight. Whether it's private healthcare or the NHS, the treatment is likely to be identical. The people that treat you may be the same, the medication / procedures you experience are likely to also be the same. Just as on a plane, regardless of whether you're travelling in first class or economy, you're still flying to Palma De Mallorca.  (Or wherever, I mention that as an airport that I have flown to many times to visit family.) 
+In the UK at least, private healthcare and the NHS can be compared to the class of ticket you have for a flight. Whether it's private healthcare or the NHS, the treatment is likely to be identical. The people that treat you may be the same, the medication / procedures you experience are likely to also be the same. Just as on a plane, regardless of whether you're travelling in first class or economy, you're still flying to Palma de Mallorca.  (Or wherever, I mention that as an airport that I have flown to many times to visit family.) 
 
 However, there are two differences between private healthcare and the NHS that are worth drawing attention to.
 
 ### 1. Speedy boarding
 
-You might get to board earlier, or get treated earlier, with a first class ticket / private healthcare. Whilst that's arguably a nicety for the purposes of travel, it's really significant for cancer diagnosis. As the faster you get treated, the less the treatment is likely to suck.  (Note to all: cancer treatment is reliably an unjoyful experience at any level. I encourage you to reduce the risk of sadness to a minimum by all means. If you have the opportunity for a scan; have it.) 
+You might get to board earlier, or get treated earlier, with a first class ticket / private healthcare. Whilst that's arguably a nicety for the purposes of travel, it's really significant for cancer diagnoses. As the faster you get treated, the less the treatment is likely to suck.  (Note to all: cancer treatment is reliably an unjoyful experience at any level. I encourage you to reduce the risk of sadness to a minimum by all means. If you have the opportunity for a scan; have it.) 
 
 ### 2. Leg-room and refreshments
 
@@ -48,21 +48,21 @@ If you're a 190 centimetre / 6 foot 3 inches tall man, and I am, you'll be aware
 
 "I hope he's going somewhere with this", I can hear you muttering.   I am, I promise. 
 
-I'd like you to ask yourself this question: have you ever been to Wales?
+Consider this question: have you ever been to Wales?
 
-When you go to Wales, you'll quickly notice that roadsigns are typically marked in both English and in Welsh. Because there are people driving that speak English, and people driving that speak Welsh. A sight like this is common:
+When you go to Wales, you'll quickly notice that road signs are typically marked in both English and in Welsh. Because there are people driving that speak English, and people driving that speak Welsh. A sight like this is common:
 
 ![Photo of Welcome to Wales in English and Welsh](./welcome-to-wales.avif) 
 
 A similar approach was in place throughout the Sir Reginald Wilson ward.  All signs were displayed in English and ... Arabic. I know, I didn't see that coming either!
 
-![Photo of room 28 with English and Arabic signs](./room-28.jpg)
+![Photo of room 28 with English and Arabic signs](./room-28.webp)
 
 What were we to conclude from this?  At first we found ourselves wondering "why don't the Welsh like private healthcare?"  Thinking further, we pondered "perhaps Arabic speakers are more likely to purchase private healthcare and are also prone to health issues which affect their hearts and / or lungs?"  
 
 The answer turned out to be a little less from column A, and a little more from column B.
 
-My room overlooked a small forest of trees and [St Luke's Church](https://en.wikipedia.org/wiki/St_Luke%27s_Church,_Chelsea); where Charles Dickens married Catherine Hogarth back in 1836. One day, as we sat there, I put the question to one of the nurses who was in my room taking my blood pressure: 
+My room overlooked a small forest of trees and St Luke's Church. Apropos of nothing, St Luke's is where Charles Dickens married Catherine Hogarth back in 1836. One day, as we sat there, I put the question to one of the nurses who was in my room taking my blood pressure: 
 
 - "How come the signs are written in both English and Arabic?"
 - "You noticed! A significant proportion of our patients fly here from the Middle East on private planes."
@@ -71,7 +71,7 @@ This was not the answer I'd expected. But it stacked up.  To pass the time in th
 
 I encountered people that I'd guess were from the UK. Based on accents overheard, I encountered one man who was probably from the US. Alongside that I encountered many more examples of folk that could well be from the Middle East.  The TVs were playing Dubai TV / Kuwait TV and Rik TV.  Large boxes of dates could frequently be sighted, which made me quite peckish.  Dates are fabulous. The clothes worn were not London typical. I'm making assumptions here I know; I could be wrong. 
 
-![TV channels in the hospital room](./tv-channels.jpg)
+![TV channels in the hospital room](./tv-channels.webp)
 
 The visitor demographics lined up with what the nurse had said as well.  Whilst the English speakers would tend to have one visitor, or maybe two, at a time, the Arabic speakers tended to have around six.  If you're going to travel by private plane, why not bring everyone? At least in one case, it seemed that the trip to London might well have been medical treatment for one family member, but had been co-opted as a shopping trip by another.
 
