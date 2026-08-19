@@ -6,8 +6,7 @@ import docusaurusCloudinaryRehypePlugin from 'rehype-cloudinary-docusaurus';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const url = 'https://johnnyreilly.github.io/reillys-on-tour/';
 const cloudinaryBaseUrl = 'https://johnnyreilly.github.io';
-const title = 'johnnyreilly';
-// const tagline = "Hi! I'm John Reilly - welcome! ❤️🌻";
+const title = 'Reillys on Tour';
 const description =
   "This is John Reilly's travel(ish) blog.";
 const sameAs = [
@@ -39,15 +38,6 @@ const siteStructuredData = {
       publisher: {
         '@id': 'https://johnnyreilly.com/about',
       },
-
-      // potentialAction: {
-      //   '@type': 'SearchAction',
-      //   target: {
-      //     '@type': 'EntryPoint',
-      //     urlTemplate: 'https://johnnyreilly.com/search?q={search_term_string}',
-      //   },
-      //   'query-input': 'required name=search_term_string',
-      // },
       inLanguage: 'en-UK',
     },
 
@@ -106,7 +96,7 @@ const siteStructuredData = {
 const isProductionBuild = process.env.NODE_ENV === 'production';
 
 const config: Config = {
-  title: 'Reillys on Tour',
+  title,
   tagline: 'The adventures of the Reilly family',
   favicon: 'img/favicon.ico',
 
@@ -175,7 +165,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/johnnyreilly/reillys-on-tour/tree/main/edit/',
+            'https://github.com/johnnyreilly/reillys-on-tour/edit/main/',
+            // eg https://github.com/johnnyreilly/reillys-on-tour/edit/main/blog/2008-01-14-i-stand-here-in-all-that-i-own/index.md
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -194,6 +185,13 @@ const config: Config = {
       attributes: {
         rel: 'preconnect',
         href: 'https://res.cloudinary.com',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: title,
       },
     },
     // Structured data in the form of JSON-LD - inspired by https://moz.com/blog/writing-structured-data-guide
