@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnnyreilly.github.io/reillys-on-tour/sitemap.xml
