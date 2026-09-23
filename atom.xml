@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://johnnyreilly.github.io/reillys-on-tour/</id>
+    <id>https://johnnyreilly.github.io/reillys-on-tour</id>
     <title>Reillys on Tour Blog</title>
     <updated>2026-08-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://johnnyreilly.github.io/reillys-on-tour/"/>
+    <link rel="alternate" href="https://johnnyreilly.github.io/reillys-on-tour"/>
     <subtitle>Reillys on Tour Blog</subtitle>
     <icon>https://johnnyreilly.github.io/reillys-on-tour/img/favicon.ico</icon>
     <entry>
