@@ -64,7 +64,7 @@ There was tragedy in Hancock's life. But something very good came out of his lif
 
 There's a story in the Bible of a man named Joseph. His tale was made famous by Andrew Lloyd Webber's musical "Joseph and the Amazing Technicolour Dreamcoat". That guy. Towards the end of his life he says to his brothers (who were rotters by the way):
 
-> You intended to harm me, but God intended it for good (Genesis 50:20)
+> [~~Any dream will do.~~](https://youtu.be/VfNMhu9wdl0?si=vuA_4uM8qS3em_E1) You intended to harm me, but God intended it for good (Genesis 50:20)
 
 I feel somewhat that way about my current circumstances. As though the cancer wants to harm me. I do not believe God intended me to suffer. I'll admit that on my worst days, and the mind can go to terrible places when you're down, I have wondered. But in the end, I don't buy that. I don't believe God has it in for me. This is an imperfect world, and cancer is a thing that happens. That sucks, but it is so. Rather, I am convinced that God would want to turn this grotty situation to the good.
 
