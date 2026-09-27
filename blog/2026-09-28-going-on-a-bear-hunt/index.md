@@ -74,9 +74,9 @@ I recently discovered that a friend was due to start chemotherapy. It turned out
 
 I don't know where things end for them, or for me, but there's reasons for optimism. And there's reasons not to be too anxious whilst we travel the road to find out. I'm very much hoping that this is something we go through, and come out the other side. I cannot guarantee that, I know. But that's my North Star. 
 
-So, chemotherapy time once more. It's time to get back on that horse. Here we go again. I will not enjoy this, but I will do this. And the kindness of those around me will help make it easier. 
+So, chemotherapy once more. It's time to get back on that horse. Here we go again. I will not enjoy this, but I will do this. And the kindness of those around me will help make it easier. 
 
-I was wrong when I said "I'm going on a bear hunt". I am not alone. We're going on a bear hunt. We, not I. We. We're going on a bear hunt.
+I was wrong when I said "I'm going on a bear hunt". I am not alone. We, not I. We. We're going on a bear hunt.
 
 ---
 
