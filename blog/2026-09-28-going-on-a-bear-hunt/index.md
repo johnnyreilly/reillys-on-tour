@@ -3,7 +3,7 @@ title: "Going on a Bear Hunt"
 authors: johnnyreilly
 tags: [recovery-diaries]
 image: ./title-image.jpg
-description: "I'm done with lung surgery, but I am not done.  It is time to start chemotherapy again. This is part of my recovery diaries."
+description: "The lung surgery has gone well! What's next? Well, I'm not baked yet - it's time to do something I've done before. It won't be fun. This is part of my recovery diaries."
 hide_table_of_contents: false
 slug: going-on-a-bear-hunt
 ---
