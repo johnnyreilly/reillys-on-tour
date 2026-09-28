@@ -66,7 +66,7 @@ There's a story in the Bible of a man named Joseph. His tale was made famous by 
 
 > [~~Any dream will do.~~](https://youtu.be/VfNMhu9wdl0?si=vuA_4uM8qS3em_E1) You intended to harm me, but God intended it for good (Genesis 50:20)
 
-I feel somewhat that way about my current circumstances. As though the cancer wants to harm me. I do not believe God intended me to suffer. I'll admit that on my worst days, and the mind can go to terrible places when you're down, I have wondered. But in the end, I don't buy that. I don't believe God has it in for me. This is an imperfect world, and cancer is a thing that happens. That sucks, but it is so. Rather, I am convinced that God would want to turn this grotty situation to the good.
+I feel somewhat that way about my current circumstances. As though the cancer wants to harm me. I do not believe God intended me to suffer. I'll admit that on my worst days, and the mind can go to terrible places when you're down, I have wondered. But in the end, I don't buy that. I don't believe God has it in for me. I believe God loves me deeply and wants the best for me, as I do for my children. This is an imperfect world, and cancer is a thing that happens. That sucks, but it is so. I am convinced that God would want to turn this grotty situation to the good.
 
 Given this set of circumstances is my lot right now, I want to be useful. I think I can be.
 
