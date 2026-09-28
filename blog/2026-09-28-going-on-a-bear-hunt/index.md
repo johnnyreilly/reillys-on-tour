@@ -66,7 +66,7 @@ There's a story in the Bible of a man named Joseph. His tale was made famous by 
 
 > [~~Any dream will do.~~](https://youtu.be/VfNMhu9wdl0?si=vuA_4uM8qS3em_E1) You intended to harm me, but God intended it for good (Genesis 50:20)
 
-I feel somewhat that way about my current circumstances. As though the cancer wants to harm me. I do not believe God intended me to suffer. I'll admit that on my worst days, and the mind can go to terrible places when you're down, I have wondered. But in the end, I don't buy that. I don't believe God has it in for me. I believe God loves me deeply and wants the best for me, as I do for my children. This is an imperfect world, and cancer is a thing that happens. That sucks, but it is so. I am convinced that God would want to turn this grotty situation to the good.
+I feel somewhat that way about my current circumstances. As though the cancer wants to harm me. I do not believe God intended me to suffer. I'll admit that on my worst days, and the mind can go to terrible places when you're down, I have wondered. But in the end, I don't buy that. I don't believe God has it in for me. I believe God loves me deeply and wants the best for me, as I do for my children. This is an imperfect world, and cancer is a thing that happens to people. That sucks, but it is so. I am convinced that God would want to turn this grotty situation to the good.
 
 Given this set of circumstances is my lot right now, I want to be useful. I think I can be.
 
@@ -76,7 +76,9 @@ I don't know where things end for them, or for me, but there's reasons for optim
 
 So, chemotherapy once more. It's time to get back on that horse. I will not enjoy this, but I will do this. And the kindness of those around me will help make it easier. 
 
-I was wrong when I said "I'm going on a bear hunt". I am not alone. We, not I. We. We're going on a bear hunt.
+I was wrong when I said "I'm going on a bear hunt". I am not alone. We, not I. We. 
+
+We're going on a bear hunt.
 
 ---
 
