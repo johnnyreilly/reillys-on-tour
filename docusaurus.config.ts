@@ -235,7 +235,13 @@ const config: Config = {
         //   position: 'left',
         //   label: 'Tutorial',
         // },
-        {to: '/blog', label: 'Archive', position: 'left'},
+        {
+          to: '/blog',
+          label: 'All my words...',
+          position: 'left',
+          // Shown on mobile too - see src/css/custom.css
+          className: 'navbar__item--always-visible',
+        },
         {
           href: 'https://github.com/johnnyreilly/reillys-on-tour',
           label: 'GitHub',
