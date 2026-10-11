@@ -34,3 +34,10 @@ iframe[src*="youtube.com/embed"] {
   height: auto;
   aspect-ratio: 16 / 9;
 }
+
+/* Infima hides navbar items below 997px; keep the Archive link visible on mobile */
+@media (max-width: 996px) {
+  .navbar__item.navbar__item--always-visible {
+    display: inline-block;
+  }
+}
