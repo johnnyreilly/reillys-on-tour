@@ -14,6 +14,8 @@ There's a classic film called "A Matter of Life and Death". It was made before I
 
 By the way, Peter and June fell in love in that short radio chat. It's beautiful. I love it. 
 
+![An image from a poster for A Matter of Life and Death showing Peter and June looking noble with the title of the post written beneath](./title-image.jpg)
+
 {/*truncate*/}
 
 I resonate with Peter's situation, before he calls it and jumps. I am a pilot in a plane heading for home, taking fire from enemies in the sky and below. Still flying. Still airborne. But looking at the wings and the fuselage with concern. Tapping the instruments and hoping they keep responding long enough to get me on the ground.
@@ -32,7 +34,7 @@ For some reason I find it hard to translate that head knowledge into something I
 
 When my eldest boy Benjamin went to nursery, they taught him basic signing. So he could express with hand movements thoughts and feelings. The one that comes to mind now is the "I sad" sign that he would make when he wasn't so jolly.  He'd put his hand next to his mouth and bow his head. "I sad". That's me right now. I sad.
 
-I'm also angry. I don't want to be in this situation and I'm furious that I am. The ritual trauma of treatment is getting on my wick. I find myself lashing out. I've said unkind things to my wife and to my children. Things they didn't deserve and I'm not proud of.
+I'm also angry. I don't want to be in this situation and I'm furious that I am. The ritual trauma of treatment is getting on my wick. I find myself lashing out. At times I've said unkind things to my wife and to my children. Things they didn't deserve and I'm not proud of.
 
 As I walk around, I see people smoking. My instinctive reaction every time is to internally shout "stop smoking you pillock - smoking gives you cancer and I've got cancer and I hate it".
 
@@ -65,7 +67,9 @@ I will tell you this: I'm not going to let myself stay like this forever. I have
 A friend gifted me a similar sentiment: "the only way out is through". I looked it up, it seems it comes from a poem by the American First World War poet Robert Frost. In "A Servant to Servants" he says:
 
 > He says the best way out is always through.
+>
 > And I agree to that, or in so far
+>
 > As that I can see no way out but through 
 
 That feels like my situation. I can't do anything other than keep going. As grumpy as I am, I think I actually have some good habits in place for this difficult time. Habits which are keeping my head in as good a place as I can probably manage.
@@ -74,7 +78,7 @@ I'm working. I never gave up working. I should say that I'm not being forced to 
 
 Outside of work, I've kept on keeping on working on open source software, as I have for many years. I'm not the most productive cat out there, but I'm still shipping. It's fun, it distracts me, and, again, it makes me feel useful. Purpose!
 
-I mentioned in an earlier post that, courtesy of friend and vicar Thomas at my church, I have a personal Communion about every other week, give or take. I can't be in church when everyone else is there. Too much breathing and potential for germ sharing. (My gym membership is suspended for similar reasons, with added sweat.) A chat with Thomas and taking bread and wine brings me some level of peace. Due to my diagnosis I've followed the medical advice of avoiding alcohol. There's been no beer or wine since March. Jesus's blood is the one exception I have allowed myself to this rule. Interestingly I haven't yet managed to take Communion without weeping. I don't really know why. I've decided that when at some point I manage to not cry, it probably represents some kind of progress. Or maybe it just means I'm taking it more seriously than ever before. Who knows. 
+I mentioned in an earlier post that, courtesy of friend and vicar Thomas at my church, [I have a personal Communion about every other week](../2026-06-28-a-private-lockdown/index.md#communion), give or take. I can't be in church when everyone else is there. Too much breathing and potential for germ sharing. (My gym membership is suspended for similar reasons, with added sweat.) A chat with Thomas and taking bread and wine brings me some level of peace. Due to my diagnosis I've followed the medical advice of avoiding alcohol. There's been no beer or wine since March. Jesus's blood is the one exception I have allowed myself to this rule. Interestingly I haven't yet managed to take Communion without weeping. I don't really know why. I've decided that when at some point I manage to not cry, it probably represents some kind of progress. Or maybe it just means I'm taking it more seriously than ever before. Who knows. 
 
 I walk regularly with friends and family. That is my social life. People send me a note and say "fancy a walk?" I say: yes! As long as I'm not having treatment, I'll get out there and I will walk and talk and feel glad of the company. Today I walked 28,000 steps, much of that with a friend. We climbed up Richmond Hill and looked out over the view. They made me laugh. We talked. This feeds my soul.
 
@@ -82,7 +86,7 @@ Speaking of walking, each morning I get out there and see the sunrise. I go down
 
 This is a picture I took recently, on a misty morning. See how much you cannot see. 
 
-![Hammertons Ferry Terminal on a misty morning - you can't see a great deal](./misty-hammertons-ferry-terminal.jpg)
+![Hammertons Ferry Terminal on a misty morning - you can't see a great deal](./misty-hammertons-ferry-terminal.webp)
 
 The river, the island, the hill, the sun. You would not think they exist. Only what is directly in front of you is visible. This feels like an expression of my life right now. All those good things are still there. Still in front of me. But I'm finding it hard to see them. 
 
@@ -102,13 +106,13 @@ Let me change the record. Let me state facts, even if I struggle to treat them a
 
 We often don't appreciate what we have. We notice pain, we notice inconvenience. We don't notice the good stuff. You, the person reading this: my June, I don't know what your situation is. But there is so much goodness in your life and I implore you to notice it and appreciate it. 
 
-Food. It's good. Weather. It's good. Work. It's good. Friendship. It's good. The sun. It's good. Your faith, it's good. Children . They're wonderful. Good health. That's better than I ever appreciated. 
+Food. It's good. Weather. It's good. Work. It's good. Friendship. It's good. God: good. The sun. It's good. Children. They're wonderful. Good health. That's better than I ever appreciated. 
 
 "At least you've got your health." I used to be puzzled when people said that. I get it now. 
 
 This is a photograph from a walk with the family. It was the last day before autumn properly started feeling like autumn. It was lovely. It was a joy. It brought me life.
 
-![A photograph of the family on a hillside in Haslemere](./walk-in-haslemere.jpg)
+![A photograph of the family on a hillside in Haslemere](./walk-in-haslemere.webp)
 
 Get out there. Life is good, and if you get out there you'll see it. Maybe just for a moment. We can live on moments.
 
