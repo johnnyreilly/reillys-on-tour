@@ -47,6 +47,6 @@
     "node": ">=18.0"
   },
   "allowScripts": {
-    "@swc/core@1.15.47": true
+    "@swc/core": true
   }
 }
