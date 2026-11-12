@@ -26,7 +26,7 @@ For the purposes of this analogy, you are June. If you haven't watched that movi
 
 Technically, things are going well. I mean, I do have cancer. That isn't so great. But when we look past that, and to how my treatment is going. Well that's been pretty promising so far.
 
-The summer operation, whilst painful, was a success. My second round of chemotherapy is going straightforwardly (ish). My next operation is scheduled for the new year, and there is optimism that that could be the end of significant treatment. No guarantees; there are no guarantees possible. However, a good outcome, that's what the medics call it, remains a possibility. 
+[The summer operation, whilst painful, was a success](../2026-08-25-take-my-breath-away/index.md). My second round of chemotherapy is going straightforwardly (ish). My next operation is scheduled for the new year, and there is optimism that that could be the end of significant treatment. No guarantees; there are no guarantees possible. However, a good outcome, that's what the medics call it, remains a possibility. 
 
 I know this. But.
 
