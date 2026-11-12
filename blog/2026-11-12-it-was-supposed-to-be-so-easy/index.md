@@ -10,7 +10,7 @@ slug: it-was-supposed-to-be-so-easy
 
 Cobblers. It wasn't. 
 
-There's a classic film called "A Matter of Life and Death". It was made before I was born. Before my parents were born. At the start you see Squadron Leader Peter Carter flying a damaged Lancaster bomber back to England. He thinks he's going to die, and before he dies, he has a final conversation over the radio with a lady named June. He bails out of the plane, and believes that will be it. He's falling to his death.
+There's a classic film called "*A Matter of Life and Death*". It was made before I was born. Before my parents were born. At the start you see Squadron Leader Peter Carter flying a damaged Lancaster bomber back to England. He thinks he's going to die, and before he dies, he has a final conversation over the radio with a lady named June. He bails out of the plane, and believes that will be it. He's falling to his death.
 
 By the way, Peter and June fell in love in that short radio chat. It's beautiful. I love it. 
 
@@ -118,7 +118,7 @@ Get out there. Life is good, and if you get out there you'll see it. Maybe just 
 
 Every now and then I see how good life is. Not enough right now. But I will keep looking. And occasionally I will see. I will. Even if I find that hard to believe, it is true.
 
-At the start of this I mentioned "A Matter of Life and Death". A magnificent movie. Whether you identify with Squadron Leader Peter Carter or not, you should watch it. And spoilers be damned, Peter lives. As I hope to.
+At the start of this I mentioned "*A Matter of Life and Death*". A magnificent movie. Whether you identify with Squadron Leader Peter Carter or not, you should watch it. And spoilers be damned, Peter lives. As I hope to.
 
 ---
 
